@@ -1,0 +1,497 @@
+/* QILY-CN-BRIEF-VISUAL-PARITY-V1 | 2026-10-11
+ * Late China-only guard for the international curated-brief semantic layout.
+ * The source's original cards, flowcharts, formulas, headings and responsive
+ * visual structures are retained. CN navigation/footer/legal remain CN-owned.
+ */
+body[data-qily-brief-parity="v1"]{--qily-forest:#0f4b5a;--qily-deep:#073c47;--qily-teal:#178b94;--qily-paper:#eef7f5;--qily-ink:#182420;--qily-line:#d5e4e3;--qily-gold:#ffe39b}
+body[data-qily-brief-parity="v1"] main.qily-cn-brief-parity,
+body[data-qily-brief-parity="v1"] main[data-qily-knowledge-brief]{width:100%;max-width:100%;margin:0;padding:0;box-sizing:border-box}
+body[data-qily-brief-parity="v1"] main :is(.module-inner,.daily-inner){width:min(1180px,calc(100% - 30px));max-width:1180px;min-width:0;margin-inline:auto;box-sizing:border-box}
+body[data-qily-brief-parity="v1"] main .module-hero{padding:36px clamp(18px,4vw,58px);color:#fff;background:linear-gradient(125deg,#0f4b5a,#177f87)}
+body[data-qily-brief-parity="v1"] main .module-hero h1{margin:8px 0;line-height:1.14}
+body[data-qily-brief-parity="v1"] main .module-eyebrow{color:#ffe39b;font-size:18px;font-weight:400}
+body[data-qily-brief-parity="v1"] main .module-lead{margin:0;color:#e8f6f3;line-height:1.7}
+body[data-qily-brief-parity="v1"] main .module-section{padding:clamp(42px,6vw,78px) clamp(18px,4vw,58px);background:#fff;border-bottom:1px solid #d5e4e3;scroll-margin-top:84px}
+body[data-qily-brief-parity="v1"] main .module-section.alt{background:#eef5f2}
+body[data-qily-brief-parity="v1"] main .module-heading{max-width:none;margin-bottom:28px}
+body[data-qily-brief-parity="v1"] main .module-heading h2{color:#0f4b5a;line-height:1.2}
+body[data-qily-brief-parity="v1"] main .daily-hero{padding:clamp(34px,5vw,62px) clamp(18px,4vw,58px);color:#fff;background:linear-gradient(125deg,#0f4b5a,#177f87)}
+body[data-qily-brief-parity="v1"] main .daily-single-section{padding:clamp(38px,6vw,72px) clamp(18px,4vw,58px);background:#eef7f5}
+body[data-qily-brief-parity="v1"] main :is(img,svg){max-width:100%;height:auto}
+body[data-qily-brief-parity="v1"] main :is(.table-scroll,.matrix-scroll,.data-table-scroll,.load-table-wrap){max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+body[data-qily-brief-parity="v1"] main :is(.formula-grid,.plan-chain,.resource-map,.brief-one-point-grid,.owner-grid,.brief-learning-grid)>*{min-width:0}
+body[data-qily-brief-parity="v1"] main :is(.plan-chain,.resource-map,.formula-grid,.net-demand-visual,.engineering-flow){max-width:100%;overflow-x:auto}
+body[data-qily-brief-parity="v1"] main a{overflow-wrap:anywhere}
+body[data-qily-brief-parity="v1"] .site-header,body[data-qily-brief-parity="v1"] .footer{font-family:inherit}
+@media(max-width:760px){
+body[data-qily-brief-parity="v1"] main .module-section{padding:30px 15px}
+body[data-qily-brief-parity="v1"] main :is(.module-inner,.daily-inner){width:100%;max-width:100%}
+body[data-qily-brief-parity="v1"] main :is(.plan-chain,.resource-map){flex-wrap:wrap}
+body[data-qily-brief-parity="v1"] main :is(.plan-chain,.resource-map)>div{flex:1 1 43%}
+}
+
+/* QILY-NPI-HIGH-CONTRAST-20261011 | screenshot-driven visual QA.
+ * Retain 20-week engineering detail rather than crushing cells to fit.
+ * Fix translucent tags, weak navigation buttons and low-contrast chips.
+ */
+body[data-qily-brief-parity="v1"] main .npi-series{max-width:100%;min-width:0}
+body[data-qily-brief-parity="v1"] main .npi-stage-roadmap,
+body[data-qily-brief-parity="v1"] main .npi-gate-grid,
+body[data-qily-brief-parity="v1"] main .npi-kpi{max-width:100%;min-width:0}
+body[data-qily-brief-parity="v1"] main .npi-series-nav{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:20px 0}
+body[data-qily-brief-parity="v1"] main .npi-series-nav a{color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;background:#fff!important;border:1px solid #8caeaa!important;border-radius:999px;text-decoration:none!important;font-weight:600!important;opacity:1!important;box-shadow:none!important}
+body[data-qily-brief-parity="v1"] main .npi-series-nav a[aria-current="page"]{color:#fff!important;-webkit-text-fill-color:#fff!important;background:#0f4b5a!important;border-color:#0f4b5a!important}
+body[data-qily-brief-parity="v1"] main .tags{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0;align-items:center}
+body[data-qily-brief-parity="v1"] main .tags .tag{display:inline-flex;align-items:center;padding:7px 12px;border-radius:999px;border:1px solid #b2ccc7!important;background:#f0f7f4!important;color:#254a49!important;-webkit-text-fill-color:#254a49!important;opacity:1!important;font-weight:500!important;text-shadow:none!important;box-shadow:none!important}
+body[data-qily-brief-parity="v1"] main .npi-gantt{max-width:100%;width:100%;min-width:0;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-gutter:stable;box-sizing:border-box}
+body[data-qily-brief-parity="v1"] main .npi-gantt-table{width:max-content;min-width:1150px}
+body[data-qily-brief-parity="v1"] main .npi-gantt::after{content:"← 横向滚动查看完整 20 周甘特图 →";display:block;padding-top:10px;color:#486664;font-size:14px;line-height:1.5;letter-spacing:.01em}
+body[data-qily-brief-parity="v1"] main .npi-standard-map{color:#304a48!important;background:#f3f8f5!important;border-color:#a8c1bc!important}
+body[data-qily-brief-parity="v1"] main .npi-standard-map strong{color:#0f4b5a!important}
+@media(max-width:760px){
+body[data-qily-brief-parity="v1"] main .npi-series-nav a{min-height:38px;display:inline-flex;align-items:center}
+body[data-qily-brief-parity="v1"] main .npi-gantt{padding:12px}
+}
+
+/* QILY-CN-BRIEF-READING-STANDARD-V2 | 2026-10-11
+ * The international content styles are scoped to main by the materializer.
+ * This final CN authority supplies the missing content components, one real
+ * hero and a consistent type hierarchy without changing the CN site shell.
+ * The repeated unique main ID outranks source rules with authored article IDs.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main{
+  --qily-copper:#c8a25a;--qily-plum:#8e5950;
+  --qily-brief-font-h1:clamp(30px,2.2vw,36px);
+  --qily-brief-font-h2:28px;--qily-brief-font-h3:24px;
+  --qily-brief-font-lead:20px;--qily-brief-font-body:20px;
+  --qily-brief-font-small:18px;
+  padding:0!important;width:100%!important;max-width:none!important;overflow:visible!important;
+  color:#182420;background:#eef7f5;font-size:20px;line-height:1.75;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main::before,
+html:root:root:root body[data-qily-brief-parity] #main#main#main::after,
+html:root:root:root body[data-qily-brief-parity] #main#main#main .knowledge-brief-top-nav::before{content:none!important;display:none!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.module-inner,.daily-inner){width:min(1180px,100%)!important;max-width:1180px!important;min-width:0;margin-inline:auto!important;box-sizing:border-box}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.knowledge-brief-top-nav,.knowledge-brief-hero,.knowledge-brief-map,.knowledge-brief-section,.daily-hero,.daily-single-section){padding-inline:var(--qily-content-axis-gutter,18px)!important;box-sizing:border-box}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .knowledge-brief-top-nav{padding-block:20px!important;background:#eef7f5!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.module-hero,.knowledge-brief-hero,.daily-hero){padding-block:36px!important;background:linear-gradient(118deg,#073c47,#0f4b5a 55%,#178b94)!important;color:#fff!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .knowledge-brief-hero>.module-inner{padding:0!important;border:0!important;border-radius:0!important;background:transparent!important;box-shadow:none!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.module-hero,.knowledge-brief-hero,.daily-hero) :is(h1,p,.module-lead,.lean-brief-date,time){color:#f4fbfa!important;-webkit-text-fill-color:#f4fbfa!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.module-eyebrow,.eyebrow,.kicker){display:block!important;width:auto!important;margin:0 0 12px!important;padding:0!important;border:0!important;border-radius:0!important;background:transparent!important;color:#85601f!important;-webkit-text-fill-color:#85601f!important;font-size:21px!important;font-weight:400!important;line-height:1.45!important;letter-spacing:.02em!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.module-hero,.knowledge-brief-hero,.daily-hero) :is(.module-eyebrow,.eyebrow,.kicker){color:#ffe39b!important;-webkit-text-fill-color:#ffe39b!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main h1{margin:8px 0 18px!important;font-size:var(--qily-brief-font-h1)!important;line-height:1.3!important;letter-spacing:0!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main h2{font-size:var(--qily-brief-font-h2)!important;line-height:1.4!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main h3{font-size:var(--qily-brief-font-h3)!important;line-height:1.45!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main h4{font-size:22px!important;line-height:1.5!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(h1,h2,h3,h4) :is(span,strong,b,a){font-size:inherit!important;line-height:inherit!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(p,li,td,th,dt,dd,blockquote){font-size:20px!important;line-height:1.75!important;overflow-wrap:break-word}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(p,li,td,th) :is(span,strong,b,em,a,code){font-size:inherit!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(figcaption,.date,time,.tag,small){font-size:18px!important;line-height:1.6!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.module-section,.knowledge-brief-section){padding-block:32px!important;scroll-margin-top:170px}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-heading{width:100%;max-width:none;margin-bottom:20px}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-grid{display:grid;gap:18px;min-width:0}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-grid.two{grid-template-columns:repeat(2,minmax(0,1fr))}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-grid.three{grid-template-columns:repeat(3,minmax(0,1fr))}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-grid.four{grid-template-columns:repeat(4,minmax(0,1fr))}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-grid>*{min-width:0}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-card{min-width:0;padding:24px;border:1px solid #d5e4e3;border-top:4px solid #178b94;border-radius:12px;background:#fff;box-shadow:0 6px 20px rgba(15,75,90,.06);overflow-wrap:break-word}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-card:nth-child(2n){border-top-color:#c8a25a}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-card:nth-child(3n){border-top-color:#8e5950}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-card :is(h2,h3){margin:6px 0 14px!important;color:#0f4b5a}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-card p{margin:0 0 14px!important;color:#526967}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-card small{display:block;margin-bottom:8px;color:#85601f}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:9px 16px;border:1px solid #0f4b5a;border-radius:8px;background:#0f4b5a;color:#fff!important;-webkit-text-fill-color:#fff!important;text-decoration:none}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-actions a.secondary{background:#fff;color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .module-note{margin-top:18px;padding:16px 18px;border-left:4px solid #c8a25a;background:#fff9ed;color:#183b40}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.lean-brief-toc,.knowledge-brief-map .module-inner){display:flex!important;flex-wrap:wrap;gap:10px;padding-block:20px}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-brief-toc{width:min(1180px,calc(100% - 2 * var(--qily-content-axis-gutter,18px)))!important;margin-inline:auto!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.lean-brief-toc,.knowledge-brief-map) a{flex:1 1 140px;min-width:0;min-height:44px;padding:10px 14px;border:1px solid #b2ccc7;border-radius:8px;background:#fff;color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;text-decoration:none;line-height:1.5!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main table.lean-brief-table,
+html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-brief-table>table{width:100%;border-collapse:collapse;background:#fff}
+html:root:root:root body[data-qily-brief-parity] #main#main#main div.lean-brief-table{width:100%!important;max-width:100%!important;min-width:0!important;overflow-x:auto!important;overscroll-behavior-inline:contain}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-brief-table :is(th,td){padding:14px 16px;border:1px solid #d5e4e3;text-align:left;vertical-align:top}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-brief-table th{background:#eef7f5!important;color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll{display:block;max-width:100%;min-width:0;margin-block:20px;overflow-x:auto;overscroll-behavior-inline:contain;-webkit-overflow-scrolling:touch}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll:focus-visible{outline:3px solid #c8a25a;outline-offset:3px}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll>table{width:100%!important;min-width:640px!important;margin:0!important;border-collapse:collapse!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll :is(th,td){padding:14px 16px!important;border:1px solid #d5e4e3!important;text-align:left;vertical-align:top}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll th{background:#eef7f5!important;color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll td{background:#fff!important;color:#526967!important;-webkit-text-fill-color:#526967!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.table-scroll,.matrix-scroll,.data-table-scroll,.load-table-wrap,.npi-gantt){max-width:100%;overflow-x:auto;overscroll-behavior-inline:contain}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .post>.content{width:100%!important;max-width:none!important;min-width:0!important;margin-inline:0!important;box-sizing:border-box}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-adjacent{width:100%!important;max-width:1180px!important;margin-inline:auto!important;gap:10px!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(img,svg,video){max-width:100%;height:auto}
+html:root:root:root body[data-qily-brief-parity] #main#main#main a:focus-visible{outline:3px solid #c8a25a!important;outline-offset:3px}
+@media(max-width:980px){
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .module-grid:is(.three,.four){grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:620px){
+  html:root:root:root body[data-qily-brief-parity] #main#main#main{--qily-brief-font-h1:30px;--qily-brief-font-h2:26px;--qily-brief-font-h3:23px}
+  html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.module-section,.knowledge-brief-section){padding-block:24px!important}
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .module-grid:is(.two,.three,.four){grid-template-columns:1fr}
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .module-card{padding:20px 18px}
+  html:root:root:root body[data-qily-brief-parity] #main#main#main table.lean-brief-table,
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-brief-table>table{min-width:640px}
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-adjacent{display:flex!important;flex-wrap:wrap!important}
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-adjacent>a:not(.directory),
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-adjacent>span{flex:1 1 40%!important;min-width:0!important;width:auto!important;white-space:normal!important}
+}
+
+/* QILY-CN-BRIEF-TYPE-PARITY-V5 | 2026-10-12
+ * Close the gaps left by bespoke authored checklist spans and pagination
+ * anchors in the 381-issue archive. Only article main is affected; keep
+ * hero headings, numbered badges, evidence diagrams and CN shell intact.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main .tripod-checklist{font-size:20px!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .tripod-checklist>div>span{font-size:20px!important;line-height:1.75!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-adjacent>a{font-size:20px!important;line-height:1.5!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-adjacent>a.directory{font-size:20px!important}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .tripod-closing>span{font-size:20px!important;line-height:1.6!important}
+
+/* QILY-CN-BRIEF-ROLE-TYPE-PARITY-V14 | 2026-10-15
+ * Use the international 2026-09-04 role panel hierarchy (h3: 19-22px,
+ * supporting copy: 16px); retain the China-site 18px caption floor.
+ * Keep its original dark gradient, geometry, gold color and responsive grid;
+ * never touch site shell, general briefs, archive indexes or legal footer.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-topic-statement{
+  display:grid!important;grid-template-columns:minmax(0,1.45fr) minmax(250px,.55fr)!important;
+  align-items:stretch!important;gap:18px!important;min-width:0!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-topic-statement>*{
+  min-width:0!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-role-shift{
+  display:grid!important;place-content:center!important;
+  align-items:stretch!important;gap:12px!important;min-width:0!important;
+  min-height:100%!important;padding:28px!important;border:1px solid #0f4b5a!important;
+  border-radius:12px!important;background:linear-gradient(145deg,#073c47,#0f4b5a 60%,#126d77)!important;
+  color:#f4fbfa!important;-webkit-text-fill-color:#f4fbfa!important;
+  box-shadow:0 8px 22px rgba(7,60,71,.12)!important;opacity:1!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-role-shift small{
+  color:#ffe39b!important;-webkit-text-fill-color:#ffe39b!important;
+  font-size:18px!important;line-height:1.5!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-role-shift strong{
+  display:block!important;width:100%!important;color:#ffe39b!important;
+  -webkit-text-fill-color:#ffe39b!important;
+  font-size:clamp(19px,1.25vw,22px)!important;line-height:1.45!important;
+  font-weight:600!important;word-break:keep-all!important;overflow-wrap:normal!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-role-shift span{
+  display:block!important;margin:0!important;color:#e8f6f3!important;
+  -webkit-text-fill-color:#e8f6f3!important;
+  font-size:16px!important;line-height:1.65!important;
+}
+/* Source hero is dark after mirror parity. Never apply a white-card breadcrumb
+ * label color (#0f4b5a) to this dark teal background.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main .knowledge-brief-hero .knowledge-breadcrumbs{
+  color:#e8f6f3!important;-webkit-text-fill-color:#e8f6f3!important;
+  font-size:18px!important;line-height:1.5!important;opacity:1!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .knowledge-brief-hero .knowledge-breadcrumbs a{
+  color:#fff!important;-webkit-text-fill-color:#fff!important;opacity:1!important;
+  text-decoration-color:#ffe39b!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .knowledge-brief-hero .knowledge-breadcrumbs span[aria-hidden="true"]{
+  color:#ffe39b!important;-webkit-text-fill-color:#ffe39b!important;
+}
+/* Keep the same China-site VI gold 21px labels on every cloned module.
+ * Titles themselves remain teal so page hierarchy stays intact.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main .knowledge-brief-section .module-heading>.module-eyebrow{
+  color:#85601f!important;-webkit-text-fill-color:#85601f!important;
+  font-size:21px!important;font-weight:400!important;line-height:1.45!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .w8 .scene{
+  container-type:inline-size;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .w8 .scene-flow>.node{
+  min-width:0!important;overflow-wrap:normal!important;word-break:keep-all!important;
+}
+@container (max-width:620px){
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .w8 .scene-flow{
+    grid-template-columns:minmax(0,1fr)!important;gap:8px!important;
+  }
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .w8 .scene-flow>.node{
+    min-height:65px!important;padding:12px 16px!important;
+  }
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .w8 .scene-flow>.scene-arrow{
+    min-height:22px!important;transform:rotate(90deg)!important;
+  }
+}
+@media(max-width:800px){
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-topic-statement{
+    grid-template-columns:1fr!important;
+  }
+  html:root:root:root body[data-qily-brief-parity] #main#main#main .brief-role-shift{
+    min-height:0!important;padding:22px!important;
+  }
+}
+
+/* QILY-CN-BRIEF-TWO-COLUMN-READABILITY-V7 | 2026-10-12
+ * Fix full archive (not one screenshot): short comparison keys should not wrap,
+ * and the evidence column must consume the remaining reading width.
+ * Scope to cloned article tables only; preserve all 3+ column engineering tables,
+ * the CN site shell and the legal footer.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(2):last-child),
+html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-brief-table>table:has(>thead>tr:first-child>:nth-child(2):last-child){
+  table-layout:auto!important;width:100%!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(2):last-child) tr>:first-child,
+html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-brief-table>table:has(>thead>tr:first-child>:nth-child(2):last-child) tr>:first-child{
+  width:1%!important;min-width:0!important;white-space:nowrap!important;
+  word-break:keep-all!important;overflow-wrap:normal!important;
+  vertical-align:top!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(2):last-child) tr>:nth-child(2),
+html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-brief-table>table:has(>thead>tr:first-child>:nth-child(2):last-child) tr>:nth-child(2){
+  width:auto!important;white-space:normal!important;word-break:normal!important;
+  overflow-wrap:break-word!important;
+}
+/* Keep cramped handset views scrollable at the established 640px comparison width.
+ * Preserve full-scale body text instead of shrinking it to force a fit. */
+
+/* QILY-CN-BRIEF-THREE-COLUMN-CONTENT-FIT-V8 | 2026-10-12
+ * Screenshot parity for "核心工作 / 需要建立的内容 / 应当回答的问题":
+ * legacy fixed-layout tables distribute each column 1/3, wasting the short
+ * label column and forcing the two text columns to wrap prematurely.
+ * Apply only to actual three-column curated-brief comparison tables, not
+ * complex 4+ column data matrices, site shell or CN compliance footer.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll,.lean-brief-table)>table:has(>thead>tr:first-child>:nth-child(3):last-child){
+  table-layout:auto!important;width:100%!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll,.lean-brief-table)>table:has(>thead>tr:first-child>:nth-child(3):last-child) tr>:first-child{
+  width:1%!important;min-width:0!important;max-width:none!important;
+  white-space:nowrap!important;word-break:keep-all!important;
+  overflow-wrap:normal!important;vertical-align:top!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll,.lean-brief-table)>table:has(>thead>tr:first-child>:nth-child(3):last-child) tr>:nth-child(2),
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll,.lean-brief-table)>table:has(>thead>tr:first-child>:nth-child(3):last-child) tr>:nth-child(3){
+  width:auto!important;white-space:normal!important;word-break:normal!important;
+  overflow-wrap:break-word!important;vertical-align:top!important;
+}
+/* Mobile: retain the approved 640px minimum inner table plus a focusable
+ * horizontal scroll region; never shrink text to cram it into the viewport. */
+
+/* QILY-CN-BRIEF-INTL-COMPARISON-SURFACE-V10 | 2026-10-12
+ * Match the international source's deep-teal comparison header, alternating
+ * lightweight row surfaces and compact spacing, without touching 4+ column
+ * engineering matrices, colored process diagrams, CN shell or legal footer.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.lean-brief-table table,table.lean-brief-table):is(:has(>thead>tr:first-child>:nth-child(2):last-child),:has(>thead>tr:first-child>:nth-child(3):last-child)){
+  table-layout:auto!important;width:100%!important;border-collapse:collapse!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.lean-brief-table table,table.lean-brief-table):is(:has(>thead>tr:first-child>:nth-child(2):last-child),:has(>thead>tr:first-child>:nth-child(3):last-child)) thead th{
+  padding:12px!important;text-align:center!important;
+  color:#fff!important;-webkit-text-fill-color:#fff!important;
+  background:#0f4b5a!important;opacity:1!important;font-weight:600!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.lean-brief-table table,table.lean-brief-table):is(:has(>thead>tr:first-child>:nth-child(2):last-child),:has(>thead>tr:first-child>:nth-child(3):last-child)) tbody td{
+  padding:12px!important;vertical-align:middle!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.lean-brief-table table,table.lean-brief-table):is(:has(>thead>tr:first-child>:nth-child(2):last-child),:has(>thead>tr:first-child>:nth-child(3):last-child)) tbody tr:nth-child(even)>td{
+  background:#f4faf8!important;
+}
+@media(max-width:700px){
+  /* Scroll dense tables internally on phones; never shrink reading text. */
+  html:root:root:root body[data-qily-brief-parity] #main#main#main
+  .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(3):last-child){
+    min-width:860px!important;
+  }
+}
+
+/* QILY-CN-BRIEF-LEGACY-TAG-CONTRAST-V12 | 2026-10-13
+ * The cloned 2025/2026 brief inline style uses a broad .tag {color:#fff!important}
+ * rule with stronger specificity than earlier CN tag guards. Reassert contrast
+ * only for informational tags inside light .tags rows; keep dark process badges
+ * and branded content artwork untouched. Hide empty legacy share-status ghosts.
+ */
+html:root:root:root body[data-qily-brief-parity="v1"] #main#main#main
+article.post .tags>.tag,
+html:root:root:root body[data-qily-brief-parity="v1"] #main#main#main
+article.post .tags>.tag :is(span,strong,small,b){
+  color:#254a49!important;
+  -webkit-text-fill-color:#254a49!important;
+  background:#f0f7f4!important;
+  border-color:#b2ccc7!important;
+  opacity:1!important;
+  text-shadow:none!important;
+  mix-blend-mode:normal!important;
+}
+html:root:root:root body[data-qily-brief-parity="v1"] #main#main#main
+article.post .status:empty{
+  display:none!important;
+}
+
+/* QILY-CN-20261015-DIAGRAM-IMAGE-CONTRAST | Mirrors the original VI.
+ * Fix authored numbered steps and contain engineering diagrams only;
+ * do not recolor CN navigation, badges, photos, or statutory footer.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main .lean-delivery-brief .flow-step>b{
+  color:#fff!important;-webkit-text-fill-color:#fff!important;
+  opacity:1!important;text-shadow:none!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main :is(.brief-scene-figure-v1,.knowledge-visual,.engineering-flow) img{
+  display:block;max-width:100%!important;height:auto!important;
+  object-fit:contain!important;
+}
+
+/* QILY-CN-BRIEF-DENSE-TABLE-READABILITY-V11 | 2026-10-12
+ * Keep four-or-more-column engineering matrices readable at the normal 20px
+ * article size. The focusable table region owns any horizontal overflow;
+ * short directions and technical names must not be split at arbitrary letters.
+ * Two- and three-column comparison contracts above remain unchanged.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll>table,table.lean-brief-table):has(>thead>tr:first-child>:nth-child(4)){
+  table-layout:auto!important;width:100%!important;min-width:960px!important;
+  border-collapse:collapse!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll>table,table.lean-brief-table):has(>thead>tr:first-child>:nth-child(5)){
+  min-width:1120px!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll>table,table.lean-brief-table):has(>thead>tr:first-child>:nth-child(6)){
+  min-width:1180px!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll>table,table.lean-brief-table):has(>thead>tr:first-child>:nth-child(4)) :is(th,td){
+  padding:12px!important;line-height:1.6!important;vertical-align:top!important;
+  word-break:normal!important;overflow-wrap:normal!important;hyphens:none!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll>table,table.lean-brief-table):has(>thead>tr:first-child>:nth-child(4)) thead th{
+  white-space:nowrap!important;background:#0f4b5a!important;
+  color:#fff!important;-webkit-text-fill-color:#fff!important;font-weight:600!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+:is(.qily-brief-table-scroll>table,table.lean-brief-table):has(>thead>tr:first-child>:nth-child(4)) tbody tr:nth-child(even)>td{
+  background:#f4faf8!important;
+}
+/* QILY-CN-WASTE-MATRIX-2026-08-25-V2
+ * Keep the waste category as a compact first column; distribute the remaining
+ * four improvement columns evenly at 22.5% each on the same 1120px canvas.
+ */
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+article[id="2026-08-25"].w8 .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(5):last-child){
+  table-layout:fixed!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+article[id="2026-08-25"].w8 .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(5):last-child) tr>:nth-child(1){
+  width:10%!important;white-space:nowrap!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+article[id="2026-08-25"].w8 .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(5):last-child) tr>:nth-child(2){
+  width:22.5%!important;white-space:normal!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+article[id="2026-08-25"].w8 .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(5):last-child) tr>:nth-child(3){
+  width:22.5%!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+article[id="2026-08-25"].w8 .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(5):last-child) tr>:nth-child(4){
+  width:22.5%!important;
+}
+html:root:root:root body[data-qily-brief-parity] #main#main#main
+article[id="2026-08-25"].w8 .qily-brief-table-scroll>table:has(>thead>tr:first-child>:nth-child(5):last-child) tr>:nth-child(5){
+  width:22.5%!important;
+}
+
+/* QILY-CN-BRIEF-HEADER-PARITY-20261019
+ * International curated-brief sample is the VI authority for knowledge briefs.
+ * Restore the international top banner, navigation order and WHITE article
+ * hero without touching the original article, media, translation or CN footer.
+ * Scope is intentionally limited to source pages that use knowledge-brief.
+ */
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main[data-qily-knowledge-brief]{
+  position:relative!important;
+  padding-top:184px!important;
+  background:#eef7f5!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main[data-qily-knowledge-brief]::before{
+  content:"CURATED ENGINEERING BRIEF"!important;display:block!important;
+  position:absolute!important;z-index:1!important;top:0!important;left:0!important;
+  width:100%!important;height:184px!important;box-sizing:border-box!important;
+  padding:22px max(18px,calc((100% - 1180px)/2)) 0!important;
+  color:#fff!important;-webkit-text-fill-color:#fff!important;
+  background:linear-gradient(102deg,#073c47 0%,#0f4b5a 48%,#168b94 100%)!important;
+  font-size:14px!important;font-weight:950!important;line-height:1.2!important;letter-spacing:.10em!important;
+  pointer-events:none!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main[data-qily-knowledge-brief]::after{
+  content:"精选简报"!important;display:block!important;position:absolute!important;
+  z-index:2!important;top:54px!important;left:max(18px,calc((100% - 1180px)/2))!important;
+  color:#fff!important;-webkit-text-fill-color:#fff!important;
+  font-size:clamp(34px,3.2vw,48px)!important;font-weight:950!important;line-height:1!important;
+  letter-spacing:-.02em!important;pointer-events:none!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-top-nav{
+  position:static!important;
+  padding:clamp(28px,3vw,46px) clamp(18px,2.2vw,56px) 18px!important;
+  border:0!important;background:#eef7f5!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-top-nav[data-brief-meta]::before{
+  content:attr(data-brief-meta)!important;display:block!important;
+  position:absolute!important;top:112px!important;left:max(18px,calc((100% - 1180px)/2))!important;
+  z-index:3!important;color:#edf9f6!important;-webkit-text-fill-color:#edf9f6!important;
+  font-size:clamp(17px,1.5vw,20px)!important;font-weight:600!important;line-height:1.45!important;
+  pointer-events:none!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero{
+  overflow:visible!important;
+  padding:0 clamp(18px,2.2vw,56px) clamp(24px,2.5vw,36px)!important;
+  background:#eef7f5!important;
+  color:#0f4b5a!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero::after{display:none!important;content:none!important}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero>.module-inner{
+  box-sizing:border-box!important;
+  padding:clamp(28px,3.4vw,48px)!important;
+  border:1px solid #cfe0df!important;border-radius:28px!important;
+  background:#fff!important;box-shadow:0 16px 44px rgba(15,75,90,.085)!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero .module-eyebrow{
+  display:inline-flex!important;width:auto!important;margin:0 0 12px!important;
+  padding:7px 12px!important;border:1px solid #e4c885!important;border-radius:999px!important;
+  background:#fff7e4!important;color:#8b6830!important;-webkit-text-fill-color:#8b6830!important;
+  font-size:15px!important;font-weight:900!important;letter-spacing:.04em!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero h1{
+  max-width:none!important;margin:18px 0 14px!important;
+  color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;
+  font-size:clamp(28px,2.15vw,34px)!important;line-height:1.18!important;letter-spacing:-.02em!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero .module-lead{
+  margin:0!important;color:#3a5756!important;-webkit-text-fill-color:#3a5756!important;
+  font-size:clamp(18px,1.4vw,21px)!important;line-height:1.8!important;font-weight:650!important;
+}
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero .lean-brief-date,
+html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero .lean-brief-date time{
+  color:#182420!important;-webkit-text-fill-color:#182420!important;
+}
+@media(max-width:760px){
+  html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-top-nav{
+    padding:26px 18px 16px!important;
+  }
+  html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero{
+    padding:0 18px 24px!important;
+  }
+  html:root:root:root body.qily-knowledge-brief-page[data-qily-brief-parity] #main#main#main .knowledge-brief-hero>.module-inner{
+    padding:24px 18px!important;border-radius:18px!important;
+  }
+}

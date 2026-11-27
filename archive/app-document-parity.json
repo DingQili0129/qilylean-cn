@@ -1,0 +1,517 @@
+{
+  "version": "20261105-app-document-source-parity-v1",
+  "pages": [
+    {
+      "source": "legal/times26001/privacy/index.html",
+      "target": "legal/times26001/privacy/index.html",
+      "url": "/legal/times26001/privacy/",
+      "source_sha256": "6e11285053e9779e13e286983a16489175f18239b8b357d9904e6d1a422eca44",
+      "main_sha256": "dffc271cb9d7be980903c270ef99e4fd4b9d53a2acbf748b40f25d53f1024683",
+      "style_urls": [
+        "/assets/app-document-source/legal/app-legal.css?v=7e6175d55766",
+        "/assets/app-document-source/site-core-visual-bundle-v1.css?v=cd78e3f49e0b",
+        "/assets/app-document-source/site-visual-closure-v1.css?v=628e1bbe7083",
+        "/assets/app-document-source/site-visual-closure-v2.css?v=4edcf283767a",
+        "/assets/app-document-source/site-closure-bundle-v24.css?v=600aa08b2bca",
+        "/assets/app-document-source/site-visual-readability-v4.css?v=9e2d7b4b38f9",
+        "/assets/app-document-source/site-hero-primary-contrast-v1.css?v=03e81c852808",
+        "/assets/app-document-source/site-interaction-continuity-v1.css?v=3d81be7f4252",
+        "/assets/app-document-source/site-visual-governance-v2.css?v=5958a9294bab",
+        "/assets/app-document-source/site-content-axis-v1.css?v=2685a434a5f5",
+        "/assets/app-document-source/site-floating-dock-standard-v1.css?v=627c7deaa89a",
+        "/assets/app-document-source/site-contact-field-hierarchy-v1.css?v=cecc9ccf9eac",
+        "/assets/app-document-source/site-vi-standard-v1.css?v=c596ecec9622",
+        "/assets/app-document-source/site-floating-dock-gold-v1.css?v=6a833d667c40",
+        "/assets/app-document-source/site-header-axis-v1.css?v=b547ec94a477",
+        "/assets/app-document-source/site-interaction-contrast-guard-v1.css?v=217dcb5a931d",
+        "/assets/app-document-source/site-content-contrast-guard-v1.css?v=e7a630f8d744",
+        "/assets/app-document-source/site-unified-visual-governance-v1.css?v=a00bc848fdc3",
+        "/assets/app-document-source/site-visual-regression-closure-v1.css?v=d47963c3851b",
+        "/assets/app-document-source/site-stability-recovery-v1.css?v=add22989d84a",
+        "/assets/app-document-source/site-public-redline-closure-v1.css?v=0b94f7eeb59f",
+        "/assets/app-document-source/site-public-redline-closure-v2.css?v=65870423d0fc",
+        "/assets/app-document-source/site-interaction-semantics-v1.css?v=aee96dd337d9",
+        "/assets/app-document-source/site-visual-system-v2.css?v=329658e89bc2",
+        "/assets/app-document-source/site-responsive-containment-v1.css?v=02dfce7490c4",
+        "/assets/app-document-source/site-header-project-integrity-v2.css?v=e063afc4fc76",
+        "/assets/app-document-source/site-visual-components-v1.css?v=7eb3dc7d0406",
+        "/assets/app-document-source/site-brand-home-feedback-v1.css?v=9c1c9fdfd1a4",
+        "/assets/app-document-source/site-translation-public-ui-v1.css?v=df338f75aba1",
+        "/assets/app-document-source/site-visual-readability-v5.css?v=7855ae7b2af4",
+        "/assets/app-document-source/site-vi-standard-v4.css?v=1b96ae1f0b57",
+        "/assets/app-document-source/site-visual-authority-r8.css?v=969f61e29b92"
+      ],
+      "inline_css_sha256": "3bcf1146720c452594cd2c6a94f3db59c700cd0d3606b1b19cacd8aa140c051d",
+      "protected": {
+        "header_sha256": "b8b704cff75def0d7b8a4c0597636595b0c8ca39590091b0d5911ee11ad53df3",
+        "footer_sha256": "7fba2f643aa3f04dec9810a3601888ef6b80d53957e79dace01836aec36399dd",
+        "translator_resources": [
+          "<link id=\"qilyCnDomesticTranslateV1Stylesheet\" rel=\"stylesheet\" href=\"/assets/cn-translate-baidu-v1.css?v=20261017-cn-mainland-nmt-v2&header_sha=9ea7239c0ac3\">",
+          "<script defer src=\"/assets/cn-translate-baidu-v1.js?v=20261017-cn-mainland-nmt-v2&header_sha=63f95edd14c0\">"
+        ]
+      }
+    },
+    {
+      "source": "legal/times26001/terms/index.html",
+      "target": "legal/times26001/terms/index.html",
+      "url": "/legal/times26001/terms/",
+      "source_sha256": "3b7c68476279daa5cfe81da0be42fceada2e81f5987da9cc2d7949a4b84ba5e8",
+      "main_sha256": "d3db446acbef21026162af05fc9d409f17d1949796d8591c1eb95636ffe52a29",
+      "style_urls": [
+        "/assets/app-document-source/legal/app-legal.css?v=7e6175d55766",
+        "/assets/app-document-source/site-core-visual-bundle-v1.css?v=cd78e3f49e0b",
+        "/assets/app-document-source/site-visual-closure-v1.css?v=628e1bbe7083",
+        "/assets/app-document-source/site-visual-closure-v2.css?v=4edcf283767a",
+        "/assets/app-document-source/site-closure-bundle-v24.css?v=600aa08b2bca",
+        "/assets/app-document-source/site-visual-readability-v4.css?v=9e2d7b4b38f9",
+        "/assets/app-document-source/site-hero-primary-contrast-v1.css?v=03e81c852808",
+        "/assets/app-document-source/site-interaction-continuity-v1.css?v=3d81be7f4252",
+        "/assets/app-document-source/site-visual-governance-v2.css?v=5958a9294bab",
+        "/assets/app-document-source/site-content-axis-v1.css?v=2685a434a5f5",
+        "/assets/app-document-source/site-floating-dock-standard-v1.css?v=627c7deaa89a",
+        "/assets/app-document-source/site-contact-field-hierarchy-v1.css?v=cecc9ccf9eac",
+        "/assets/app-document-source/site-vi-standard-v1.css?v=c596ecec9622",
+        "/assets/app-document-source/site-floating-dock-gold-v1.css?v=6a833d667c40",
+        "/assets/app-document-source/site-header-axis-v1.css?v=b547ec94a477",
+        "/assets/app-document-source/site-interaction-contrast-guard-v1.css?v=217dcb5a931d",
+        "/assets/app-document-source/site-content-contrast-guard-v1.css?v=e7a630f8d744",
+        "/assets/app-document-source/site-unified-visual-governance-v1.css?v=a00bc848fdc3",
+        "/assets/app-document-source/site-visual-regression-closure-v1.css?v=d47963c3851b",
+        "/assets/app-document-source/site-stability-recovery-v1.css?v=add22989d84a",
+        "/assets/app-document-source/site-public-redline-closure-v1.css?v=0b94f7eeb59f",
+        "/assets/app-document-source/site-public-redline-closure-v2.css?v=65870423d0fc",
+        "/assets/app-document-source/site-interaction-semantics-v1.css?v=aee96dd337d9",
+        "/assets/app-document-source/site-visual-system-v2.css?v=329658e89bc2",
+        "/assets/app-document-source/site-responsive-containment-v1.css?v=02dfce7490c4",
+        "/assets/app-document-source/site-header-project-integrity-v2.css?v=e063afc4fc76",
+        "/assets/app-document-source/site-visual-components-v1.css?v=7eb3dc7d0406",
+        "/assets/app-document-source/site-brand-home-feedback-v1.css?v=9c1c9fdfd1a4",
+        "/assets/app-document-source/site-translation-public-ui-v1.css?v=df338f75aba1",
+        "/assets/app-document-source/site-visual-readability-v5.css?v=7855ae7b2af4",
+        "/assets/app-document-source/site-vi-standard-v4.css?v=1b96ae1f0b57",
+        "/assets/app-document-source/site-visual-authority-r8.css?v=969f61e29b92"
+      ],
+      "inline_css_sha256": "3bcf1146720c452594cd2c6a94f3db59c700cd0d3606b1b19cacd8aa140c051d",
+      "protected": {
+        "header_sha256": "b8b704cff75def0d7b8a4c0597636595b0c8ca39590091b0d5911ee11ad53df3",
+        "footer_sha256": "7fba2f643aa3f04dec9810a3601888ef6b80d53957e79dace01836aec36399dd",
+        "translator_resources": [
+          "<link id=\"qilyCnDomesticTranslateV1Stylesheet\" rel=\"stylesheet\" href=\"/assets/cn-translate-baidu-v1.css?v=20261017-cn-mainland-nmt-v2&header_sha=9ea7239c0ac3\">",
+          "<script defer src=\"/assets/cn-translate-baidu-v1.js?v=20261017-cn-mainland-nmt-v2&header_sha=63f95edd14c0\">"
+        ]
+      }
+    },
+    {
+      "source": "app-support/index.html",
+      "target": "app-support/index.html",
+      "url": "/app-support/",
+      "source_sha256": "0ec7707bd76384813bbbae9b1eee6286316eed4c1ad0ffd29dcd08d7e618fc3c",
+      "main_sha256": "b83e0b8fc2166f9cdcca866dba1c4ee3cd6065f1c514c2ccedd16c3554438dfa",
+      "style_urls": [
+        "/assets/app-document-source/legal/app-legal.css?v=7e6175d55766",
+        "/assets/app-document-source/site-core-visual-bundle-v1.css?v=cd78e3f49e0b",
+        "/assets/app-document-source/site-visual-closure-v1.css?v=628e1bbe7083",
+        "/assets/app-document-source/site-visual-closure-v2.css?v=4edcf283767a",
+        "/assets/app-document-source/site-closure-bundle-v24.css?v=600aa08b2bca",
+        "/assets/app-document-source/site-visual-readability-v4.css?v=9e2d7b4b38f9",
+        "/assets/app-document-source/site-hero-primary-contrast-v1.css?v=03e81c852808",
+        "/assets/app-document-source/site-interaction-continuity-v1.css?v=3d81be7f4252",
+        "/assets/app-document-source/site-visual-governance-v2.css?v=5958a9294bab",
+        "/assets/app-document-source/site-content-axis-v1.css?v=2685a434a5f5",
+        "/assets/app-document-source/site-floating-dock-standard-v1.css?v=627c7deaa89a",
+        "/assets/app-document-source/site-contact-field-hierarchy-v1.css?v=cecc9ccf9eac",
+        "/assets/app-document-source/site-vi-standard-v1.css?v=c596ecec9622",
+        "/assets/app-document-source/site-floating-dock-gold-v1.css?v=6a833d667c40",
+        "/assets/app-document-source/site-header-axis-v1.css?v=b547ec94a477",
+        "/assets/app-document-source/site-interaction-contrast-guard-v1.css?v=217dcb5a931d",
+        "/assets/app-document-source/site-content-contrast-guard-v1.css?v=e7a630f8d744",
+        "/assets/app-document-source/site-unified-visual-governance-v1.css?v=a00bc848fdc3",
+        "/assets/app-document-source/site-visual-regression-closure-v1.css?v=d47963c3851b",
+        "/assets/app-document-source/site-stability-recovery-v1.css?v=add22989d84a",
+        "/assets/app-document-source/site-public-redline-closure-v1.css?v=0b94f7eeb59f",
+        "/assets/app-document-source/site-public-redline-closure-v2.css?v=65870423d0fc",
+        "/assets/app-document-source/site-interaction-semantics-v1.css?v=aee96dd337d9",
+        "/assets/app-document-source/site-visual-system-v2.css?v=329658e89bc2",
+        "/assets/app-document-source/site-responsive-containment-v1.css?v=02dfce7490c4",
+        "/assets/app-document-source/site-header-project-integrity-v2.css?v=e063afc4fc76",
+        "/assets/app-document-source/site-visual-components-v1.css?v=7eb3dc7d0406",
+        "/assets/app-document-source/site-brand-home-feedback-v1.css?v=9c1c9fdfd1a4",
+        "/assets/app-document-source/site-translation-public-ui-v1.css?v=df338f75aba1",
+        "/assets/app-document-source/site-visual-readability-v5.css?v=7855ae7b2af4",
+        "/assets/app-document-source/site-vi-standard-v4.css?v=1b96ae1f0b57",
+        "/assets/app-document-source/site-visual-authority-r8.css?v=969f61e29b92"
+      ],
+      "inline_css_sha256": "3bcf1146720c452594cd2c6a94f3db59c700cd0d3606b1b19cacd8aa140c051d",
+      "protected": {
+        "header_sha256": "b8b704cff75def0d7b8a4c0597636595b0c8ca39590091b0d5911ee11ad53df3",
+        "footer_sha256": "7fba2f643aa3f04dec9810a3601888ef6b80d53957e79dace01836aec36399dd",
+        "translator_resources": [
+          "<link id=\"qilyCnDomesticTranslateV1Stylesheet\" rel=\"stylesheet\" href=\"/assets/cn-translate-baidu-v1.css?v=20261017-cn-mainland-nmt-v2&header_sha=9ea7239c0ac3\">",
+          "<script defer src=\"/assets/cn-translate-baidu-v1.js?v=20261017-cn-mainland-nmt-v2&header_sha=63f95edd14c0\">"
+        ]
+      }
+    },
+    {
+      "source": "app-support/index.html",
+      "target": "app-support/qilylean-cn-home/index.html",
+      "url": "/app-support/qilylean-cn-home/",
+      "source_sha256": "0ec7707bd76384813bbbae9b1eee6286316eed4c1ad0ffd29dcd08d7e618fc3c",
+      "main_sha256": "408c6625c273ddf55b19a7b18b4cacff7e1a92523b54129efb31d3848ed41bfd",
+      "style_urls": [
+        "/assets/app-document-source/legal/app-legal.css?v=7e6175d55766",
+        "/assets/app-document-source/site-core-visual-bundle-v1.css?v=cd78e3f49e0b",
+        "/assets/app-document-source/site-visual-closure-v1.css?v=628e1bbe7083",
+        "/assets/app-document-source/site-visual-closure-v2.css?v=4edcf283767a",
+        "/assets/app-document-source/site-closure-bundle-v24.css?v=600aa08b2bca",
+        "/assets/app-document-source/site-visual-readability-v4.css?v=9e2d7b4b38f9",
+        "/assets/app-document-source/site-hero-primary-contrast-v1.css?v=03e81c852808",
+        "/assets/app-document-source/site-interaction-continuity-v1.css?v=3d81be7f4252",
+        "/assets/app-document-source/site-visual-governance-v2.css?v=5958a9294bab",
+        "/assets/app-document-source/site-content-axis-v1.css?v=2685a434a5f5",
+        "/assets/app-document-source/site-floating-dock-standard-v1.css?v=627c7deaa89a",
+        "/assets/app-document-source/site-contact-field-hierarchy-v1.css?v=cecc9ccf9eac",
+        "/assets/app-document-source/site-vi-standard-v1.css?v=c596ecec9622",
+        "/assets/app-document-source/site-floating-dock-gold-v1.css?v=6a833d667c40",
+        "/assets/app-document-source/site-header-axis-v1.css?v=b547ec94a477",
+        "/assets/app-document-source/site-interaction-contrast-guard-v1.css?v=217dcb5a931d",
+        "/assets/app-document-source/site-content-contrast-guard-v1.css?v=e7a630f8d744",
+        "/assets/app-document-source/site-unified-visual-governance-v1.css?v=a00bc848fdc3",
+        "/assets/app-document-source/site-visual-regression-closure-v1.css?v=d47963c3851b",
+        "/assets/app-document-source/site-stability-recovery-v1.css?v=add22989d84a",
+        "/assets/app-document-source/site-public-redline-closure-v1.css?v=0b94f7eeb59f",
+        "/assets/app-document-source/site-public-redline-closure-v2.css?v=65870423d0fc",
+        "/assets/app-document-source/site-interaction-semantics-v1.css?v=aee96dd337d9",
+        "/assets/app-document-source/site-visual-system-v2.css?v=329658e89bc2",
+        "/assets/app-document-source/site-responsive-containment-v1.css?v=02dfce7490c4",
+        "/assets/app-document-source/site-header-project-integrity-v2.css?v=e063afc4fc76",
+        "/assets/app-document-source/site-visual-components-v1.css?v=7eb3dc7d0406",
+        "/assets/app-document-source/site-brand-home-feedback-v1.css?v=9c1c9fdfd1a4",
+        "/assets/app-document-source/site-translation-public-ui-v1.css?v=df338f75aba1",
+        "/assets/app-document-source/site-visual-readability-v5.css?v=7855ae7b2af4",
+        "/assets/app-document-source/site-vi-standard-v4.css?v=1b96ae1f0b57",
+        "/assets/app-document-source/site-visual-authority-r8.css?v=969f61e29b92"
+      ],
+      "inline_css_sha256": "3bcf1146720c452594cd2c6a94f3db59c700cd0d3606b1b19cacd8aa140c051d",
+      "protected": {
+        "header_sha256": "b8b704cff75def0d7b8a4c0597636595b0c8ca39590091b0d5911ee11ad53df3",
+        "footer_sha256": "93ff89a33d5341a64511a591b0abe2c26423b34b18d61bed6f8dbd8688e6364e",
+        "translator_resources": [
+          "<link id=\"qilyCnDomesticTranslateV1Stylesheet\" rel=\"stylesheet\" href=\"/assets/cn-translate-baidu-v1.css?v=20261017-cn-mainland-nmt-v2&header_sha=9ea7239c0ac3\">",
+          "<script defer src=\"/assets/cn-translate-baidu-v1.js?v=20261017-cn-mainland-nmt-v2&header_sha=63f95edd14c0\">"
+        ]
+      }
+    },
+    {
+      "source": "legal/qilylean-home/privacy/index.html",
+      "target": "legal/qilylean-cn-home/privacy/index.html",
+      "url": "/legal/qilylean-cn-home/privacy/",
+      "source_sha256": "c62c8790e4a1deb7924e8038df486dccebc7ec2ddf2e3bbd640514827aa20327",
+      "main_sha256": "d5880df60e8a34ce9cf37e0d0845495fdbc26955998247bbcf7f183dfe12aaab",
+      "style_urls": [
+        "/assets/app-document-source/legal/app-legal.css?v=7e6175d55766",
+        "/assets/app-document-source/site-core-visual-bundle-v1.css?v=cd78e3f49e0b",
+        "/assets/app-document-source/site-visual-closure-v1.css?v=628e1bbe7083",
+        "/assets/app-document-source/site-visual-closure-v2.css?v=4edcf283767a",
+        "/assets/app-document-source/site-closure-bundle-v24.css?v=600aa08b2bca",
+        "/assets/app-document-source/site-visual-readability-v4.css?v=9e2d7b4b38f9",
+        "/assets/app-document-source/site-hero-primary-contrast-v1.css?v=03e81c852808",
+        "/assets/app-document-source/site-interaction-continuity-v1.css?v=3d81be7f4252",
+        "/assets/app-document-source/site-visual-governance-v2.css?v=5958a9294bab",
+        "/assets/app-document-source/site-content-axis-v1.css?v=2685a434a5f5",
+        "/assets/app-document-source/site-floating-dock-standard-v1.css?v=627c7deaa89a",
+        "/assets/app-document-source/site-contact-field-hierarchy-v1.css?v=cecc9ccf9eac",
+        "/assets/app-document-source/site-vi-standard-v1.css?v=c596ecec9622",
+        "/assets/app-document-source/site-floating-dock-gold-v1.css?v=6a833d667c40",
+        "/assets/app-document-source/site-header-axis-v1.css?v=b547ec94a477",
+        "/assets/app-document-source/site-interaction-contrast-guard-v1.css?v=217dcb5a931d",
+        "/assets/app-document-source/site-content-contrast-guard-v1.css?v=e7a630f8d744",
+        "/assets/app-document-source/site-unified-visual-governance-v1.css?v=a00bc848fdc3",
+        "/assets/app-document-source/site-visual-regression-closure-v1.css?v=d47963c3851b",
+        "/assets/app-document-source/site-stability-recovery-v1.css?v=add22989d84a",
+        "/assets/app-document-source/site-public-redline-closure-v1.css?v=0b94f7eeb59f",
+        "/assets/app-document-source/site-public-redline-closure-v2.css?v=65870423d0fc",
+        "/assets/app-document-source/site-interaction-semantics-v1.css?v=aee96dd337d9",
+        "/assets/app-document-source/site-visual-system-v2.css?v=329658e89bc2",
+        "/assets/app-document-source/site-responsive-containment-v1.css?v=02dfce7490c4",
+        "/assets/app-document-source/site-header-project-integrity-v2.css?v=e063afc4fc76",
+        "/assets/app-document-source/site-visual-components-v1.css?v=7eb3dc7d0406",
+        "/assets/app-document-source/site-brand-home-feedback-v1.css?v=9c1c9fdfd1a4",
+        "/assets/app-document-source/site-translation-public-ui-v1.css?v=df338f75aba1",
+        "/assets/app-document-source/site-visual-readability-v5.css?v=7855ae7b2af4",
+        "/assets/app-document-source/site-vi-standard-v4.css?v=1b96ae1f0b57",
+        "/assets/app-document-source/site-visual-authority-r8.css?v=969f61e29b92"
+      ],
+      "inline_css_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "protected": {
+        "header_sha256": "b8b704cff75def0d7b8a4c0597636595b0c8ca39590091b0d5911ee11ad53df3",
+        "footer_sha256": "93ff89a33d5341a64511a591b0abe2c26423b34b18d61bed6f8dbd8688e6364e",
+        "translator_resources": [
+          "<link id=\"qilyCnDomesticTranslateV1Stylesheet\" rel=\"stylesheet\" href=\"/assets/cn-translate-baidu-v1.css?v=20261017-cn-mainland-nmt-v2&header_sha=9ea7239c0ac3\">",
+          "<script defer src=\"/assets/cn-translate-baidu-v1.js?v=20261017-cn-mainland-nmt-v2&header_sha=63f95edd14c0\">"
+        ]
+      }
+    },
+    {
+      "source": "legal/qilylean-home/terms/index.html",
+      "target": "legal/qilylean-cn-home/terms/index.html",
+      "url": "/legal/qilylean-cn-home/terms/",
+      "source_sha256": "3610135408f61c182d12c52e93daad59841dd54d1aafb26d5669f16e3b3cd9d4",
+      "main_sha256": "5ccef8f6fb51fcaf5c608adcb9ec536cdc8dc50e1d931e2cb21a7ef6c11acda8",
+      "style_urls": [
+        "/assets/app-document-source/legal/app-legal.css?v=7e6175d55766",
+        "/assets/app-document-source/site-core-visual-bundle-v1.css?v=cd78e3f49e0b",
+        "/assets/app-document-source/site-visual-closure-v1.css?v=628e1bbe7083",
+        "/assets/app-document-source/site-visual-closure-v2.css?v=4edcf283767a",
+        "/assets/app-document-source/site-closure-bundle-v24.css?v=600aa08b2bca",
+        "/assets/app-document-source/site-visual-readability-v4.css?v=9e2d7b4b38f9",
+        "/assets/app-document-source/site-hero-primary-contrast-v1.css?v=03e81c852808",
+        "/assets/app-document-source/site-interaction-continuity-v1.css?v=3d81be7f4252",
+        "/assets/app-document-source/site-visual-governance-v2.css?v=5958a9294bab",
+        "/assets/app-document-source/site-content-axis-v1.css?v=2685a434a5f5",
+        "/assets/app-document-source/site-floating-dock-standard-v1.css?v=627c7deaa89a",
+        "/assets/app-document-source/site-contact-field-hierarchy-v1.css?v=cecc9ccf9eac",
+        "/assets/app-document-source/site-vi-standard-v1.css?v=c596ecec9622",
+        "/assets/app-document-source/site-floating-dock-gold-v1.css?v=6a833d667c40",
+        "/assets/app-document-source/site-header-axis-v1.css?v=b547ec94a477",
+        "/assets/app-document-source/site-interaction-contrast-guard-v1.css?v=217dcb5a931d",
+        "/assets/app-document-source/site-content-contrast-guard-v1.css?v=e7a630f8d744",
+        "/assets/app-document-source/site-unified-visual-governance-v1.css?v=a00bc848fdc3",
+        "/assets/app-document-source/site-visual-regression-closure-v1.css?v=d47963c3851b",
+        "/assets/app-document-source/site-stability-recovery-v1.css?v=add22989d84a",
+        "/assets/app-document-source/site-public-redline-closure-v1.css?v=0b94f7eeb59f",
+        "/assets/app-document-source/site-public-redline-closure-v2.css?v=65870423d0fc",
+        "/assets/app-document-source/site-interaction-semantics-v1.css?v=aee96dd337d9",
+        "/assets/app-document-source/site-visual-system-v2.css?v=329658e89bc2",
+        "/assets/app-document-source/site-responsive-containment-v1.css?v=02dfce7490c4",
+        "/assets/app-document-source/site-header-project-integrity-v2.css?v=e063afc4fc76",
+        "/assets/app-document-source/site-visual-components-v1.css?v=7eb3dc7d0406",
+        "/assets/app-document-source/site-brand-home-feedback-v1.css?v=9c1c9fdfd1a4",
+        "/assets/app-document-source/site-translation-public-ui-v1.css?v=df338f75aba1",
+        "/assets/app-document-source/site-visual-readability-v5.css?v=7855ae7b2af4",
+        "/assets/app-document-source/site-vi-standard-v4.css?v=1b96ae1f0b57",
+        "/assets/app-document-source/site-visual-authority-r8.css?v=969f61e29b92"
+      ],
+      "inline_css_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "protected": {
+        "header_sha256": "b8b704cff75def0d7b8a4c0597636595b0c8ca39590091b0d5911ee11ad53df3",
+        "footer_sha256": "93ff89a33d5341a64511a591b0abe2c26423b34b18d61bed6f8dbd8688e6364e",
+        "translator_resources": [
+          "<link id=\"qilyCnDomesticTranslateV1Stylesheet\" rel=\"stylesheet\" href=\"/assets/cn-translate-baidu-v1.css?v=20261017-cn-mainland-nmt-v2&header_sha=9ea7239c0ac3\">",
+          "<script defer src=\"/assets/cn-translate-baidu-v1.js?v=20261017-cn-mainland-nmt-v2&header_sha=63f95edd14c0\">"
+        ]
+      }
+    }
+  ],
+  "styles": [
+    {
+      "source": "legal/app-legal.css",
+      "url": "/assets/app-document-source/legal/app-legal.css?v=7e6175d55766",
+      "source_sha256": "9181ec86f28576eb3d1a1d55471dc453473d5cea831d67813f28502388db0a7b",
+      "sha256": "7e6175d5576636112ae6491885ca6031b9a4336122b6182787d5aaf34def4266"
+    },
+    {
+      "source": "site-core-visual-bundle-v1.css",
+      "url": "/assets/app-document-source/site-core-visual-bundle-v1.css?v=cd78e3f49e0b",
+      "source_sha256": "5ffa86d539191e29c3edd3f80d8667edbffd256afc6331480b55e5373b54344f",
+      "sha256": "cd78e3f49e0b3c1c0ae109f31f909b803d6e8a8d0c85d8a3e44e3bdb55faaba0"
+    },
+    {
+      "source": "site-visual-closure-v1.css",
+      "url": "/assets/app-document-source/site-visual-closure-v1.css?v=628e1bbe7083",
+      "source_sha256": "075c7f4b0bcb318d5e475d07ce01019dc6ab30465a4c4b2f0bb66a8e9269ddda",
+      "sha256": "628e1bbe708395dc4f67e0b39e846dc3718e3d7e0d41eef23ec86a6994357317"
+    },
+    {
+      "source": "site-visual-closure-v2.css",
+      "url": "/assets/app-document-source/site-visual-closure-v2.css?v=4edcf283767a",
+      "source_sha256": "8803ae8a20815b3afe8d846feb540bf79098db0763479c88c32d318597cd0fd9",
+      "sha256": "4edcf283767a3e59bab3748aa19bb09f5b7767165845bab8feea20ac9b574050"
+    },
+    {
+      "source": "site-closure-bundle-v24.css",
+      "url": "/assets/app-document-source/site-closure-bundle-v24.css?v=600aa08b2bca",
+      "source_sha256": "807d34aa7b59a59bf278a58cc95367f851ac09c40b7537f0cccaa08165b1ea57",
+      "sha256": "600aa08b2bca75ab0438be15d07d38715dc65e667a013152e8d3037eaf25cd1f"
+    },
+    {
+      "source": "site-visual-readability-v4.css",
+      "url": "/assets/app-document-source/site-visual-readability-v4.css?v=9e2d7b4b38f9",
+      "source_sha256": "62cb4cd784b34712f2ae35260926194cc2d9da6b0dcd265ee700c1dcdf45f957",
+      "sha256": "9e2d7b4b38f9d2407b157289a61cb783517c3efcab5766592e3cc12bedc53029"
+    },
+    {
+      "source": "site-hero-primary-contrast-v1.css",
+      "url": "/assets/app-document-source/site-hero-primary-contrast-v1.css?v=03e81c852808",
+      "source_sha256": "e9353a9f707652d1d7269241ecf11d4b0675e2390bc6095ad76ed8e246ea7d32",
+      "sha256": "03e81c85280873ec5cdca768047ad44321e4c3b7726a04a822474ad0c92b9858"
+    },
+    {
+      "source": "site-visual-governance-v1.css",
+      "url": "/assets/app-document-source/site-visual-governance-v1.css?v=ead4b9be1060",
+      "source_sha256": "4d1771f9604ce6e9ec7afa747a5256765baba4b33ce312ea65bef7ccc16a7a24",
+      "sha256": "ead4b9be1060565eb67fc715225a2a3ebad83b5fbe707875c0539a07e3fd2829"
+    },
+    {
+      "source": "site-interaction-continuity-v1.css",
+      "url": "/assets/app-document-source/site-interaction-continuity-v1.css?v=3d81be7f4252",
+      "source_sha256": "c54a79312598723d0863bb0fa2f9c37a43fc2f621eb446b3be33ca10236d74cc",
+      "sha256": "3d81be7f4252d27822ae7ab5d921a8434e3d5fc32f9dd678f84a935a320e968a"
+    },
+    {
+      "source": "site-content-axis-v1.css",
+      "url": "/assets/app-document-source/site-content-axis-v1.css?v=2685a434a5f5",
+      "source_sha256": "580ff1951359e5c0cb7adaed51a7c7cef1509a89d9663c8b7efb1c749622c5fe",
+      "sha256": "2685a434a5f5a11ebf29a5822d4f0e30a1ad2828018c5af54c9d74ba4cb9618a"
+    },
+    {
+      "source": "site-visual-governance-v2.css",
+      "url": "/assets/app-document-source/site-visual-governance-v2.css?v=5958a9294bab",
+      "source_sha256": "271b240b965405d42fdfae9533f3778e5597280ae4585274c59c1359dabd1213",
+      "sha256": "5958a9294bab910f6a61121004592b7e9f34f8c1948bb818eaf53fc031d099df"
+    },
+    {
+      "source": "site-floating-dock-standard-v1.css",
+      "url": "/assets/app-document-source/site-floating-dock-standard-v1.css?v=627c7deaa89a",
+      "source_sha256": "bcd6646fdc879aeea60217dcc3a7b4cf2c19337d7264adb67ca1648ad4ba7bb0",
+      "sha256": "627c7deaa89a55ce95de1082549beb08776c1757db7fac6bf3a29f0a3b8095f6"
+    },
+    {
+      "source": "site-contact-field-hierarchy-v1.css",
+      "url": "/assets/app-document-source/site-contact-field-hierarchy-v1.css?v=cecc9ccf9eac",
+      "source_sha256": "19fe1647f84a8170489d01f6015cffe609743e07dcd8c0439689202ec163a983",
+      "sha256": "cecc9ccf9eac5c930af50c110fbf74cc22611c52d25558a9891ca3258a543005"
+    },
+    {
+      "source": "site-vi-standard-v1.css",
+      "url": "/assets/app-document-source/site-vi-standard-v1.css?v=c596ecec9622",
+      "source_sha256": "ce163d831511f02f779fdaea75b97fcc9ff8e8ebb81da453760e52a381ba3361",
+      "sha256": "c596ecec9622152fa2e8a65e02afef12566a1da222f9462234a46f3876c273f9"
+    },
+    {
+      "source": "site-floating-dock-gold-v1.css",
+      "url": "/assets/app-document-source/site-floating-dock-gold-v1.css?v=6a833d667c40",
+      "source_sha256": "e459afeb527d42af7a505fe5ed049d6b8187a7f4c27dd5a6943d673949e3533b",
+      "sha256": "6a833d667c405aa0f16fa3b7e7c387b6b06a3d6890b3e0c05bf0b785e8e3047b"
+    },
+    {
+      "source": "site-header-axis-v1.css",
+      "url": "/assets/app-document-source/site-header-axis-v1.css?v=b547ec94a477",
+      "source_sha256": "003d35360242dbf36aff0ed197d5f598cf22e4a09a831e00cf76aae98f4de4e1",
+      "sha256": "b547ec94a477acbdb9d75bed6892b73d0750d33bd421ad258db20eafa12f4368"
+    },
+    {
+      "source": "site-interaction-contrast-guard-v1.css",
+      "url": "/assets/app-document-source/site-interaction-contrast-guard-v1.css?v=217dcb5a931d",
+      "source_sha256": "b3886b430a35a398f3952e1dfafb3f10435fd34ec7dda66b04d1f340df33b4ec",
+      "sha256": "217dcb5a931d178b4f7cfcc7f5cf87cda802dbe609b84f855d535f11f6353c13"
+    },
+    {
+      "source": "site-content-contrast-guard-v1.css",
+      "url": "/assets/app-document-source/site-content-contrast-guard-v1.css?v=e7a630f8d744",
+      "source_sha256": "a41713630e9529b35159ba0d9d83acef4b9e1d3e052449445fde9b224e554e33",
+      "sha256": "e7a630f8d744a1edd7cda83b34670dc76d30d77bad2b1692a69eeb1043440398"
+    },
+    {
+      "source": "site-unified-visual-governance-v1.css",
+      "url": "/assets/app-document-source/site-unified-visual-governance-v1.css?v=a00bc848fdc3",
+      "source_sha256": "0f426f1475e7b742ea53ba073482f31f791e8642db3d0f27bc26b6cc3092d419",
+      "sha256": "a00bc848fdc366e5a9bc0e44f5115351f0c867f7e0f922ae8672523b69e3bd2b"
+    },
+    {
+      "source": "site-visual-regression-closure-v1.css",
+      "url": "/assets/app-document-source/site-visual-regression-closure-v1.css?v=d47963c3851b",
+      "source_sha256": "09872673add2ede8eb960f9d76899f215535e183c622b4ce9c952fc737927889",
+      "sha256": "d47963c3851b84ddaf16a0418824fa6ca02e10a95b37ea7b961cd28da7fed8fb"
+    },
+    {
+      "source": "site-stability-recovery-v1.css",
+      "url": "/assets/app-document-source/site-stability-recovery-v1.css?v=add22989d84a",
+      "source_sha256": "3ee47fa83c4a2c77c695de854c8f3f70eeacbfbe004fbe757c96cdd693035f4d",
+      "sha256": "add22989d84a9a50eaadba97417c69c8cb5461068a612cd27997f6d82719c959"
+    },
+    {
+      "source": "site-public-redline-closure-v1.css",
+      "url": "/assets/app-document-source/site-public-redline-closure-v1.css?v=0b94f7eeb59f",
+      "source_sha256": "65681d62cafd8f88333b49c0f6429339043af20386a14c08fc7d56bc308c8783",
+      "sha256": "0b94f7eeb59fb41b7bcc380a8013c3a6deb6aa7168a71932baf317a9d0f54351"
+    },
+    {
+      "source": "site-public-redline-closure-v2.css",
+      "url": "/assets/app-document-source/site-public-redline-closure-v2.css?v=65870423d0fc",
+      "source_sha256": "8c8375417f78972a93adfa88bb8b710b4693b8b0674cbb7e1dd5bdcb93a5446a",
+      "sha256": "65870423d0fc614945b05f4353aa8139f5aa91a846234ba90b4987462b02906b"
+    },
+    {
+      "source": "site-interaction-semantics-v1.css",
+      "url": "/assets/app-document-source/site-interaction-semantics-v1.css?v=aee96dd337d9",
+      "source_sha256": "ebe8e0965da7f40ae30b60e5390800693e0b3dd08d4aee91f24fff78ddc493c5",
+      "sha256": "aee96dd337d93bca25142e71d332c61eb69f4e687bf5ef55ec90eacb69fd0586"
+    },
+    {
+      "source": "site-visual-system-v2.css",
+      "url": "/assets/app-document-source/site-visual-system-v2.css?v=329658e89bc2",
+      "source_sha256": "aa18c31ea0e667b66a9dea87be4c19f4f9829c4c012e729e35710bd672355805",
+      "sha256": "329658e89bc2bc64c47c136bd7cebacaa466a1d82357cd78896cf09ea391104b"
+    },
+    {
+      "source": "site-responsive-containment-v1.css",
+      "url": "/assets/app-document-source/site-responsive-containment-v1.css?v=02dfce7490c4",
+      "source_sha256": "30a4bd1c88c6e13994787fc0fd3d16623e771c0f1ddc1bac234be6fb406b7f31",
+      "sha256": "02dfce7490c4f8674648167b0798beb3e403a431bd692d8acde15ccc49d56615"
+    },
+    {
+      "source": "site-header-project-integrity-v2.css",
+      "url": "/assets/app-document-source/site-header-project-integrity-v2.css?v=e063afc4fc76",
+      "source_sha256": "0fd47bbd3bdef0983840e2effa731c45ddec991bb6c23b3bc3061337ca5d0b7a",
+      "sha256": "e063afc4fc7663f0cfea8bea5fbf4d94a0a02d397c4d51d43d28f5025c46e10d"
+    },
+    {
+      "source": "site-visual-components-v1.css",
+      "url": "/assets/app-document-source/site-visual-components-v1.css?v=7eb3dc7d0406",
+      "source_sha256": "f097a5d84e6613c8a2a13a3c1b45042659a7677ef874baa4bb995df8c42823ab",
+      "sha256": "7eb3dc7d0406b4d7212e041b52e95e5e6d53d2f23e64fc4789ea71c105af49f0"
+    },
+    {
+      "source": "site-brand-home-feedback-v1.css",
+      "url": "/assets/app-document-source/site-brand-home-feedback-v1.css?v=9c1c9fdfd1a4",
+      "source_sha256": "bcc59dbf20918ed4c214a5b8356d32427586784e5ce0bf15ec10bc334c2a8aa6",
+      "sha256": "9c1c9fdfd1a4145e5bfae447118c18f87906cfdee86fcd004710b871271a5176"
+    },
+    {
+      "source": "site-translation-attribution-v1.css",
+      "url": "/assets/app-document-source/site-translation-attribution-v1.css?v=44b40239877a",
+      "source_sha256": "56b10836e9abdbdccf10c306faa8d036e60c43870fb69406f4aa97c0be17c4af",
+      "sha256": "44b40239877ae4bd91af536b821779d96fb4a16bcef8a6e02fab0ef564f57bfb"
+    },
+    {
+      "source": "site-translation-public-ui-v1.css",
+      "url": "/assets/app-document-source/site-translation-public-ui-v1.css?v=df338f75aba1",
+      "source_sha256": "6fe151f25f72bc0e4d78338b6ba855f7e468484cbae8404d9c239e0dea352b6a",
+      "sha256": "df338f75aba16d15f3c6704e6510e84d39fc578d11a88dc58f2590bb8b3bb8e0"
+    },
+    {
+      "source": "site-visual-readability-v5.css",
+      "url": "/assets/app-document-source/site-visual-readability-v5.css?v=7855ae7b2af4",
+      "source_sha256": "794d775d42561705e120ee6dc558411f098828e7d3f2c6fab7f49dd794d5cbdf",
+      "sha256": "7855ae7b2af461fc40d31ca535155445191bb541324c4c855a1c12865b17687f"
+    },
+    {
+      "source": "site-visual-authority-r8.css",
+      "url": "/assets/app-document-source/site-visual-authority-r8.css?v=969f61e29b92",
+      "source_sha256": "a1849faa2a0ed2c4250f3f9f236091df753973045671c7a69c848e89d46e31a9",
+      "sha256": "969f61e29b9297677632c8de0d6a0544de7189ba320dc1287d8316f4fac81b49"
+    },
+    {
+      "source": "site-vi-standard-v4.css",
+      "url": "/assets/app-document-source/site-vi-standard-v4.css?v=1b96ae1f0b57",
+      "source_sha256": "f459dbc8e30c98803e0dc862b38d110dbc67fa6e8f2ab42a84a6dce2a768104f",
+      "sha256": "1b96ae1f0b573856617c77ae8061e0fa56e0afcc47a8a30f9957cf2d4be86c37"
+    }
+  ],
+  "media": [
+    {
+      "source": "assets/brand/qilylean-logo.svg",
+      "sha256": "e1d2e3634e30bc50e8292d22f41f8f5fc446a01e73dc023c12b8eaa190a7da76"
+    }
+  ]
+}

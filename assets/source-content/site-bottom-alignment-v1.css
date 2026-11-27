@@ -1,0 +1,6 @@
+html :where(main[data-cn-source-content]):is(body,main) .module-grid > .module-card{display: flex !important;flex-direction: column !important;align-self: stretch !important;height: 100% !important}
+html :where(main[data-cn-source-content]):is(body,main) .module-grid > .module-card > .module-result{margin-top: auto !important}
+html :where(main[data-cn-source-content]):is(body,main) .module-grid > .module-card > .module-result + .module-actions{margin-top: 0 !important;padding-top: 16px !important}
+html :where(main[data-cn-source-content]):is(body,main) .boundary-service-grid{align-items: stretch !important}
+html :where(main[data-cn-source-content]):is(body,main) .boundary-service-grid > .boundary-service-card{display: flex !important;flex-direction: column !important;align-self: stretch !important;height: 100% !important}
+html :where(main[data-cn-source-content]):is(body,main) .boundary-service-grid > .boundary-service-card > .boundary-note{margin-top: auto !important}

@@ -1,0 +1,148 @@
+{
+  "version": 1,
+  "source": "links/hometown-manufacturing/index.html",
+  "source_commit": "435d938bbe9bc5476c005cf90b170ca15fd06ccf",
+  "source_html_sha256": "d6359211ba245faa8c0a28a1796eae21a92fc468de84d69232b99ca5291b273b",
+  "source_main_sha256": "f3ee842d7078fba179256b3de91efd3baacba8ae4a27dc25a34d93567dabc3ea",
+  "chapters": 17,
+  "audio_bytes": 15501586,
+  "audio": [
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full00.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full00.mp3.b64",
+      "bytes": 282933,
+      "sha256": "8627ab1ed557b45006354836e1a27048161b249c517b3691b2af0bba73518b6f",
+      "decoded_mp3_bytes": 212197,
+      "decoded_mp3_sha256": "494831407e384593cd24accc86855cd056a87b23048fed2c6b6b1097b7020168"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full01.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full01.mp3.b64",
+      "bytes": 786741,
+      "sha256": "2f6ff973404c1a2d633cea31a65fd7f893cdc62d06b7f3955db09bf3cee74e97",
+      "decoded_mp3_bytes": 590053,
+      "decoded_mp3_sha256": "27edf686a60149cf8f8260fd504cffae14b9fd5fd071b575b488e276df87d97d"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full02.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full02.mp3.b64",
+      "bytes": 945461,
+      "sha256": "d856530c5a9a71215be9ab34e357ec28d280a6181db41c5989d8eab58a1db5f3",
+      "decoded_mp3_bytes": 709093,
+      "decoded_mp3_sha256": "5ff92ff7a18cf6ed927fed48d447b0780187c605bec5c9354c05b674c8fd954f"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full03.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full03.mp3.b64",
+      "bytes": 855093,
+      "sha256": "a93dbcfec6074b18b99e2d16d5b557cb5bc5e6c236afc9b35fa5d1566dd4d97c",
+      "decoded_mp3_bytes": 641317,
+      "decoded_mp3_sha256": "383a535c144f818231c7ad2c9b2198114c3268909976f9e5b44b9e18d680e5c7"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full04.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full04.mp3.b64",
+      "bytes": 1079605,
+      "sha256": "0aaa5b018188f16904e604fdbb67337a92f3303b3e1791d2c1c3266c8efaeb35",
+      "decoded_mp3_bytes": 809701,
+      "decoded_mp3_sha256": "24a2bbbb6e8ce685267036d2ecf188a75ce05bb6db91d542169932885f95722d"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full05.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full05.mp3.b64",
+      "bytes": 657205,
+      "sha256": "5cec7b97aad87f7be72728d5dff2180334daa66959f83709aaec7e2ab1339483",
+      "decoded_mp3_bytes": 492901,
+      "decoded_mp3_sha256": "8334f4a40d0467f69cf446186bcaa5660e887853eee2162767dce56a6c48d231"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full06.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full06.mp3.b64",
+      "bytes": 1191292,
+      "sha256": "90be356a1ac549bd7f5abdd4702072353dce5e32c2173b09dae960cc5347fc0a",
+      "decoded_mp3_bytes": 893469,
+      "decoded_mp3_sha256": "14ec8e08b82175106c5db988a8bc05863880cf5e6e86cb475ccbdec135b32e19"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full07.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full07.mp3.b64",
+      "bytes": 860317,
+      "sha256": "2c133a5c1fe9fca9fddcb116c632a2245553e53e1e0e5c304867a95cc6daecc0",
+      "decoded_mp3_bytes": 645237,
+      "decoded_mp3_sha256": "3d7c70ae808e7bb1dcbd9c4bb6203d68e0f784ed800307ac2702ad6cc25eddf6"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full08.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full08.mp3.b64",
+      "bytes": 1139004,
+      "sha256": "1ceab95e9e537159e2ed2da22f9c95113fe6ff165d9fc3ff44c35bcafc2d7986",
+      "decoded_mp3_bytes": 854253,
+      "decoded_mp3_sha256": "8700f084d10d74f623aab0e12c11a2dce9a52f7b4b0997338711c3d086f36340"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full09.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full09.mp3.b64",
+      "bytes": 774965,
+      "sha256": "6beb79ce7aef2858c55fd9de347c4d3dc95060ecaf6b4356220ff5ebdff87337",
+      "decoded_mp3_bytes": 581221,
+      "decoded_mp3_sha256": "63d82fc70876ffd91aadb3146db1e91c8acc3a538f18b76a4d89d4138e5c58d8"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full10.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full10.mp3.b64",
+      "bytes": 1059381,
+      "sha256": "ac9d5113b9f0fa76d7cd0672fa00027191ffc87e877e6d4d8451a952eda07141",
+      "decoded_mp3_bytes": 794533,
+      "decoded_mp3_sha256": "efe4746358d4ad35fbcd399886af53c3a9850ea7b5f38e2facb4d90d830f10bd"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full11.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full11.mp3.b64",
+      "bytes": 849053,
+      "sha256": "e352f13e18e2228572aa1c100bf549d49997f08e8a380e93e4d5696097f05a90",
+      "decoded_mp3_bytes": 636789,
+      "decoded_mp3_sha256": "5d960ba4fc7a51a65f2c14cf5c62d3406e652a0149de1edea921269ab98d481f"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full12.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full12.mp3.b64",
+      "bytes": 1187997,
+      "sha256": "3194bad644f1626e31c8e41584b18871867d6629791029f23d9fd0adf10c9d5e",
+      "decoded_mp3_bytes": 890997,
+      "decoded_mp3_sha256": "8b6fc87a438cb193a2212edd8f073eb4c650f9d64f614089ebfddd0929efbd03"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full13.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full13.mp3.b64",
+      "bytes": 882741,
+      "sha256": "f0b055efd503419d7723934303a2aabaa8d33a649387293b30a994d5558f06bf",
+      "decoded_mp3_bytes": 662053,
+      "decoded_mp3_sha256": "1383f3246d12b6fc82b29aa9ecbb268ea86a104484a2bf9c462c846cadc59167"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full14.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full14.mp3.b64",
+      "bytes": 1319484,
+      "sha256": "cb1afce8afdb97f057642b9440317e8afbe96855d680d75eeaa19b90431c7168",
+      "decoded_mp3_bytes": 989613,
+      "decoded_mp3_sha256": "8ff0f1009e54c2b8c6a3d2b85cc7cfa88877351d2ad98b1d0f207eaa4a9ec248"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full15.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full15.mp3.b64",
+      "bytes": 956213,
+      "sha256": "7cebcd9ca3c98861c8bdd53911839d9aa1e87975a02157383251b2f5dde785cc",
+      "decoded_mp3_bytes": 717157,
+      "decoded_mp3_sha256": "d4a3f5794c8a1975b1d93c7fcc14a36219ce1a1ee81b9335a6f4908d3195cba7"
+    },
+    {
+      "source": "links/hometown-manufacturing/assets/audio/full16.mp3.b64",
+      "url": "/links/hometown-manufacturing/assets/audio/full16.mp3.b64",
+      "bytes": 674101,
+      "sha256": "71ef862ce11c7e641b598f9b613a75b14e6a593191207b81a9c35c9b5a253053",
+      "decoded_mp3_bytes": 505573,
+      "decoded_mp3_sha256": "5a84af87381a8a4087f55187a006621ea7af57ccaf89074b7237807c438b9e61"
+    }
+  ],
+  "lecture_style_sha256": "d9b988a67e5e9bd9a69518b62b4abe61523c3e54ba08fb14c9905eab2d000c12"
+}

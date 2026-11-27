@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qilylean.cn/sitemap.xml
+Sitemap: https://qilylean.cn/sitemap-baidu.xml
+# Search discovery refresh: 20260930-cn-baidu-discovery-v1

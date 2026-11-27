@@ -1,0 +1,348 @@
+{
+  "version": "cn-public-interactions-v1",
+  "checked": 21,
+  "terminology_lessons": 195,
+  "items": [
+    {
+      "source": "ai.html",
+      "url": "/archive/profile/ai/",
+      "kind": "knowledge-entry"
+    },
+    {
+      "source": "gbt2828.html",
+      "url": "/archive/profile/gbt2828/",
+      "kind": "pdf"
+    },
+    {
+      "source": "global-knowledge/briefs/index.html",
+      "url": "/archive/global-knowledge/briefs/",
+      "kind": "brief-index"
+    },
+    {
+      "source": "improvements/erp-mes/index.html",
+      "url": "/archive/improvements/erp-mes/",
+      "kind": "content"
+    },
+    {
+      "source": "improvements/ie-data/index.html",
+      "url": "/archive/improvements/ie-data/",
+      "kind": "content"
+    },
+    {
+      "source": "improvements/smed/index.html",
+      "url": "/archive/improvements/smed/",
+      "kind": "content"
+    },
+    {
+      "source": "improvements/standard-time/index.html",
+      "url": "/archive/improvements/standard-time/",
+      "kind": "content"
+    },
+    {
+      "source": "improvements/visual/index.html",
+      "url": "/archive/improvements/visual/",
+      "kind": "content"
+    },
+    {
+      "source": "improvements/vsm/index.html",
+      "url": "/archive/improvements/vsm/",
+      "kind": "content"
+    },
+    {
+      "source": "knowledge/2026-07-19.html",
+      "url": "/archive/knowledge/2026-07-19/",
+      "kind": "content"
+    },
+    {
+      "source": "knowledge/pdca-gantt-milestone-opl.html",
+      "url": "/archive/knowledge/pdca-gantt-milestone-opl/",
+      "kind": "content"
+    },
+    {
+      "source": "knowledge/terminology.html",
+      "url": "/archive/knowledge/terminology/",
+      "kind": "terminology"
+    },
+    {
+      "source": "knowledge/terminology/mtbf.html",
+      "url": "/archive/knowledge/terminology/mtbf/",
+      "kind": "content"
+    },
+    {
+      "source": "knowledge/terminology/mttr.html",
+      "url": "/archive/knowledge/terminology/mttr/",
+      "kind": "content"
+    },
+    {
+      "source": "projects/factory-layout/index.html",
+      "url": "/archive/practice/factory-layout/",
+      "kind": "content"
+    },
+    {
+      "source": "qilylean/production-operations-organization.html",
+      "url": "/archive/reference/production-operations-organization/",
+      "kind": "content"
+    },
+    {
+      "source": "qilylean/reference-audit-documents.html",
+      "url": "/archive/reference/reference-audit-documents/",
+      "kind": "content"
+    },
+    {
+      "source": "qilylean/reference-iatf16949-core-tools.html",
+      "url": "/archive/reference/reference-iatf16949-core-tools/",
+      "kind": "content"
+    },
+    {
+      "source": "qilylean/reference-materials.html",
+      "url": "/archive/reference/reference-materials/",
+      "kind": "content"
+    },
+    {
+      "source": "qilylean/reference-one-piece-flow.html",
+      "url": "/archive/reference/reference-one-piece-flow/",
+      "kind": "content"
+    },
+    {
+      "source": "tools/times26001/index.html",
+      "url": "/archive/tools/times26001/",
+      "kind": "content"
+    }
+  ],
+  "links": [
+    {
+      "url": "/archive/profile/capabilities/",
+      "from": "/Times26001_v1.1.15_API36_website_release.apk?build=20261104-release-v1115",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/profile/capabilities/",
+      "from": "/QilyLean_Home_v2.3.3_API36_INSTALL.apk?build=20260824-qhome-v233",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/profile/capabilities/",
+      "from": "#qilylean-home-qr",
+      "to": "/app-support/qilylean-cn-home/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/profile/capabilities/",
+      "from": "/legal/qilylean-home/privacy/",
+      "to": "/legal/qilylean-cn-home/privacy/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/profile/capabilities/",
+      "from": "/legal/qilylean-home/terms/",
+      "to": "/legal/qilylean-cn-home/terms/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/profile/capabilities/",
+      "from": "/tools/pure-ddz/",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/profile/experience/",
+      "from": "/assets/resume/ding-qili-resume-2026-11.pdf",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/profile/experience/",
+      "from": "/assets/resume/ding-qili-resume-2026-11.pdf",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/profile/experience/",
+      "from": "/assets/resume/ding-qili-resume-2026-11.pdf",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/global-knowledge/",
+      "from": "/archive/global-knowledge/terminology/",
+      "to": "/archive/knowledge/terminology/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-tools.html",
+      "to": "/archive/reference/lean-tools/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-tools.html%23flow",
+      "to": "/archive/reference/lean-tools/#flow",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Fgbt2828.html",
+      "to": "/archive/profile/gbt2828/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Fexecution-loop.html",
+      "to": "/archive/reference/execution-loop/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-knowledge.html%23lean-01",
+      "to": "/archive/reference/lean-knowledge/#lean-01",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-knowledge.html%23lean-02",
+      "to": "/archive/reference/lean-knowledge/#lean-02",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-knowledge.html%23lean-03",
+      "to": "/archive/reference/lean-knowledge/#lean-03",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-knowledge.html%23lean-04",
+      "to": "/archive/reference/lean-knowledge/#lean-04",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-knowledge.html%23lean-05",
+      "to": "/archive/reference/lean-knowledge/#lean-05",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-knowledge.html%23lean-06",
+      "to": "/archive/reference/lean-knowledge/#lean-06",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Flean-knowledge.html%23lean-07",
+      "to": "/archive/reference/lean-knowledge/#lean-07",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fknowledge%2Fpdca-gantt-milestone-opl.html",
+      "to": "/archive/knowledge/pdca-gantt-milestone-opl/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2F%E7%8E%B0%E5%9C%BA%E7%AE%A1%E7%90%86.pdf",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fqilylean%2Fproduction-operations-organization.html",
+      "to": "/archive/reference/production-operations-organization/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fknowledge%2Fsmed-injection-mold-change.html",
+      "to": "/archive/knowledge/smed-injection-mold-change/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fknowledge%2Fseat-switch-one-piece-flow.html",
+      "to": "/archive/knowledge/seat-switch-one-piece-flow/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fknowledge%2Fcustomer-audit-document-control.html",
+      "to": "/archive/knowledge/customer-audit-document-control/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/global-knowledge/library/",
+      "from": "/archive/global-knowledge/view/?src=%2Fknowledge%2Fiatf16949-core-tools.html",
+      "to": "/archive/knowledge/iatf16949-core-tools/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/knowledge/2026-07-19/",
+      "from": "/links/",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/knowledge/",
+      "from": "/archive/reference/gbt2828/",
+      "to": "/archive/profile/gbt2828/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/knowledge/",
+      "from": "/archive/reference/gbt2828/",
+      "to": "/archive/profile/gbt2828/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/knowledge/",
+      "from": "/%E7%8E%B0%E5%9C%BA%E7%AE%A1%E7%90%86.pdf",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/knowledge/",
+      "from": "/%E7%8E%B0%E5%9C%BA%E7%AE%A1%E7%90%86.pdf",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/knowledge/smed-injection-mold-change/",
+      "from": "/archive/improvements/#smed",
+      "to": "/archive/improvements/smed/",
+      "status": "resolved"
+    },
+    {
+      "url": "/archive/practice/",
+      "from": "/#diagnosis",
+      "status": "excluded-conversion"
+    },
+    {
+      "url": "/archive/practice/",
+      "from": "/projects/qilylean-commercial-deliveries/review-authorization-template.html",
+      "status": "excluded-conversion"
+    },
+    {
+      "url": "/archive/practice/lean-improvement-evidence/",
+      "from": "/projects/lean-improvement-evidence/q3-online-view.html",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/practice/lean-improvement-evidence/",
+      "from": "/projects/lean-improvement-evidence/q4-online-view.html",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/practice/lean-improvement-evidence/",
+      "from": "/projects/lean-improvement-evidence/award-online-view.html",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/tools/times26001/",
+      "from": "/Times26001_v1.1.15_API36_website_release.apk?build=20261104-release-v1115",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/tools/times26001/",
+      "from": "/Times26001_v1.1.15_API36_website_release.apk?build=20261104-release-v1115",
+      "status": "unpublished"
+    },
+    {
+      "url": "/archive/tools/times26001/",
+      "from": "/Times26001_v1.1.15_API36_website_release.sha256.txt",
+      "status": "unpublished"
+    }
+  ]
+}

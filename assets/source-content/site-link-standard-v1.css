@@ -1,0 +1,108 @@
+@import url("/assets/source-content/site-vi-standard-v1.css?v=1ea5203aa382");
+:where(main[data-cn-source-content]){--qily-link-ink: #0f4b5a;--qily-link-deep: #073c47;--qily-link-teal: #178b94;--qily-link-gold: #c28b30;--qily-link-hover-bg: rgba(23, 139, 148, .12);--qily-link-focus: rgba(202, 161, 95, .72)}
+html :where(main[data-cn-source-content]):is(body,main) a[href]{text-decoration-line: underline !important;text-decoration-style: solid !important;text-decoration-color: currentColor !important;text-decoration-thickness: max(1.6px, .09em) !important;text-underline-offset: .22em !important;text-decoration-skip-ink: none !important;-webkit-text-decoration-skip: none !important;transition:
+    color .16s ease,
+    background-color .16s ease,
+    border-color .16s ease,
+    box-shadow .16s ease,
+    outline-color .16s ease,
+    opacity .16s ease,
+    transform .16s ease !important;-webkit-tap-highlight-color: rgba(23, 139, 148, .22)}
+html :where(main[data-cn-source-content]):is(body,main) a[href]:hover{text-decoration-thickness: max(2.5px, .14em) !important;text-underline-offset: .28em !important}
+html :where(main[data-cn-source-content]):is(body,main) a[href]:focus-visible{text-decoration-thickness: max(2.5px, .14em) !important;text-underline-offset: .28em !important;outline: 3px solid var(--qily-link-focus) !important;outline-offset: 3px !important;border-radius: 5px;box-shadow: 0 0 0 5px rgba(23, 139, 148, .12) !important}
+html :where(main[data-cn-source-content]):is(body,main) a[href]:active{text-decoration-thickness: max(3px, .16em) !important;opacity: .88;transform: translateY(1px)}
+html :where(main[data-cn-source-content]):is(body,main) :where(
+  main,
+  article,
+  section,
+  .module-card,
+  .paper-card,
+  .career-full-card,
+  .trust-card,
+  .article,
+  .prose,
+  .copy,
+  .description,
+  .summary
+) a[href]{color: var(--qily-link-ink) !important;text-decoration-color: var(--qily-link-teal) !important;font-weight: 800}
+html :where(main[data-cn-source-content]):is(body,main) :where(
+  main,
+  article,
+  section,
+  .module-card,
+  .paper-card,
+  .career-full-card,
+  .trust-card,
+  .article,
+  .prose,
+  .copy,
+  .description,
+  .summary
+) a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) :where(
+  main,
+  article,
+  section,
+  .module-card,
+  .paper-card,
+  .career-full-card,
+  .trust-card,
+  .article,
+  .prose,
+  .copy,
+  .description,
+  .summary
+) a[href]:focus-visible{color: var(--qily-link-deep) !important;text-decoration-color: var(--qily-link-gold) !important}
+html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .site-nav a[href],html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .qily-global-nav a[href],html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .site-nav a[href],html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .qily-global-nav a[href],html :where(main[data-cn-source-content]):is(body,main) header.topbar .nav a[href],html :where(main[data-cn-source-content]):is(body,main) header.top .nav a[href]{color: #182420 !important;background-color: transparent !important;text-decoration-line: none !important;text-decoration-color: var(--qily-link-ink) !important;text-decoration-thickness: 1.7px !important;text-underline-offset: .24em !important}
+html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .site-nav a[href][aria-current="page"],html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .qily-global-nav a[href][aria-current="page"],html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .site-nav a[href][aria-current="page"],html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .qily-global-nav a[href][aria-current="page"],html :where(main[data-cn-source-content]):is(body,main) header.topbar .nav a[href][aria-current="page"],html :where(main[data-cn-source-content]):is(body,main) header.top .nav a[href][aria-current="page"]{color: var(--qily-link-ink) !important;background-color: #e4f2ef !important;border-color: #b8d9d4 !important;text-decoration-color: var(--qily-link-teal) !important}
+html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .site-nav a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .site-nav a[href]:focus-visible,html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .qily-global-nav a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .qily-global-nav a[href]:focus-visible,html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .site-nav a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .site-nav a[href]:focus-visible,html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .qily-global-nav a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .qily-global-nav a[href]:focus-visible,html :where(main[data-cn-source-content]):is(body,main) header.topbar .nav a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) header.topbar .nav a[href]:focus-visible,html :where(main[data-cn-source-content]):is(body,main) header.top .nav a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) header.top .nav a[href]:focus-visible{color: #fff !important;background-color: var(--qily-link-ink) !important;border-color: var(--qily-link-ink) !important;text-decoration-color: #fff !important;box-shadow: 0 8px 20px rgba(15, 75, 90, .24) !important;transform: translateY(-2px)}
+html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .site-nav a[href]:active,html :where(main[data-cn-source-content]):is(body,main) .qily-site-header .qily-global-nav a[href]:active,html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .site-nav a[href]:active,html :where(main[data-cn-source-content]):is(body,main) .qily-global-header .qily-global-nav a[href]:active,html :where(main[data-cn-source-content]):is(body,main) header.topbar .nav a[href]:active,html :where(main[data-cn-source-content]):is(body,main) header.top .nav a[href]:active{color: #fff !important;background-color: var(--qily-link-deep) !important;text-decoration-color: #fff !important;transform: translateY(0) scale(.98)}
+html :where(main[data-cn-source-content]):is(body,main) :where(.module-hero, .daily-hero, .hero) .module-subnav a[href],html :where(main[data-cn-source-content]):is(body,main) :where(.module-hero, .daily-hero, .hero) .subnav a[href],html :where(main[data-cn-source-content]):is(body,main) :where(.module-hero, .daily-hero, .hero) nav a[href]{color: #fff !important;text-decoration-color: #ffe39b !important}
+html :where(main[data-cn-source-content]):is(body,main) :where(.module-hero, .daily-hero, .hero) .module-subnav a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) :where(.module-hero, .daily-hero, .hero) .module-subnav a[href]:focus-visible,html :where(main[data-cn-source-content]):is(body,main) :where(.module-hero, .daily-hero, .hero) .subnav a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) :where(.module-hero, .daily-hero, .hero) .subnav a[href]:focus-visible{color: #17322d !important;background-color: #ffe39b !important;border-color: #ffe39b !important;text-decoration-color: #17322d !important;box-shadow: 0 8px 20px rgba(5, 42, 51, .24) !important}
+html :where(main[data-cn-source-content]):is(body,main) .module-actions a[href],html :where(main[data-cn-source-content]):is(body,main) .card-actions a[href]{min-height: 42px;font-weight: 900 !important;text-decoration-color: currentColor !important}
+html :where(main[data-cn-source-content]):is(body,main) .module-actions a[href]:not(.secondary),html :where(main[data-cn-source-content]):is(body,main) .card-actions a[href]:not(.secondary){color: #fff !important;background-color: var(--qily-link-ink) !important;border-color: var(--qily-link-ink) !important}
+html :where(main[data-cn-source-content]):is(body,main) .module-actions a[href].secondary,html :where(main[data-cn-source-content]):is(body,main) .card-actions a[href].secondary{color: var(--qily-link-ink) !important;background-color: #fff !important;border-color: #b8d9d4 !important}
+html :where(main[data-cn-source-content]):is(body,main) .module-actions a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) .module-actions a[href]:focus-visible,html :where(main[data-cn-source-content]):is(body,main) .card-actions a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) .card-actions a[href]:focus-visible{color: #fff !important;background-color: #12606f !important;border-color: #12606f !important;text-decoration-color: #fff !important;box-shadow: 0 9px 22px rgba(15, 75, 90, .24) !important;transform: translateY(-2px)}
+html :where(main[data-cn-source-content]):is(body,main) .module-actions a[href]:active,html :where(main[data-cn-source-content]):is(body,main) .card-actions a[href]:active{color: #fff !important;background-color: var(--qily-link-deep) !important;text-decoration-color: #fff !important;transform: translateY(0) scale(.98)}
+html :where(main[data-cn-source-content]):is(body,main) a[href]:where(
+  .module-action,
+  .resource-action,
+  .project-list-action,
+  .project-card-action,
+  .service-contract-link,
+  .moment-link,
+  .moment-back,
+  .design-link,
+  .share-button
+),html :where(main[data-cn-source-content]):is(body,main) a[href].button:not(.primary){color: #fff !important;background-color: var(--qily-link-ink) !important;border-color: var(--qily-link-ink) !important;text-decoration-color: #fff !important;font-weight: 900 !important}
+html :where(main[data-cn-source-content]):is(body,main) a[href].button.primary{color: #17322d !important;background-color: #ffe39b !important;border-color: #ffe39b !important;text-decoration-color: #17322d !important}
+html :where(main[data-cn-source-content]):is(body,main) a[href]:where(
+  .module-action,
+  .resource-action,
+  .project-list-action,
+  .project-card-action,
+  .service-contract-link,
+  .moment-link,
+  .moment-back,
+  .design-link,
+  .share-button
+):hover,html :where(main[data-cn-source-content]):is(body,main) a[href]:where(
+  .module-action,
+  .resource-action,
+  .project-list-action,
+  .project-card-action,
+  .service-contract-link,
+  .moment-link,
+  .moment-back,
+  .design-link,
+  .share-button
+):focus-visible,html :where(main[data-cn-source-content]):is(body,main) a[href].button:not(.primary):hover,html :where(main[data-cn-source-content]):is(body,main) a[href].button:not(.primary):focus-visible{color: #fff !important;background-color: #12606f !important;border-color: #12606f !important;text-decoration-color: #fff !important;box-shadow: 0 9px 22px rgba(15, 75, 90, .24) !important}
+html :where(main[data-cn-source-content]):is(body,main) a[href].button.primary:hover,html :where(main[data-cn-source-content]):is(body,main) a[href].button.primary:focus-visible{color: #17322d !important;background-color: #f5c766 !important;border-color: #f5c766 !important;text-decoration-color: #17322d !important;box-shadow: 0 9px 22px rgba(202, 161, 95, .28) !important}
+html :where(main[data-cn-source-content]):is(body,main) :where(.qily-search-result, .qily-phone-list a[href], .trust-contact a[href]){color: var(--qily-link-ink) !important;background-color: #f6fbfa !important;border-color: #c8dad8 !important;text-decoration-color: var(--qily-link-teal) !important}
+html :where(main[data-cn-source-content]):is(body,main) :where(.qily-search-result, .qily-phone-list a[href], .trust-contact a[href]):hover,html :where(main[data-cn-source-content]):is(body,main) :where(.qily-search-result, .qily-phone-list a[href], .trust-contact a[href]):focus-visible{color: #fff !important;background-color: var(--qily-link-ink) !important;border-color: var(--qily-link-ink) !important;text-decoration-color: #fff !important}
+html :where(main[data-cn-source-content]):is(body,main) a[href]:has(img):hover,html :where(main[data-cn-source-content]):is(body,main) a[href]:has(svg):hover,html :where(main[data-cn-source-content]):is(body,main) a[href][class*="card"]:hover,html :where(main[data-cn-source-content]):is(body,main) a[href][class*="item"]:hover,html :where(main[data-cn-source-content]):is(body,main) a[href][class*="tile"]:hover{outline: 2px solid rgba(23, 139, 148, .52) !important;outline-offset: 3px !important;box-shadow: 0 10px 24px rgba(15, 75, 90, .18) !important}
+html :where(main[data-cn-source-content]):is(body,main) :where(.module-footer, .footer, .contact-card, .qily-float-dock) a[href]{color: #fff !important;text-decoration-color: #ffe39b !important}
+html :where(main[data-cn-source-content]):is(body,main) :where(.module-footer, .footer, .contact-card, .qily-float-dock) a[href]:hover,html :where(main[data-cn-source-content]):is(body,main) :where(.module-footer, .footer, .contact-card, .qily-float-dock) a[href]:focus-visible{color: #fff !important;text-decoration-color: #fff !important}
+@media (prefers-reduced-motion: reduce){html :where(main[data-cn-source-content]):is(body,main) a[href]{transition: none !important}}
+@media print{html :where(main[data-cn-source-content]):is(body,main) a[href]{color: #000 !important;text-decoration: underline !important;text-decoration-thickness: 1px !important;background: transparent !important;box-shadow: none !important;outline: 0 !important}}
+html :where(main[data-cn-source-content]):is(body,main) *,html :where(main[data-cn-source-content]):is(body,main) *::before,html :where(main[data-cn-source-content]):is(body,main) *::after{text-decoration-skip-ink:none!important;-webkit-text-decoration-skip:none!important}
+:where(main[data-cn-source-content]) a[href^="mailto:"]{text-decoration-line:underline!important;text-decoration-style:solid!important;text-decoration-thickness:1px!important;text-underline-offset:3px!important;text-decoration-skip-ink:none!important;white-space:nowrap!important;word-break:normal!important;overflow-wrap:normal!important}

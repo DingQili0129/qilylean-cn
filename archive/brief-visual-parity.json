@@ -1,0 +1,5449 @@
+{
+  "briefs": 388,
+  "css_files": 14,
+  "items": [
+    {
+      "source": "qilylean/daily/2019-07-10.html",
+      "url": "/briefs/archive/2019-07-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-07-15.html",
+      "url": "/briefs/archive/2019-07-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-07-28.html",
+      "url": "/briefs/archive/2019-07-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-07-29.html",
+      "url": "/briefs/archive/2019-07-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-08-07.html",
+      "url": "/briefs/archive/2019-08-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-08-13.html",
+      "url": "/briefs/archive/2019-08-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-08-21.html",
+      "url": "/briefs/archive/2019-08-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-08-29.html",
+      "url": "/briefs/archive/2019-08-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-09-07.html",
+      "url": "/briefs/archive/2019-09-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-09-13.html",
+      "url": "/briefs/archive/2019-09-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-09-20.html",
+      "url": "/briefs/archive/2019-09-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-09-29.html",
+      "url": "/briefs/archive/2019-09-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-10-04.html",
+      "url": "/briefs/archive/2019-10-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-10-08.html",
+      "url": "/briefs/archive/2019-10-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-10-14.html",
+      "url": "/briefs/archive/2019-10-14/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-10-21.html",
+      "url": "/briefs/archive/2019-10-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-10-30.html",
+      "url": "/briefs/archive/2019-10-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-11-08.html",
+      "url": "/briefs/archive/2019-11-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-11-11.html",
+      "url": "/briefs/archive/2019-11-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-11-21.html",
+      "url": "/briefs/archive/2019-11-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-11-30.html",
+      "url": "/briefs/archive/2019-11-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-12-05.html",
+      "url": "/briefs/archive/2019-12-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-12-09.html",
+      "url": "/briefs/archive/2019-12-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-12-17.html",
+      "url": "/briefs/archive/2019-12-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-12-29.html",
+      "url": "/briefs/archive/2019-12-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2019-12-31.html",
+      "url": "/briefs/archive/2019-12-31/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-01-09.html",
+      "url": "/briefs/archive/2020-01-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-01-15.html",
+      "url": "/briefs/archive/2020-01-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-01-23.html",
+      "url": "/briefs/archive/2020-01-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-01-31.html",
+      "url": "/briefs/archive/2020-01-31/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-02-09.html",
+      "url": "/briefs/archive/2020-02-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-02-15.html",
+      "url": "/briefs/archive/2020-02-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-02-17.html",
+      "url": "/briefs/archive/2020-02-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-03-01.html",
+      "url": "/briefs/archive/2020-03-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-03-02.html",
+      "url": "/briefs/archive/2020-03-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-03-11.html",
+      "url": "/briefs/archive/2020-03-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-03-17.html",
+      "url": "/briefs/archive/2020-03-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-03-25.html",
+      "url": "/briefs/archive/2020-03-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-04-02.html",
+      "url": "/briefs/archive/2020-04-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-04-11.html",
+      "url": "/briefs/archive/2020-04-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-04-17.html",
+      "url": "/briefs/archive/2020-04-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-04-20.html",
+      "url": "/briefs/archive/2020-04-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-05-03.html",
+      "url": "/briefs/archive/2020-05-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-05-08.html",
+      "url": "/briefs/archive/2020-05-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-05-12.html",
+      "url": "/briefs/archive/2020-05-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-05-18.html",
+      "url": "/briefs/archive/2020-05-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-05-26.html",
+      "url": "/briefs/archive/2020-05-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-06-03.html",
+      "url": "/briefs/archive/2020-06-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-06-12.html",
+      "url": "/briefs/archive/2020-06-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-06-18.html",
+      "url": "/briefs/archive/2020-06-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-06-26.html",
+      "url": "/briefs/archive/2020-06-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-07-04.html",
+      "url": "/briefs/archive/2020-07-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-07-09.html",
+      "url": "/briefs/archive/2020-07-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-07-13.html",
+      "url": "/briefs/archive/2020-07-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-07-21.html",
+      "url": "/briefs/archive/2020-07-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-08-02.html",
+      "url": "/briefs/archive/2020-08-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-08-04.html",
+      "url": "/briefs/archive/2020-08-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-08-13.html",
+      "url": "/briefs/archive/2020-08-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-08-19.html",
+      "url": "/briefs/archive/2020-08-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-08-27.html",
+      "url": "/briefs/archive/2020-08-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-09-04.html",
+      "url": "/briefs/archive/2020-09-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-09-13.html",
+      "url": "/briefs/archive/2020-09-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-09-19.html",
+      "url": "/briefs/archive/2020-09-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-09-21.html",
+      "url": "/briefs/archive/2020-09-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-10-04.html",
+      "url": "/briefs/archive/2020-10-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-10-10.html",
+      "url": "/briefs/archive/2020-10-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-10-14.html",
+      "url": "/briefs/archive/2020-10-14/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-10-20.html",
+      "url": "/briefs/archive/2020-10-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-10-31.html",
+      "url": "/briefs/archive/2020-10-31/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-11-05.html",
+      "url": "/briefs/archive/2020-11-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-11-14.html",
+      "url": "/briefs/archive/2020-11-14/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-11-20.html",
+      "url": "/briefs/archive/2020-11-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-11-23.html",
+      "url": "/briefs/archive/2020-11-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-12-06.html",
+      "url": "/briefs/archive/2020-12-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-12-11.html",
+      "url": "/briefs/archive/2020-12-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-12-15.html",
+      "url": "/briefs/archive/2020-12-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-12-21.html",
+      "url": "/briefs/archive/2020-12-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2020-12-29.html",
+      "url": "/briefs/archive/2020-12-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-01-05.html",
+      "url": "/briefs/archive/2021-01-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-01-15.html",
+      "url": "/briefs/archive/2021-01-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-01-20.html",
+      "url": "/briefs/archive/2021-01-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-01-26.html",
+      "url": "/briefs/archive/2021-01-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-02-07.html",
+      "url": "/briefs/archive/2021-02-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-02-11.html",
+      "url": "/briefs/archive/2021-02-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-02-15.html",
+      "url": "/briefs/archive/2021-02-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-02-23.html",
+      "url": "/briefs/archive/2021-02-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-03-07.html",
+      "url": "/briefs/archive/2021-03-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-03-09.html",
+      "url": "/briefs/archive/2021-03-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-03-18.html",
+      "url": "/briefs/archive/2021-03-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-03-26.html",
+      "url": "/briefs/archive/2021-03-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-04-04.html",
+      "url": "/briefs/archive/2021-04-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-04-09.html",
+      "url": "/briefs/archive/2021-04-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-04-18.html",
+      "url": "/briefs/archive/2021-04-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-04-24.html",
+      "url": "/briefs/archive/2021-04-24/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-04-26.html",
+      "url": "/briefs/archive/2021-04-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-05-09.html",
+      "url": "/briefs/archive/2021-05-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-05-11.html",
+      "url": "/briefs/archive/2021-05-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-05-19.html",
+      "url": "/briefs/archive/2021-05-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-05-27.html",
+      "url": "/briefs/archive/2021-05-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-06-01.html",
+      "url": "/briefs/archive/2021-06-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-06-11.html",
+      "url": "/briefs/archive/2021-06-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-06-19.html",
+      "url": "/briefs/archive/2021-06-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-06-27.html",
+      "url": "/briefs/archive/2021-06-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-06-30.html",
+      "url": "/briefs/archive/2021-06-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-07-11.html",
+      "url": "/briefs/archive/2021-07-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-07-16.html",
+      "url": "/briefs/archive/2021-07-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-07-20.html",
+      "url": "/briefs/archive/2021-07-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-07-28.html",
+      "url": "/briefs/archive/2021-07-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-08-03.html",
+      "url": "/briefs/archive/2021-08-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-08-12.html",
+      "url": "/briefs/archive/2021-08-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-08-20.html",
+      "url": "/briefs/archive/2021-08-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-08-25.html",
+      "url": "/briefs/archive/2021-08-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-08-31.html",
+      "url": "/briefs/archive/2021-08-31/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-09-12.html",
+      "url": "/briefs/archive/2021-09-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-09-16.html",
+      "url": "/briefs/archive/2021-09-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-09-20.html",
+      "url": "/briefs/archive/2021-09-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-09-28.html",
+      "url": "/briefs/archive/2021-09-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-10-10.html",
+      "url": "/briefs/archive/2021-10-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-10-17.html",
+      "url": "/briefs/archive/2021-10-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-10-21.html",
+      "url": "/briefs/archive/2021-10-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-10-29.html",
+      "url": "/briefs/archive/2021-10-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-11-01.html",
+      "url": "/briefs/archive/2021-11-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-11-12.html",
+      "url": "/briefs/archive/2021-11-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-11-21.html",
+      "url": "/briefs/archive/2021-11-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-11-26.html",
+      "url": "/briefs/archive/2021-11-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-11-29.html",
+      "url": "/briefs/archive/2021-11-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-12-12.html",
+      "url": "/briefs/archive/2021-12-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-12-18.html",
+      "url": "/briefs/archive/2021-12-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-12-22.html",
+      "url": "/briefs/archive/2021-12-22/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2021-12-28.html",
+      "url": "/briefs/archive/2021-12-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-01-04.html",
+      "url": "/briefs/archive/2022-01-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-01-13.html",
+      "url": "/briefs/archive/2022-01-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-01-22.html",
+      "url": "/briefs/archive/2022-01-22/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-01-28.html",
+      "url": "/briefs/archive/2022-01-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-02-02.html",
+      "url": "/briefs/archive/2022-02-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-02-13.html",
+      "url": "/briefs/archive/2022-02-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-02-18.html",
+      "url": "/briefs/archive/2022-02-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-02-22.html",
+      "url": "/briefs/archive/2022-02-22/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-02-28.html",
+      "url": "/briefs/archive/2022-02-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-03-07.html",
+      "url": "/briefs/archive/2022-03-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-03-16.html",
+      "url": "/briefs/archive/2022-03-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-03-25.html",
+      "url": "/briefs/archive/2022-03-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-03-28.html",
+      "url": "/briefs/archive/2022-03-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-04-07.html",
+      "url": "/briefs/archive/2022-04-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-04-16.html",
+      "url": "/briefs/archive/2022-04-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-04-21.html",
+      "url": "/briefs/archive/2022-04-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-04-25.html",
+      "url": "/briefs/archive/2022-04-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-05-03.html",
+      "url": "/briefs/archive/2022-05-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-05-15.html",
+      "url": "/briefs/archive/2022-05-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-05-17.html",
+      "url": "/briefs/archive/2022-05-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-05-26.html",
+      "url": "/briefs/archive/2022-05-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-06-01.html",
+      "url": "/briefs/archive/2022-06-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-06-08.html",
+      "url": "/briefs/archive/2022-06-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-06-17.html",
+      "url": "/briefs/archive/2022-06-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-06-26.html",
+      "url": "/briefs/archive/2022-06-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-07-02.html",
+      "url": "/briefs/archive/2022-07-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-07-04.html",
+      "url": "/briefs/archive/2022-07-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-07-17.html",
+      "url": "/briefs/archive/2022-07-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-07-18.html",
+      "url": "/briefs/archive/2022-07-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-07-27.html",
+      "url": "/briefs/archive/2022-07-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-08-02.html",
+      "url": "/briefs/archive/2022-08-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-08-09.html",
+      "url": "/briefs/archive/2022-08-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-08-18.html",
+      "url": "/briefs/archive/2022-08-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-08-27.html",
+      "url": "/briefs/archive/2022-08-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-09-02.html",
+      "url": "/briefs/archive/2022-09-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-09-05.html",
+      "url": "/briefs/archive/2022-09-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-09-18.html",
+      "url": "/briefs/archive/2022-09-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-09-23.html",
+      "url": "/briefs/archive/2022-09-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-09-27.html",
+      "url": "/briefs/archive/2022-09-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-10-03.html",
+      "url": "/briefs/archive/2022-10-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-10-10.html",
+      "url": "/briefs/archive/2022-10-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-10-19.html",
+      "url": "/briefs/archive/2022-10-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-10-28.html",
+      "url": "/briefs/archive/2022-10-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-11-03.html",
+      "url": "/briefs/archive/2022-11-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-11-07.html",
+      "url": "/briefs/archive/2022-11-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-11-19.html",
+      "url": "/briefs/archive/2022-11-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-11-24.html",
+      "url": "/briefs/archive/2022-11-24/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-11-28.html",
+      "url": "/briefs/archive/2022-11-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-12-06.html",
+      "url": "/briefs/archive/2022-12-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-12-18.html",
+      "url": "/briefs/archive/2022-12-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-12-19.html",
+      "url": "/briefs/archive/2022-12-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2022-12-29.html",
+      "url": "/briefs/archive/2022-12-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-01-04.html",
+      "url": "/briefs/archive/2023-01-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-01-11.html",
+      "url": "/briefs/archive/2023-01-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-01-20.html",
+      "url": "/briefs/archive/2023-01-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-01-29.html",
+      "url": "/briefs/archive/2023-01-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-02-04.html",
+      "url": "/briefs/archive/2023-02-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-02-06.html",
+      "url": "/briefs/archive/2023-02-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-02-19.html",
+      "url": "/briefs/archive/2023-02-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-02-25.html",
+      "url": "/briefs/archive/2023-02-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-03-01.html",
+      "url": "/briefs/archive/2023-03-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-03-07.html",
+      "url": "/briefs/archive/2023-03-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-03-14.html",
+      "url": "/briefs/archive/2023-03-14/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-03-24.html",
+      "url": "/briefs/archive/2023-03-24/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-04-01.html",
+      "url": "/briefs/archive/2023-04-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-04-07.html",
+      "url": "/briefs/archive/2023-04-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-04-14.html",
+      "url": "/briefs/archive/2023-04-14/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-04-23.html",
+      "url": "/briefs/archive/2023-04-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-04-28.html",
+      "url": "/briefs/archive/2023-04-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-05-02.html",
+      "url": "/briefs/archive/2023-05-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-05-10.html",
+      "url": "/briefs/archive/2023-05-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-05-20.html",
+      "url": "/briefs/archive/2023-05-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-05-25.html",
+      "url": "/briefs/archive/2023-05-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-06-02.html",
+      "url": "/briefs/archive/2023-06-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-06-10.html",
+      "url": "/briefs/archive/2023-06-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-06-15.html",
+      "url": "/briefs/archive/2023-06-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-06-25.html",
+      "url": "/briefs/archive/2023-06-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-06-29.html",
+      "url": "/briefs/archive/2023-06-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-07-03.html",
+      "url": "/briefs/archive/2023-07-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-07-11.html",
+      "url": "/briefs/archive/2023-07-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-07-23.html",
+      "url": "/briefs/archive/2023-07-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-07-30.html",
+      "url": "/briefs/archive/2023-07-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-08-03.html",
+      "url": "/briefs/archive/2023-08-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-08-11.html",
+      "url": "/briefs/archive/2023-08-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-08-16.html",
+      "url": "/briefs/archive/2023-08-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-08-26.html",
+      "url": "/briefs/archive/2023-08-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-09-03.html",
+      "url": "/briefs/archive/2023-09-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-09-09.html",
+      "url": "/briefs/archive/2023-09-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-09-11.html",
+      "url": "/briefs/archive/2023-09-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-09-24.html",
+      "url": "/briefs/archive/2023-09-24/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-09-30.html",
+      "url": "/briefs/archive/2023-09-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-10-04.html",
+      "url": "/briefs/archive/2023-10-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-10-10.html",
+      "url": "/briefs/archive/2023-10-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-10-17.html",
+      "url": "/briefs/archive/2023-10-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-10-26.html",
+      "url": "/briefs/archive/2023-10-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-11-04.html",
+      "url": "/briefs/archive/2023-11-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-11-10.html",
+      "url": "/briefs/archive/2023-11-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-11-15.html",
+      "url": "/briefs/archive/2023-11-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-11-26.html",
+      "url": "/briefs/archive/2023-11-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-12-01.html",
+      "url": "/briefs/archive/2023-12-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-12-05.html",
+      "url": "/briefs/archive/2023-12-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-12-13.html",
+      "url": "/briefs/archive/2023-12-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-12-18.html",
+      "url": "/briefs/archive/2023-12-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2023-12-28.html",
+      "url": "/briefs/archive/2023-12-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-01-05.html",
+      "url": "/briefs/archive/2024-01-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-01-13.html",
+      "url": "/briefs/archive/2024-01-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-01-16.html",
+      "url": "/briefs/archive/2024-01-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-01-25.html",
+      "url": "/briefs/archive/2024-01-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-02-01.html",
+      "url": "/briefs/archive/2024-02-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-02-05.html",
+      "url": "/briefs/archive/2024-02-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-02-13.html",
+      "url": "/briefs/archive/2024-02-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-02-25.html",
+      "url": "/briefs/archive/2024-02-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-03-03.html",
+      "url": "/briefs/archive/2024-03-03/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-03-07.html",
+      "url": "/briefs/archive/2024-03-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-03-12.html",
+      "url": "/briefs/archive/2024-03-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-03-18.html",
+      "url": "/briefs/archive/2024-03-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-03-27.html",
+      "url": "/briefs/archive/2024-03-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-04-07.html",
+      "url": "/briefs/archive/2024-04-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-04-12.html",
+      "url": "/briefs/archive/2024-04-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-04-15.html",
+      "url": "/briefs/archive/2024-04-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-04-27.html",
+      "url": "/briefs/archive/2024-04-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-05-04.html",
+      "url": "/briefs/archive/2024-05-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-05-08.html",
+      "url": "/briefs/archive/2024-05-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-05-13.html",
+      "url": "/briefs/archive/2024-05-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-05-25.html",
+      "url": "/briefs/archive/2024-05-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-05-28.html",
+      "url": "/briefs/archive/2024-05-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-06-08.html",
+      "url": "/briefs/archive/2024-06-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-06-16.html",
+      "url": "/briefs/archive/2024-06-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-06-19.html",
+      "url": "/briefs/archive/2024-06-19/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-06-28.html",
+      "url": "/briefs/archive/2024-06-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-07-05.html",
+      "url": "/briefs/archive/2024-07-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-07-09.html",
+      "url": "/briefs/archive/2024-07-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-07-17.html",
+      "url": "/briefs/archive/2024-07-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-07-27.html",
+      "url": "/briefs/archive/2024-07-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-07-29.html",
+      "url": "/briefs/archive/2024-07-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-08-09.html",
+      "url": "/briefs/archive/2024-08-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-08-17.html",
+      "url": "/briefs/archive/2024-08-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-08-20.html",
+      "url": "/briefs/archive/2024-08-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-08-29.html",
+      "url": "/briefs/archive/2024-08-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-09-05.html",
+      "url": "/briefs/archive/2024-09-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-09-09.html",
+      "url": "/briefs/archive/2024-09-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-09-17.html",
+      "url": "/briefs/archive/2024-09-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-09-29.html",
+      "url": "/briefs/archive/2024-09-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-10-06.html",
+      "url": "/briefs/archive/2024-10-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-10-10.html",
+      "url": "/briefs/archive/2024-10-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-10-18.html",
+      "url": "/briefs/archive/2024-10-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-10-24.html",
+      "url": "/briefs/archive/2024-10-24/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-10-30.html",
+      "url": "/briefs/archive/2024-10-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-11-06.html",
+      "url": "/briefs/archive/2024-11-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-11-15.html",
+      "url": "/briefs/archive/2024-11-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-11-18.html",
+      "url": "/briefs/archive/2024-11-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-11-30.html",
+      "url": "/briefs/archive/2024-11-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-12-07.html",
+      "url": "/briefs/archive/2024-12-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-12-11.html",
+      "url": "/briefs/archive/2024-12-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-12-16.html",
+      "url": "/briefs/archive/2024-12-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-12-25.html",
+      "url": "/briefs/archive/2024-12-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2024-12-31.html",
+      "url": "/briefs/archive/2024-12-31/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-01-11.html",
+      "url": "/briefs/archive/2025-01-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-01-17.html",
+      "url": "/briefs/archive/2025-01-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-01-22.html",
+      "url": "/briefs/archive/2025-01-22/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-02-02.html",
+      "url": "/briefs/archive/2025-02-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-02-07.html",
+      "url": "/briefs/archive/2025-02-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-02-11.html",
+      "url": "/briefs/archive/2025-02-11/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-02-17.html",
+      "url": "/briefs/archive/2025-02-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-02-24.html",
+      "url": "/briefs/archive/2025-02-24/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-03-05.html",
+      "url": "/briefs/archive/2025-03-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-03-14.html",
+      "url": "/briefs/archive/2025-03-14/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-03-20.html",
+      "url": "/briefs/archive/2025-03-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-03-25.html",
+      "url": "/briefs/archive/2025-03-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-04-05.html",
+      "url": "/briefs/archive/2025-04-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-04-10.html",
+      "url": "/briefs/archive/2025-04-10/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-04-14.html",
+      "url": "/briefs/archive/2025-04-14/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-04-22.html",
+      "url": "/briefs/archive/2025-04-22/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-05-04.html",
+      "url": "/briefs/archive/2025-05-04/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-05-06.html",
+      "url": "/briefs/archive/2025-05-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-05-15.html",
+      "url": "/briefs/archive/2025-05-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-05-21.html",
+      "url": "/briefs/archive/2025-05-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-05-28.html",
+      "url": "/briefs/archive/2025-05-28/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-06-06.html",
+      "url": "/briefs/archive/2025-06-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-06-15.html",
+      "url": "/briefs/archive/2025-06-15/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-06-21.html",
+      "url": "/briefs/archive/2025-06-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-06-23.html",
+      "url": "/briefs/archive/2025-06-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-07-06.html",
+      "url": "/briefs/archive/2025-07-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-07-07.html",
+      "url": "/briefs/archive/2025-07-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-07-16.html",
+      "url": "/briefs/archive/2025-07-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-07-22.html",
+      "url": "/briefs/archive/2025-07-22/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-07-29.html",
+      "url": "/briefs/archive/2025-07-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-08-07.html",
+      "url": "/briefs/archive/2025-08-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-08-16.html",
+      "url": "/briefs/archive/2025-08-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-08-22.html",
+      "url": "/briefs/archive/2025-08-22/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-08-27.html",
+      "url": "/briefs/archive/2025-08-27/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-09-07.html",
+      "url": "/briefs/archive/2025-09-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-09-08.html",
+      "url": "/briefs/archive/2025-09-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-09-16.html",
+      "url": "/briefs/archive/2025-09-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-09-22.html",
+      "url": "/briefs/archive/2025-09-22/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-09-29.html",
+      "url": "/briefs/archive/2025-09-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-10-08.html",
+      "url": "/briefs/archive/2025-10-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-10-17.html",
+      "url": "/briefs/archive/2025-10-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-10-23.html",
+      "url": "/briefs/archive/2025-10-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-10-30.html",
+      "url": "/briefs/archive/2025-10-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-11-08.html",
+      "url": "/briefs/archive/2025-11-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-11-13.html",
+      "url": "/briefs/archive/2025-11-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-11-17.html",
+      "url": "/briefs/archive/2025-11-17/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-11-25.html",
+      "url": "/briefs/archive/2025-11-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-12-07.html",
+      "url": "/briefs/archive/2025-12-07/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-12-09.html",
+      "url": "/briefs/archive/2025-12-09/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-12-18.html",
+      "url": "/briefs/archive/2025-12-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 36,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-12-26.html",
+      "url": "/briefs/archive/2025-12-26/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2025-12-30.html",
+      "url": "/briefs/archive/2025-12-30/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 246,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/npi-four-stage-series-v1.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-01-08.html",
+      "url": "/briefs/archive/2026-01-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-01-18.html",
+      "url": "/briefs/archive/2026-01-18/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-01-23.html",
+      "url": "/briefs/archive/2026-01-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 246,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/npi-four-stage-series-v1.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-02-01.html",
+      "url": "/briefs/archive/2026-02-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-02-02.html",
+      "url": "/briefs/archive/2026-02-02/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 29,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-02-12.html",
+      "url": "/briefs/archive/2026-02-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-02-16.html",
+      "url": "/briefs/archive/2026-02-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 246,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/npi-four-stage-series-v1.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-02-25.html",
+      "url": "/briefs/archive/2026-02-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-03-08.html",
+      "url": "/briefs/archive/2026-03-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-03-12.html",
+      "url": "/briefs/archive/2026-03-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 246,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/npi-four-stage-series-v1.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-03-21.html",
+      "url": "/briefs/archive/2026-03-21/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-03-23.html",
+      "url": "/briefs/archive/2026-03-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 29,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-04-05.html",
+      "url": "/briefs/archive/2026-04-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 246,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/npi-four-stage-series-v1.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-04-12.html",
+      "url": "/briefs/archive/2026-04-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 29,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-04-14.html",
+      "url": "/briefs/archive/2026-04-14/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-04-25.html",
+      "url": "/briefs/archive/2026-04-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-04-29.html",
+      "url": "/briefs/archive/2026-04-29/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 246,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/npi-four-stage-series-v1.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-05-08.html",
+      "url": "/briefs/archive/2026-05-08/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-05-13.html",
+      "url": "/briefs/archive/2026-05-13/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 29,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-05-23.html",
+      "url": "/briefs/archive/2026-05-23/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 246,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/npi-four-stage-series-v1.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-05-31.html",
+      "url": "/briefs/archive/2026-05-31/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 29,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-06-01.html",
+      "url": "/briefs/archive/2026-06-01/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-06-12.html",
+      "url": "/briefs/archive/2026-06-12/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 29,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-06-16.html",
+      "url": "/briefs/archive/2026-06-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 246,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/npi-four-stage-series-v1.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-06-25.html",
+      "url": "/briefs/archive/2026-06-25/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-07-05.html",
+      "url": "/briefs/archive/2026-07-05/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 34,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-07-06.html",
+      "url": "/briefs/archive/2026-07-06/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 30,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-07-16.html",
+      "url": "/briefs/archive/2026-07-16/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 30,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-07-20.html",
+      "url": "/briefs/archive/2026-07-20/",
+      "layout": "legacy",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 30,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-07-29.html",
+      "url": "/briefs/archive/2026-07-29/",
+      "layout": "rich",
+      "source_svg": 1,
+      "cn_svg": 1,
+      "visual_class_nodes": 43,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-08-08.html",
+      "url": "/briefs/archive/2026-08-08/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 24,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-08-09.html",
+      "url": "/briefs/archive/2026-08-09/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 27,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-08-12.html",
+      "url": "/briefs/archive/2026-08-12/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 25,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-08-14.html",
+      "url": "/briefs/archive/2026-08-14/",
+      "layout": "rich",
+      "source_svg": 4,
+      "cn_svg": 4,
+      "visual_class_nodes": 33,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 3,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-08-19.html",
+      "url": "/briefs/archive/2026-08-19/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 73,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 3,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-08-25.html",
+      "url": "/briefs/archive/2026-08-25/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 257,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 3,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/daily-briefs.css",
+        "/assets/brief-visual-source/qilylean/daily-brief-unified-layout-v2.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-09-04.html",
+      "url": "/briefs/archive/2026-09-04/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 77,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-09-13.html",
+      "url": "/briefs/archive/2026-09-13/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 71,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/assets/2026-09-13-brief.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-09-20.html",
+      "url": "/briefs/archive/2026-09-20/",
+      "layout": "rich",
+      "source_svg": 3,
+      "cn_svg": 3,
+      "visual_class_nodes": 74,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/assets/2026-09-20-brief.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-09-23.html",
+      "url": "/briefs/archive/2026-09-23/",
+      "layout": "rich",
+      "source_svg": 4,
+      "cn_svg": 4,
+      "visual_class_nodes": 87,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/assets/2026-09-23-brief.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-09-28.html",
+      "url": "/briefs/archive/2026-09-28/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 75,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/assets/2026-09-28-brief.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-10-11.html",
+      "url": "/briefs/archive/2026-10-11/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 49,
+      "inline_style_nodes": 3,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-10-18.html",
+      "url": "/briefs/archive/2026-10-18/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 79,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css",
+        "/assets/brief-visual-source/qilylean/daily/assets/2026-10-18-brief.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-10-25.html",
+      "url": "/briefs/archive/2026-10-25/",
+      "layout": "rich",
+      "source_svg": 1,
+      "cn_svg": 1,
+      "visual_class_nodes": 121,
+      "inline_style_nodes": 3,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css",
+        "/assets/brief-visual-source/qilylean/daily/assets/2026-10-25-brief.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-10-27.html",
+      "url": "/briefs/archive/2026-10-27/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 48,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-10-31.html",
+      "url": "/briefs/archive/2026-10-31/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 62,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-11-01.html",
+      "url": "/briefs/archive/2026-11-01/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 68,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css",
+        "/assets/brief-visual-source/qilylean/daily/assets/2026-11-01-brief.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-11-08.html",
+      "url": "/briefs/archive/2026-11-08/",
+      "layout": "rich",
+      "source_svg": 1,
+      "cn_svg": 1,
+      "visual_class_nodes": 81,
+      "inline_style_nodes": 3,
+      "scoped_style_blocks": 3,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css"
+      ]
+    },
+    {
+      "source": "qilylean/daily/2026-11-10.html",
+      "url": "/briefs/archive/2026-11-10/",
+      "layout": "rich",
+      "source_svg": 0,
+      "cn_svg": 0,
+      "visual_class_nodes": 71,
+      "inline_style_nodes": 0,
+      "scoped_style_blocks": 2,
+      "source_css": [
+        "/assets/brief-visual-source/qilylean/knowledge-brief.css",
+        "/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css",
+        "/assets/brief-visual-source/qilylean/daily/assets/2026-11-10-brief.css"
+      ]
+    }
+  ]
+}

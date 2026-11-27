@@ -1,0 +1,43 @@
+:where(main[data-cn-source-content]){--ql-dark-title:#fff;--ql-dark-body:#e4f1ee;--ql-dark-muted:#d3e5e1;--ql-deep:#073c47;--ql-gold:#caa15f;--ql-light-gold:#ffe39b;--ql-vi-hero-bg:linear-gradient(118deg,rgba(7,60,71,.99),rgba(15,75,90,.97) 58%,rgba(23,139,148,.90))}
+html :where(main[data-cn-source-content]):is(body,main) [data-qily-content-contrast-fixed="dark"]{color:#173f49!important;-webkit-text-fill-color:#173f49!important}
+html :where(main[data-cn-source-content]):is(body,main) [data-qily-content-contrast-fixed="light"]{color:#fff!important;-webkit-text-fill-color:#fff!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) .rule-table thead :is(th,td),html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) .career-table thead :is(th,td),html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.qily-table-dark,.table-dark,[data-qily-table-theme="dark"]) thead :is(th,td),html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.qily-dark-band,[data-qily-dark-band="true"]) :is(h1,h2,h3,h4,h5,h6,p,li,span,strong,b,small,label,th,td){color:var(--ql-dark-title)!important;-webkit-text-fill-color:var(--ql-dark-title)!important;opacity:1!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.qily-dark-band,[data-qily-dark-band="true"]) :is(.eyebrow,.kicker,.section-kicker,.meta,.fine,small){color:var(--ql-light-gold)!important;-webkit-text-fill-color:var(--ql-light-gold)!important}
+html :where(main[data-cn-source-content]):is(body,main) #qilyTerminologyStaticCount,html :where(main[data-cn-source-content]):is(body,main) #qilyTerminologyLiveDataNote,html :where(main[data-cn-source-content]):is(body,main) .qily-live-data-note,html :where(main[data-cn-source-content]):is(body,main) [data-qily-light-surface="true"],html :where(main[data-cn-source-content]):is(body,main) .engineering-checklist,html :where(main[data-cn-source-content]):is(body,main) .term-count,html :where(main[data-cn-source-content]):is(body,main) .module-section .notice,html :where(main[data-cn-source-content]):is(body,main) .module-section .callout,html :where(main[data-cn-source-content]):is(body,main) .module-section .summary,html :where(main[data-cn-source-content]):is(body,main) .module-section .insight,html :where(main[data-cn-source-content]):is(body,main) .module-section .lead{color:#315f64!important;-webkit-text-fill-color:#315f64!important}
+html :where(main[data-cn-source-content]):is(body,main) #qilyTerminologyStaticCount strong,html :where(main[data-cn-source-content]):is(body,main) #qilyTerminologyLiveDataNote strong,html :where(main[data-cn-source-content]):is(body,main) .qily-live-data-note strong,html :where(main[data-cn-source-content]):is(body,main) [data-qily-light-surface="true"] strong,html :where(main[data-cn-source-content]):is(body,main) .engineering-checklist strong,html :where(main[data-cn-source-content]):is(body,main) .module-section .notice strong,html :where(main[data-cn-source-content]):is(body,main) .module-section .callout strong,html :where(main[data-cn-source-content]):is(body,main) .module-section .summary strong,html :where(main[data-cn-source-content]):is(body,main) .module-section .insight strong,html :where(main[data-cn-source-content]):is(body,main) .module-section .lead strong{color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .hero,.module-hero,.daily-hero,.document-hero,.project-hero,.projects-hero,
+  .cooperation-hero,.capability-hero,.capabilities-hero,.experience-hero,
+  .improvement-hero,.improvements-hero,.knowledge-hero,.trust-hero,.article-hero,
+  .article-hub,.qily-ia-dark,.closing,[data-qily-dark-surface],[data-theme="dark"]
+) :is(.eyebrow,.module-eyebrow,.qily-ia-kicker,.kicker,.section-kicker,small,.meta,.fine){color:#ffe39b!important;-webkit-text-fill-color:#ffe39b!important;opacity:1!important;filter:none!important;mix-blend-mode:normal!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .hero,.module-hero,.daily-hero,.document-hero,.project-hero,.projects-hero,
+  .cooperation-hero,.capability-hero,.capabilities-hero,.experience-hero,
+  .improvement-hero,.improvements-hero,.knowledge-hero,.trust-hero,.article-hero,
+  .article-hub,.qily-ia-dark,.closing,[data-qily-dark-surface],[data-theme="dark"]
+) :is(h1,h2,h3,.lead,.hero-lead,.module-lead){color:#fff!important;-webkit-text-fill-color:#fff!important;opacity:1!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .hero,.module-hero,.daily-hero,.document-hero,.project-hero,.projects-hero,
+  .cooperation-hero,.capability-hero,.capabilities-hero,.experience-hero,
+  .improvement-hero,.improvements-hero,.knowledge-hero,.trust-hero,.article-hero,
+  .article-hub,.qily-ia-dark,.closing,[data-qily-dark-surface],[data-theme="dark"]
+) [data-qily-light-surface="true"],html :where(main[data-cn-source-content]):is(body,main) :is(
+  .hero,.module-hero,.daily-hero,.document-hero,.project-hero,.projects-hero,
+  .cooperation-hero,.capability-hero,.capabilities-hero,.experience-hero,
+  .improvement-hero,.improvements-hero,.knowledge-hero,.trust-hero,.article-hero,
+  .article-hub,.qily-ia-dark,.closing,[data-qily-dark-surface],[data-theme="dark"]
+) [data-qily-light-surface="true"] :is(p,li,span,small,strong,b,h1,h2,h3,h4,h5,h6){color:#315f64!important;-webkit-text-fill-color:#315f64!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .hero,.module-hero,.daily-hero,.document-hero,.project-hero,.projects-hero,
+  .cooperation-hero,.capability-hero,.capabilities-hero,.experience-hero,
+  .improvement-hero,.improvements-hero,.knowledge-hero,.trust-hero,.article-hero,
+  .article-hub,.qily-ia-dark,.closing,[data-qily-dark-surface],[data-theme="dark"]
+) [data-qily-light-surface="true"] :is(strong,b,h1,h2,h3,h4,h5,h6){color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important}
+html :where(main[data-cn-source-content]):is(body,main) [data-qily-content-contrast-fixed]{opacity:1!important}
+html:root :where(main[data-cn-source-content]):is(body,main) :is(
+  .hero,.module-hero,.daily-hero,.document-hero,.project-hero,.projects-hero,
+  .cooperation-hero,.capability-hero,.capabilities-hero,.experience-hero,
+  .improvement-hero,.improvements-hero,.knowledge-hero,.trust-hero,.article-hero,
+  .article-hub,.tool-hero,[data-qily-hero-surface="dark"]
+){background-color:#0f4b5a!important;background-image:var(--ql-vi-hero-bg)!important;border-bottom-color:rgba(202,161,95,.48)!important;filter:none!important;mix-blend-mode:normal!important}

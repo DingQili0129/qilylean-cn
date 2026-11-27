@@ -1,0 +1,63 @@
+:where(main[data-cn-source-content]){--qily-brief-content-axis:var(--qily-wide-content,1180px);--qily-brief-gutter:var(--qily-wide-gutter,clamp(14px,2.2vw,40px));--qily-brief-media-axis:1040px;--qily-brief-font-h1:clamp(30px,2.05vw,36px);--qily-brief-font-h2:clamp(23px,1.5vw,28px);--qily-brief-font-h3:clamp(19px,1.25vw,22px);--qily-brief-font-lead:clamp(18px,1.15vw,20px);--qily-brief-font-body:clamp(16px,.95vw,18px);--qily-brief-font-small:14px}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(
+  .knowledge-brief-top-nav,
+  .knowledge-brief-hero,
+  .knowledge-brief-map,
+  .knowledge-brief-section
+){width:100%!important;max-width:none!important;margin-left:0!important;margin-right:0!important;padding-left:var(--qily-brief-gutter)!important;padding-right:var(--qily-brief-gutter)!important;box-sizing:border-box!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(
+  .knowledge-brief-top-nav,
+  .knowledge-brief-hero,
+  .knowledge-brief-map,
+  .knowledge-brief-section
+) > .module-inner,html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .lean-brief-toc.module-inner,html main:where([data-cn-source-content])[data-qily-knowledge-brief][data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) > .module-inner{width:min(var(--qily-brief-content-axis),100%)!important;max-width:var(--qily-brief-content-axis)!important;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box!important}
+html main:where([data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) nav.lean-brief-toc.module-inner{display:flex!important;flex-wrap:wrap!important;gap:10px!important;width:min(var(--qily-brief-content-axis),calc(100% - 2 * var(--qily-brief-gutter)))!important;padding-block:20px!important}
+html main:where([data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) nav.lean-brief-toc.module-inner>a[href]{flex:1 1 140px;min-width:0;min-height:44px;box-sizing:border-box;padding:10px 14px;border:1px solid #b2ccc7;border-radius:8px;background:#fff;color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;font-size:clamp(16px,.9vw,18px)!important;line-height:1.5!important;text-decoration:none!important}
+html main:where([data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) nav.lean-brief-toc.module-inner>a[href]:is(:hover,:focus-visible){border-color:#0f4b5a;background:#eef7f5}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(
+  .lean-brief-copy,
+  .brief-copy,
+  .article-copy,
+  .post-copy,
+  .prose
+){width:100%!important;max-width:100%!important;max-inline-size:none!important;margin-left:0!important;margin-right:0!important;box-sizing:border-box!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .knowledge-brief-article{width:100%!important;max-width:none!important;margin-left:0!important;margin-right:0!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(
+  .knowledge-brief-hero h1,
+  .knowledge-brief-hero .module-lead,
+  .knowledge-brief-section .module-heading
+){width:100%!important;max-width:100%!important;max-inline-size:none!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .knowledge-brief-hero h1{font-size:var(--qily-brief-font-h1)!important;line-height:1.16!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .knowledge-brief-hero .module-lead{font-size:var(--qily-brief-font-lead)!important;line-height:1.62!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .knowledge-brief-section :is(.module-heading h2,h2){font-size:var(--qily-brief-font-h2)!important;line-height:1.28!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .knowledge-brief-section :is(.module-heading h3,h3),html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(.brief-role-shift strong,.brief-viewpoint p,.brief-chain-step strong,.brief-case-flow strong){font-size:var(--qily-brief-font-h3)!important;line-height:1.45!important}
+html main:where([data-cn-source-content])[data-qily-knowledge-brief][data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(p,li,dd,dt,blockquote,td),html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(.brief-terminology-audit,.lean-brief-case-note){font-size:var(--qily-brief-font-body)!important;line-height:1.72!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(.lean-brief-table th,.lean-brief-toc a){font-size:clamp(16px,.9vw,18px)!important;line-height:1.45!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(figcaption,.knowledge-brief-map small,.brief-chain-step span,.brief-viewpoint cite){font-size:var(--qily-brief-font-small)!important;line-height:1.6!important}
+html main:where([data-cn-source-content])[data-qily-knowledge-brief][data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(p,li,dd,dt,blockquote){max-width:none!important;max-inline-size:none!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .lean-brief-diagram{width:min(100%,var(--qily-brief-media-axis))!important;max-width:var(--qily-brief-media-axis)!important;margin-left:auto!important;margin-right:auto!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .lean-brief-diagram img{width:100%!important;max-width:100%!important;height:auto!important}
+@media(max-width:620px){:where(main[data-cn-source-content]){--qily-brief-gutter:15px;--qily-brief-font-h1:clamp(27px,7.2vw,32px);--qily-brief-font-h2:clamp(21px,5.8vw,25px);--qily-brief-font-h3:clamp(18px,5vw,21px);--qily-brief-font-lead:17px;--qily-brief-font-body:16px}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) :is(
+    .knowledge-brief-top-nav,
+    .knowledge-brief-hero,
+    .knowledge-brief-map,
+    .knowledge-brief-section
+  ) > .module-inner,html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .lean-brief-toc.module-inner{width:100%!important;max-width:100%!important}}
+html main:where([data-cn-source-content])[data-qily-knowledge-brief][data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) > .brief-feedback{width:min(var(--qily-brief-content-axis),calc(100% - var(--qily-brief-gutter) - var(--qily-brief-gutter)))!important;max-width:var(--qily-brief-content-axis)!important;min-width:0!important;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-svg .beam-title{font-size:var(--qily-brief-font-h2)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-svg :is(.leg-title,.core-title){font-size:var(--qily-brief-font-h3)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-svg :is(.beam-sub,.verify-title){font-size:var(--qily-brief-font-body)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-svg :is(
+  .leg-sub,.figure-note,.cause-node .sub,.flow-box .sub,.core-sub,.verify-sub,.feedback-label
+){font-size:var(--qily-brief-font-small)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-svg :is(.cause-node text,.flow-box text){font-size:var(--qily-brief-font-body)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .priority-strip i{font-size:var(--qily-brief-font-h3)!important}
+@media(max-width:680px){html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual .mobile-visual-head strong{font-size:var(--qily-brief-font-h3)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual .mobile-visual-head span,html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual :is(.mobile-visual-base,.mobile-role-card span,.mobile-factor-grid b,.tripod-figure figcaption){font-size:var(--qily-brief-font-small)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual .mobile-role-card strong,html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual .mobile-role-card b,html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual .mobile-verify-box strong,html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual .mobile-flow-stack>div>strong{font-size:var(--qily-brief-font-body)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual :is(
+    .mobile-factor-grid span,.mobile-verify-box span,.mobile-flow-stack>div>span,.mobile-feedback-strip
+  ){font-size:var(--qily-brief-font-small)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual .mobile-flow-stack>div>b{font-size:var(--qily-brief-font-small)!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) .tripod-mobile-visual :is(.mobile-down-arrow,.mobile-flow-stack>i){font-size:var(--qily-brief-font-h2)!important}}

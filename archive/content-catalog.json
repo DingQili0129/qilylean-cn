@@ -1,0 +1,59 @@
+{
+  "generated": 443,
+  "briefs": 388,
+  "non_brief": 55,
+  "groups": {
+    "briefs": {
+      "name": "精选简报",
+      "count": 388,
+      "url": "/briefs/",
+      "description": "制造工程、精益改善、IE、数智化与行业观察的长期精选简报档案。"
+    },
+    "manufacturing-engineering-ie": {
+      "name": "制造工程与 IE",
+      "count": 14,
+      "url": "/archive/categories/manufacturing-engineering-ie/",
+      "description": "标准工时、产能、线平衡、VSM、质量与制造系统等工程知识。"
+    },
+    "lean-improvement": {
+      "name": "精益与改善方法",
+      "count": 9,
+      "url": "/archive/categories/lean-improvement/",
+      "description": "SMED、PDCA、ECRS、标准化与持续改善方法的现场应用逻辑。"
+    },
+    "practice": {
+      "name": "实践案例",
+      "count": 9,
+      "url": "/archive/categories/practice/",
+      "description": "从真实制造场景沉淀的问题、方法、结果、证据与标准化复盘。"
+    },
+    "digital-professional": {
+      "name": "数智制造与专业资料",
+      "count": 5,
+      "url": "/archive/categories/digital-professional/",
+      "description": "AI、制造数智化、能力体系及其他适合公开学习的专业资料。"
+    },
+    "tools-reference": {
+      "name": "工具与参考资料",
+      "count": 12,
+      "url": "/archive/categories/tools-reference/",
+      "description": "术语、工具、标准、参考文献与可复用的制造学习资料。"
+    },
+    "learning-records": {
+      "name": "学习与公开记录",
+      "count": 6,
+      "url": "/archive/categories/learning-records/",
+      "description": "公开学习记录、能力证明与适合知识站长期保留的记录性内容。"
+    }
+  },
+  "brief_years": {
+    "2026": 49,
+    "2025": 52,
+    "2024": 53,
+    "2023": 52,
+    "2022": 52,
+    "2021": 52,
+    "2020": 52,
+    "2019": 26
+  }
+}

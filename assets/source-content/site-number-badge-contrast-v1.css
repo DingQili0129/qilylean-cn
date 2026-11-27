@@ -1,0 +1,14 @@
+:where(main[data-cn-source-content]){--qily-number-badge-bg:#075767;--qily-number-badge-ring:#178b94;--qily-number-badge-text:#ffffff}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .service-number,
+  .step-number,
+  .step-index,
+  .sequence-number,
+  .process-number,
+  .number-badge,
+  .workflow-number,
+  .timeline-number
+),html :where(main[data-cn-source-content]):is(body,main) :is(.process,.process-grid,.steps,.workflow,.workflow-grid,.timeline,.flow-grid) :is(.step,.process-step,.workflow-step,.timeline-step) > b:first-child{display:inline-grid!important;place-items:center!important;flex:0 0 auto!important;min-width:34px!important;min-height:34px!important;border:2px solid var(--qily-number-badge-text)!important;border-radius:999px!important;color:var(--qily-number-badge-text)!important;background:var(--qily-number-badge-bg)!important;box-shadow:0 0 0 2px var(--qily-number-badge-ring),0 4px 11px rgba(7,60,71,.22)!important;opacity:1!important;filter:none!important;mix-blend-mode:normal!important;-webkit-text-fill-color:var(--qily-number-badge-text)!important;text-shadow:none!important;font-weight:950!important;line-height:1!important}
+html :where(main[data-cn-source-content]):is(body,main) .service-number{width:42px!important;height:42px!important;min-width:42px!important;min-height:42px!important;font-size:16px!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(.process,.process-grid,.steps,.workflow,.workflow-grid,.timeline,.flow-grid) :is(.step,.process-step,.workflow-step,.timeline-step) > b:first-child,html :where(main[data-cn-source-content]):is(body,main) :is(.step-number,.step-index,.sequence-number,.process-number,.number-badge,.workflow-number,.timeline-number){width:34px!important;height:34px!important;font-size:14px!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(.service-number,.step-number,.step-index,.sequence-number,.process-number,.number-badge,.workflow-number,.timeline-number) *,html :where(main[data-cn-source-content]):is(body,main) :is(.process,.process-grid,.steps,.workflow,.workflow-grid,.timeline,.flow-grid) :is(.step,.process-step,.workflow-step,.timeline-step) > b:first-child *{color:var(--qily-number-badge-text)!important;-webkit-text-fill-color:var(--qily-number-badge-text)!important;opacity:1!important;filter:none!important;text-shadow:none!important}

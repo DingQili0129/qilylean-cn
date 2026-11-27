@@ -1,0 +1,57 @@
+:where(main[data-cn-source-content]){--qily-nav-border-hover:#c99a3e;--qily-nav-border-current:#ffe39b}
+html :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"]) > a[href]{box-sizing:border-box!important;border-style:solid!important;border-width:2px!important;border-top-color:transparent!important;border-right-color:transparent!important;border-bottom-color:transparent!important;border-left-color:transparent!important;background-clip:padding-box!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"]) > a[href]:is(
+  [aria-current],
+  [aria-selected="true"],
+  [data-current="true"],
+  [data-active="true"],
+  .active,
+  .current,
+  .is-active,
+  .selected
+){border-top-color:var(--qily-nav-border-current)!important;border-right-color:var(--qily-nav-border-current)!important;border-bottom-color:var(--qily-nav-border-current)!important;border-left-color:var(--qily-nav-border-current)!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"]) > a[href]:not(:is(
+  [aria-current],
+  [aria-selected="true"],
+  [data-current="true"],
+  [data-active="true"],
+  .active,
+  .current,
+  .is-active,
+  .selected
+)):hover,html :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"]) > a[href]:not(:is(
+  [aria-current],
+  [aria-selected="true"],
+  [data-current="true"],
+  [data-active="true"],
+  .active,
+  .current,
+  .is-active,
+  .selected
+)):focus-visible{border-top-color:var(--qily-nav-border-hover)!important;border-right-color:var(--qily-nav-border-hover)!important;border-bottom-color:var(--qily-nav-border-hover)!important;border-left-color:var(--qily-nav-border-hover)!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"]) > a[href]:is(
+  [aria-current],
+  [aria-selected="true"],
+  [data-current="true"],
+  [data-active="true"],
+  .active,
+  .current,
+  .is-active,
+  .selected
+):hover,html :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"]) > a[href]:is(
+  [aria-current],
+  [aria-selected="true"],
+  [data-current="true"],
+  [data-active="true"],
+  .active,
+  .current,
+  .is-active,
+  .selected
+):focus-visible,html :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"]) > a[href]:active{border-top-color:var(--qily-nav-border-current)!important;border-right-color:var(--qily-nav-border-current)!important;border-bottom-color:var(--qily-nav-border-current)!important;border-left-color:var(--qily-nav-border-current)!important}

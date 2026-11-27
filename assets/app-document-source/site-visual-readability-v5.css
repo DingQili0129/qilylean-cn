@@ -1,0 +1,258 @@
+:where(main[data-cn-source-content]){--qily-v5-green:#0f4b5a;--qily-v5-green-deep:#073c47;--qily-v5-ink:#182420;--qily-v5-copy:#3f5e5d;--qily-v5-gold:#caa15f;--qily-v5-gold-text:#b88b45;--qily-v5-gold-label:#b88b45;--qily-v5-gold-light:#ffe39b;--qily-v5-white:#ffffff;--qily-v5-soft:#f4faf8;--qily-v5-line:#bfd6d2;--qily-v5-small:20px;--qily-v5-small-strong:21px;--qily-v5-section-kicker:21px;--qily-r8-heading-ceiling:clamp(28px,2.25vw,38px);--qily-r8-content-title-ceiling:clamp(28px,2.15vw,34px);--qily-r8-section-heading-ceiling:clamp(24px,1.85vw,30px);--qily-r8-subheading-ceiling:clamp(20px,1.35vw,24px)}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) h1{font-size:var(--qily-r8-heading-ceiling)!important;line-height:1.08!important;letter-spacing:-.025em!important}
+@media(max-width:620px){html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) h1{font-size:clamp(27px,7.2vw,33px)!important}}
+html:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) div:where(.qily-app-document-wrap) .knowledge-brief-hero h1{font-size:var(--qily-r8-content-title-ceiling)!important;line-height:1.16!important;letter-spacing:-.018em!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) h2{font-size:var(--qily-r8-section-heading-ceiling)!important;line-height:1.20!important;letter-spacing:-.012em!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) h3{font-size:var(--qily-r8-subheading-ceiling)!important;line-height:1.28!important}
+@media(max-width:620px){html:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-class~="qily-knowledge-brief-page"]:is(body,main) div:where(.qily-app-document-wrap) .knowledge-brief-hero h1{font-size:clamp(27px,7vw,32px)!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) h2{font-size:clamp(23px,6.2vw,27px)!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) h3{font-size:clamp(20px,5.2vw,23px)!important}}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  small,figcaption,.caption,.meta,.fine,.eyebrow,.module-eyebrow,.qily-ia-kicker,
+  .kicker,.section-kicker,.tag,.tag-row li,.project-meta,.article-meta,.moment-count,
+  .gallery-tip,.empty,.project-card-brief,.project-fact small,.module-card>small,
+  .paper-card>small,.career-full-card>small,.qily-system-axis__title,.privacy-note,
+  .service-contract-meta span,.qily-secondary-link span,.qily-ia-secondary-link span
+){font-size:var(--qily-v5-small)!important;line-height:1.62!important;color:var(--qily-v5-copy)!important;-webkit-text-fill-color:var(--qily-v5-copy)!important;opacity:1!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .eyebrow,.hero-eyebrow,.module-eyebrow,.bridge-hero-eyebrow,.qily-ia-kicker,.kicker,.section-kicker,.module-kicker,
+  .resource-kicker,.qily-resource-network__kicker,.engineering-kicker,
+  .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker
+){font-size:var(--qily-v5-section-kicker)!important;line-height:1.5!important;color:var(--qily-v5-gold-text)!important;-webkit-text-fill-color:var(--qily-v5-gold-text)!important;font-weight:400!important;font-style:normal!important;letter-spacing:.035em!important;opacity:1!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .chip,.term-chip,.qily-term-chip,.method-chip,.qily-method-chip,.topic-chip,
+  .keyword-chip,.taxonomy-chip,.label-chip,.tech-tag,.tool-tag,.method-tag,
+  .glossary-tag,.topic-tag,.chips>span,.chips>li,.tags>span,.tags>li,
+  .brief-tags>span,.brief-tags>li,.tag-row>span,.tag-row>li,.term-row>span
+):not(a[href]):not(button):not([role="button"]):not([aria-current]):not([aria-selected="true"]):not(.active):not(.current):not(.is-active){color:#315b61!important;-webkit-text-fill-color:#315b61!important;background:#f7fbfa!important;background-image:none!important;border-color:#c9ddd8!important;box-shadow:none!important;transform:none!important;filter:none!important;outline:none!important;text-decoration:none!important;cursor:default!important;transition:none!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .chip,.term-chip,.qily-term-chip,.method-chip,.qily-method-chip,.topic-chip,
+  .keyword-chip,.taxonomy-chip,.label-chip,.tech-tag,.tool-tag,.method-tag,
+  .glossary-tag,.topic-tag,.chips>span,.chips>li,.tags>span,.tags>li,
+  .brief-tags>span,.brief-tags>li,.tag-row>span,.tag-row>li,.term-row>span
+):not(a[href]):not(button):not([role="button"]):not([aria-current]):not([aria-selected="true"]):not(.active):not(.current):not(.is-active):is(:hover,:active,:focus,:focus-visible){color:#315b61!important;-webkit-text-fill-color:#315b61!important;background:#f7fbfa!important;background-image:none!important;border-color:#c9ddd8!important;box-shadow:none!important;transform:none!important;filter:none!important;outline:none!important;text-decoration:none!important;cursor:default!important;transition:none!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .qily-ia-card>small,
+  .module-card.service-card .service-heading-link>small,
+  .module-card.service-card>small,
+  #engineering-enablers .module-card small,
+  #qily-digital-enablers .qily-ia-card small
+){font-size:var(--qily-v5-small-strong)!important;line-height:1.45!important;color:var(--qily-v5-green)!important;-webkit-text-fill-color:var(--qily-v5-green)!important;font-weight:950!important;letter-spacing:.015em!important;opacity:1!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.hero,.module-hero,.daily-hero,.project-hero,.projects-hero,.cooperation-hero,.capability-hero,.experience-hero,.improvement-hero,.knowledge-hero,.trust-hero,.qily-home-launch-section,.qily-ia-dark,[data-qily-hero]) :is(
+  .eyebrow,.hero-eyebrow,.module-eyebrow,.bridge-hero-eyebrow,.qily-ia-kicker,.kicker,.section-kicker,.module-kicker,
+  .resource-kicker,.qily-resource-network__kicker,.engineering-kicker,
+  .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker
+){color:var(--qily-v5-gold-light)!important;-webkit-text-fill-color:var(--qily-v5-gold-light)!important;font-weight:400!important;font-style:normal!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.hero,.module-hero,.daily-hero,.project-hero,.cooperation-hero,.qily-home-launch-section,.qily-ia-dark) small:not(.eyebrow):not(.module-eyebrow):not(.qily-ia-kicker):not(.kicker):not(.section-kicker){color:#edf9f6!important;-webkit-text-fill-color:#edf9f6!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) .service-number{display:inline-grid!important;place-items:center!important;width:48px!important;height:48px!important;min-width:48px!important;min-height:48px!important;padding:0!important;border:2px solid var(--qily-v5-white)!important;border-radius:999px!important;color:var(--qily-v5-white)!important;-webkit-text-fill-color:var(--qily-v5-white)!important;background:var(--qily-v5-green-deep)!important;box-shadow:0 0 0 3px var(--qily-v5-gold),0 6px 14px rgba(7,60,71,.24)!important;font-size:20px!important;font-weight:950!important;line-height:1!important;opacity:1!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) .service-number *{color:var(--qily-v5-white)!important;-webkit-text-fill-color:var(--qily-v5-white)!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.step-number,.step-index,.sequence-number,.process-number,.number-badge,.workflow-number,.timeline-number),html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.process,.process-grid,.steps,.workflow,.workflow-grid,.timeline,.flow-grid) :is(.step,.process-step,.workflow-step,.timeline-step)>b:first-child{width:38px!important;height:38px!important;min-width:38px!important;min-height:38px!important;color:var(--qily-v5-white)!important;-webkit-text-fill-color:var(--qily-v5-white)!important;background:var(--qily-v5-green-deep)!important;border:2px solid var(--qily-v5-white)!important;box-shadow:0 0 0 2px var(--qily-v5-gold)!important;font-size:16px!important;font-weight:950!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.qily-ia-card,.module-card.service-card,#engineering-enablers .module-card,#qily-digital-enablers .qily-ia-card){color:var(--qily-v5-ink)!important;background:var(--qily-v5-white)!important;border-color:var(--qily-v5-line)!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.qily-ia-card,.module-card.service-card) :is(h3,h4,strong){color:var(--qily-v5-green)!important;-webkit-text-fill-color:var(--qily-v5-green)!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.qily-ia-card,.module-card.service-card) p,html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.qily-ia-card,.module-card.service-card) li{color:var(--qily-v5-copy)!important;-webkit-text-fill-color:var(--qily-v5-copy)!important;font-size:20px!important;line-height:1.72!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(.qily-ia-result,.module-result,.module-note,.career-result,.project-result,.result,.output,.note,.notice,.status-detail,.upload-note){color:#244c4e!important;-webkit-text-fill-color:#244c4e!important;font-size:18.5px!important;line-height:1.7!important;opacity:1!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(#engineering-enablers,#qily-digital-enablers){background:var(--qily-v5-soft)!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(#engineering-enablers,#qily-digital-enablers) :is(.module-heading p,.qily-ia-heading p){color:#36585a!important;-webkit-text-fill-color:#36585a!important;font-size:18.5px!important;line-height:1.75!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .qily-ia-boundary,.qily-ia-pill-list li,.qily-ia-delivery-summary span,
+  .scope-list span,.project-card-brief,.project-fact small,.qily-card-link-hint,
+  .qily-evidence-grade-badge span,.qily-evidence-level-panel span,.record,.status-detail
+){font-size:20px!important;line-height:1.62!important;color:#36585a!important;-webkit-text-fill-color:#36585a!important}
+@media(max-width:620px){html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(small,figcaption,.caption,.meta,.fine,.eyebrow,.module-eyebrow,.qily-ia-kicker,.kicker,.section-kicker,.tag,.project-meta,.article-meta){font-size:20px!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+    .eyebrow,.module-eyebrow,.qily-ia-kicker,.kicker,.section-kicker,
+    .resource-kicker,.qily-resource-network__kicker,
+    .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker
+  ){font-size:21px!important;line-height:1.5!important}
+html :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) .service-number{width:46px!important;height:46px!important;min-width:46px!important;min-height:46px!important;font-size:20px!important}}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .service-number,.step-number,.step-index,.sequence-number,.process-number,.number-badge,
+  .workflow-number,.timeline-number,.section-number,.section-no,.stage-number,.stage-no,
+  .qily-step-number,.qily-step-no,.qily-stage-number,.qily-stage-no,.term-opl-num
+){color:#fff!important;-webkit-text-fill-color:#fff!important;text-shadow:none!important;opacity:1!important;filter:none!important;mix-blend-mode:normal!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .service-number,.step-number,.step-index,.sequence-number,.process-number,.number-badge,
+  .workflow-number,.timeline-number,.section-number,.section-no,.stage-number,.stage-no,
+  .qily-step-number,.qily-step-no,.qily-stage-number,.qily-stage-no,.term-opl-num
+) *{color:#fff!important;-webkit-text-fill-color:#fff!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) .w8{counter-reset:qily-w8-section}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) .w8 > .section-head{counter-increment:qily-w8-section}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) .w8 > .section-head > .section-no{font-size:0!important;line-height:1!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) .w8 > .section-head > .section-no::before{content:counter(qily-w8-section,simp-chinese-informal);display:block;color:#fff!important;-webkit-text-fill-color:#fff!important;font-size:20px!important;font-weight:950!important;line-height:1!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) :is(
+  .w8 .tag,
+  .w8 .num,
+  .w8 .section-no,
+  .w8 .step > b:first-child,
+  .lean-delivery-brief .section-title .no,
+  .lean-delivery-brief .flow-step > b:first-child
+){color:#fff!important;-webkit-text-fill-color:#fff!important;text-shadow:none!important;opacity:1!important;filter:none!important;mix-blend-mode:normal!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) :is(
+  .w8 .tag,
+  .w8 .num,
+  .w8 .section-no,
+  .w8 .step > b:first-child,
+  .lean-delivery-brief .section-title .no,
+  .lean-delivery-brief .flow-step > b:first-child
+) *{color:#fff!important;-webkit-text-fill-color:#fff!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) .w8 .hero .kicker{color:#ffe39b!important;-webkit-text-fill-color:#ffe39b!important;border-color:rgba(255,227,155,.62)!important;background:rgba(7,60,71,.34)!important;opacity:1!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) :is(
+  .brief-one-point-training,
+  .brief-one-point-grid > div,
+  .brief-one-point-interface,
+  .brief-one-point-check,
+  .brief-learning-card,
+  .engineering-checklist,
+  .checklist,
+  .formula-card,
+  .owner-card,
+  .status-card,
+  .brief-related-grid > a,
+  .brief-action-strip > span,
+  .w8 .insight,
+  .w8 .case,
+  .w8 .scene,
+  .w8 .node,
+  .w8 .overview-card,
+  .w8 .audit > div,
+  .lean-delivery-brief .mind-card,
+  .lean-delivery-brief .tool-card,
+  .lean-delivery-brief .flow-step,
+  .lean-delivery-brief .value-card
+){color:#274744!important;-webkit-text-fill-color:#274744!important;opacity:1!important;filter:none!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) :is(
+  .brief-one-point-training,
+  .brief-one-point-grid > div,
+  .brief-one-point-interface,
+  .brief-one-point-check,
+  .brief-learning-card,
+  .engineering-checklist,
+  .checklist,
+  .formula-card,
+  .owner-card,
+  .status-card,
+  .brief-related-grid > a,
+  .brief-action-strip > span,
+  .w8 .insight,
+  .w8 .case,
+  .w8 .scene,
+  .w8 .node,
+  .w8 .overview-card,
+  .w8 .audit > div,
+  .lean-delivery-brief .mind-card,
+  .lean-delivery-brief .tool-card,
+  .lean-delivery-brief .flow-step,
+  .lean-delivery-brief .value-card
+) :is(h3,h4,strong,b){color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) :is(
+  .brief-one-point-grid > div,
+  .brief-one-point-interface,
+  .brief-one-point-check,
+  .brief-learning-card,
+  .engineering-checklist,
+  .checklist,
+  .formula-card,
+  .owner-card,
+  .status-card,
+  .brief-related-grid > a,
+  .w8 .insight,
+  .w8 .case,
+  .w8 .scene,
+  .w8 .overview-card,
+  .w8 .audit > div,
+  .lean-delivery-brief .mind-card,
+  .lean-delivery-brief .tool-card,
+  .lean-delivery-brief .value-card
+) :is(p,li,small,span){color:#3a5756!important;-webkit-text-fill-color:#3a5756!important;opacity:1!important}
+html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) :is(
+  .w8 .tag,
+  .w8 .num,
+  .w8 .section-no,
+  .w8 .step > b:first-child,
+  .lean-delivery-brief .section-title .no,
+  .lean-delivery-brief .flow-step > b:first-child
+),html :where(main[data-cn-source-content])[data-cn-source-body-class~="daily-single-page"]:is(body,main) div:where(.qily-app-document-wrap) :is(
+  .w8 .tag,
+  .w8 .num,
+  .w8 .section-no,
+  .w8 .step > b:first-child,
+  .lean-delivery-brief .section-title .no,
+  .lean-delivery-brief .flow-step > b:first-child
+) *{color:#fff!important;-webkit-text-fill-color:#fff!important}
+@media print{html :where(main[data-cn-source-content]):has(.qily-term-pdf-action):is(body,main) div:where(.qily-app-document-wrap){width:auto!important;margin:0!important}
+html :where(main[data-cn-source-content]):has(.qily-term-pdf-action):is(body,main) :is(.meta,.grid){gap:3mm!important}
+html :where(main[data-cn-source-content]):has(.qily-term-pdf-action):is(body,main) .block{break-inside:auto!important;page-break-inside:auto!important;padding:4mm!important;overflow:visible!important}
+html :where(main[data-cn-source-content]):has(.qily-term-pdf-action):is(body,main) .block h2{font-size:13pt!important;line-height:1.3!important;break-after:avoid-page!important}
+html :where(main[data-cn-source-content]):has(.qily-term-pdf-action):is(body,main) :is(.block p,.block li,.objective,.role-table th,.role-table td){font-size:10pt!important;line-height:1.48!important}
+html :where(main[data-cn-source-content]):has(.qily-term-pdf-action):is(body,main) .meta :is(span,strong){font-size:9pt!important;line-height:1.35!important}
+html :where(main[data-cn-source-content]):has(.qily-term-pdf-action):is(body,main) .objective{break-inside:avoid!important;page-break-inside:avoid!important}}
+html:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  small,figcaption,.caption,.meta,.fine,.tag,.tag-row li,.project-meta,.article-meta,.moment-count,
+  .gallery-tip,.empty,.project-card-brief,.project-fact small,.module-card>small,
+  .paper-card>small,.career-full-card>small,.qily-system-axis__title,.privacy-note,
+  .service-contract-meta span,.qily-secondary-link span,.qily-ia-secondary-link span
+ ){font-size:20px!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .qily-ia-card>small,.module-card.service-card .service-heading-link>small,
+  .module-card.service-card>small,#engineering-enablers .module-card small,
+  #qily-digital-enablers .qily-ia-card small
+ ){font-size:21px!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .eyebrow,.module-eyebrow,.qily-ia-kicker,.kicker,.section-kicker,
+  .resource-kicker,.qily-resource-network__kicker,
+  .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker
+){font-size:21px!important;line-height:1.45!important;color:var(--qily-v5-gold-text)!important;-webkit-text-fill-color:var(--qily-v5-gold-text)!important;font-weight:400!important;letter-spacing:.035em!important;opacity:1!important;text-shadow:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock :is(.qily-dock-label,[data-action="share"] .qily-share-label-url){font-size:18px!important}
+@media(max-width:620px){html:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+    small,figcaption,.caption,.meta,.fine,.tag,.project-meta,.article-meta
+  ){font-size:20px!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+    .eyebrow,.module-eyebrow,.qily-ia-kicker,.kicker,.section-kicker,
+    .resource-kicker,.qily-resource-network__kicker,
+    .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker
+  ){font-size:21px!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock :is(.qily-dock-label,[data-action="share"] .qily-share-label-url){font-size:18px!important}}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  p,li,dt,dd,a,button,label,small,figcaption,summary,time,th,td,
+  input,select,textarea,option,span,strong,b,em,code,kbd,samp
+){font-size:max(20px,1em)!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .eyebrow,.hero-eyebrow,.module-eyebrow,.bridge-hero-eyebrow,
+  .kicker,.section-kicker,.module-kicker,.qily-ia-kicker,
+  .resource-kicker,.qily-resource-network__kicker,
+  .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker,
+  .section-head>small,.module-heading>.module-eyebrow,.engineering-kicker
+){font-size:max(21px,1em)!important;color:var(--qily-v5-gold-text)!important;-webkit-text-fill-color:var(--qily-v5-gold-text)!important}
+@media(max-width:1180px){html:root:root:root :where(main[data-cn-source-content]):is(body,main) header :is(nav.site-nav,nav.qily-global-nav,nav.nav){min-width:0!important;width:100%!important;max-width:100%!important;overflow-x:auto!important;overflow-y:hidden!important;white-space:nowrap!important;flex-wrap:nowrap!important;scrollbar-width:thin!important;-webkit-overflow-scrolling:touch!important;overscroll-behavior-x:contain!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) header :is(nav.site-nav,nav.qily-global-nav,nav.nav)>a[href]{flex:0 0 auto!important}}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .eyebrow,.hero-eyebrow,.module-eyebrow,.bridge-hero-eyebrow,
+  .kicker,.section-kicker,.module-kicker,.qily-ia-kicker,
+  .resource-kicker,.qily-resource-network__kicker,.engineering-kicker,
+  .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker,
+  .section-head>small,.module-heading>.module-eyebrow
+){font-weight:400!important;font-style:normal!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) :is(
+  .hero,.module-hero,.daily-hero,.article-hub,.document-hero,.project-hero,.projects-hero,
+  .cooperation-hero,.capability-hero,.experience-hero,.improvement-hero,.knowledge-hero,.trust-hero,
+  .qily-home-launch-section,.qily-ia-dark,[data-qily-hero],[data-qily-vi-v4-hero="118deg"]
+) :is(
+  .eyebrow,.hero-eyebrow,.module-eyebrow,.bridge-hero-eyebrow,
+  .kicker,.section-kicker,.module-kicker,.qily-ia-kicker,
+  .resource-kicker,.qily-resource-network__kicker,.engineering-kicker,
+  .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker
+){color:var(--qily-v5-gold-light)!important;-webkit-text-fill-color:var(--qily-v5-gold-light)!important;font-weight:400!important;font-style:normal!important;opacity:1!important;text-shadow:none!important}
+html:root:root:root :where(main[data-cn-source-content]):where([data-cn-source-from-body="true"]):is(body,main) > :is(
+  .hero,.module-hero,.daily-hero,.article-hub,.document-hero,.project-hero,.projects-hero,
+  .cooperation-hero,.capability-hero,.experience-hero,.improvement-hero,.knowledge-hero,.trust-hero,
+  [data-qily-hero]
+) :is(
+  .eyebrow,.hero-eyebrow,.module-eyebrow,.bridge-hero-eyebrow,
+  .kicker,.section-kicker,.module-kicker,.qily-ia-kicker,
+  .resource-kicker,.qily-resource-network__kicker,.engineering-kicker,
+  .qily-home-conversion-kicker,.qily-home-conversion-hero__kicker
+){font-size:var(--qily-v5-section-kicker)!important;line-height:1.5!important;color:var(--qily-v5-gold-light)!important;-webkit-text-fill-color:var(--qily-v5-gold-light)!important;font-weight:400!important;font-style:normal!important;letter-spacing:.035em!important;opacity:1!important;text-shadow:none!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) #qily-core-services .qily-ia-heading h2{font-size:clamp(24px,2.1vw,30px)!important;line-height:1.25!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) #knowledge-stats .module-grid.four.knowledge-stat-grid{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;width:100%!important;max-width:100%!important;gap:16px!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) #knowledge-stats .knowledge-stat-card{min-width:0!important;box-sizing:border-box!important}
+@media(max-width:620px){html:root:root:root :where(main[data-cn-source-content]):is(body,main) div:where(.qily-app-document-wrap) #knowledge-stats .module-grid.four.knowledge-stat-grid{gap:9px!important}}

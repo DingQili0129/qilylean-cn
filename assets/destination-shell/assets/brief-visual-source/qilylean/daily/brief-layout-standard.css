@@ -1,0 +1,63 @@
+main#main[data-qily-brief-content="v2"]:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){--qily-brief-content-axis:var(--qily-wide-content,1180px);--qily-brief-gutter:var(--qily-wide-gutter,clamp(14px,2.2vw,40px));--qily-brief-media-axis:1040px;--qily-brief-font-h1:clamp(30px,2.05vw,36px);--qily-brief-font-h2:clamp(23px,1.5vw,28px);--qily-brief-font-h3:clamp(19px,1.25vw,22px);--qily-brief-font-lead:clamp(18px,1.15vw,20px);--qily-brief-font-body:clamp(16px,.95vw,18px);--qily-brief-font-small:14px}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(
+  .knowledge-brief-top-nav,
+  .knowledge-brief-hero,
+  .knowledge-brief-map,
+  .knowledge-brief-section
+):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:100%!important;max-width:none!important;margin-left:0!important;margin-right:0!important;padding-left:var(--qily-brief-gutter)!important;padding-right:var(--qily-brief-gutter)!important;box-sizing:border-box!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(
+  .knowledge-brief-top-nav,
+  .knowledge-brief-hero,
+  .knowledge-brief-map,
+  .knowledge-brief-section
+) > .module-inner:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .lean-brief-toc.module-inner:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"][data-qily-knowledge-brief] > .module-inner:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:min(var(--qily-brief-content-axis),100%)!important;max-width:var(--qily-brief-content-axis)!important;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] nav.lean-brief-toc.module-inner:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){display:flex!important;flex-wrap:wrap!important;gap:10px!important;width:min(var(--qily-brief-content-axis),calc(100% - 2 * var(--qily-brief-gutter)))!important;padding-block:20px!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] nav.lean-brief-toc.module-inner>a[href]:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){flex:1 1 140px;min-width:0;min-height:44px;box-sizing:border-box;padding:10px 14px;border:1px solid #b2ccc7;border-radius:8px;background:#fff;color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;font-size:clamp(16px,.9vw,18px)!important;line-height:1.5!important;text-decoration:none!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] nav.lean-brief-toc.module-inner>a[href]:is(:hover,:focus-visible):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){border-color:#0f4b5a;background:#eef7f5}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(
+  .lean-brief-copy,
+  .brief-copy,
+  .article-copy,
+  .post-copy,
+  .prose
+):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:100%!important;max-width:100%!important;max-inline-size:none!important;margin-left:0!important;margin-right:0!important;box-sizing:border-box!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .knowledge-brief-article:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:100%!important;max-width:none!important;margin-left:0!important;margin-right:0!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(
+  .knowledge-brief-hero h1,
+  .knowledge-brief-hero .module-lead,
+  .knowledge-brief-section .module-heading
+):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:100%!important;max-width:100%!important;max-inline-size:none!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .knowledge-brief-hero h1:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-h1)!important;line-height:1.16!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .knowledge-brief-hero .module-lead:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-lead)!important;line-height:1.62!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .knowledge-brief-section :is(.module-heading h2,h2):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-h2)!important;line-height:1.28!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .knowledge-brief-section :is(.module-heading h3,h3):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(.brief-role-shift strong,.brief-viewpoint p,.brief-chain-step strong,.brief-case-flow strong):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-h3)!important;line-height:1.45!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"][data-qily-knowledge-brief] :is(p,li,dd,dt,blockquote,td):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(.brief-terminology-audit,.lean-brief-case-note):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-body)!important;line-height:1.72!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(.lean-brief-table th,.lean-brief-toc a):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:clamp(16px,.9vw,18px)!important;line-height:1.45!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(figcaption,.knowledge-brief-map small,.brief-chain-step span,.brief-viewpoint cite):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-small)!important;line-height:1.6!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"][data-qily-knowledge-brief] :is(p,li,dd,dt,blockquote):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){max-width:none!important;max-inline-size:none!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .lean-brief-diagram:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:min(100%,var(--qily-brief-media-axis))!important;max-width:var(--qily-brief-media-axis)!important;margin-left:auto!important;margin-right:auto!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .lean-brief-diagram img:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:100%!important;max-width:100%!important;height:auto!important}
+@media(max-width:620px){main#main[data-qily-brief-content="v2"]:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){--qily-brief-gutter:15px;--qily-brief-font-h1:clamp(27px,7.2vw,32px);--qily-brief-font-h2:clamp(21px,5.8vw,25px);--qily-brief-font-h3:clamp(18px,5vw,21px);--qily-brief-font-lead:17px;--qily-brief-font-body:16px}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] :is(
+    .knowledge-brief-top-nav,
+    .knowledge-brief-hero,
+    .knowledge-brief-map,
+    .knowledge-brief-section
+  ) > .module-inner:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .lean-brief-toc.module-inner:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:100%!important;max-width:100%!important}}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"][data-qily-knowledge-brief] > .brief-feedback:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:min(var(--qily-brief-content-axis),calc(100% - var(--qily-brief-gutter) - var(--qily-brief-gutter)))!important;max-width:var(--qily-brief-content-axis)!important;min-width:0!important;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-svg .beam-title:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-h2)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-svg :is(.leg-title,.core-title):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-h3)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-svg :is(.beam-sub,.verify-title):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-body)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-svg :is(
+  .leg-sub,.figure-note,.cause-node .sub,.flow-box .sub,.core-sub,.verify-sub,.feedback-label
+):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-small)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-svg :is(.cause-node text,.flow-box text):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-body)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .priority-strip i:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-h3)!important}
+@media(max-width:680px){html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual .mobile-visual-head strong:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-h3)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual .mobile-visual-head span:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual :is(.mobile-visual-base,.mobile-role-card span,.mobile-factor-grid b,.tripod-figure figcaption):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-small)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual .mobile-role-card strong:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual .mobile-role-card b:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual .mobile-verify-box strong:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual .mobile-flow-stack>div>strong:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-body)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual :is(
+    .mobile-factor-grid span,.mobile-verify-box span,.mobile-flow-stack>div>span,.mobile-feedback-strip
+  ):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-small)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual .mobile-flow-stack>div>b:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-small)!important}
+html body.qily-knowledge-brief-page main#main[data-qily-brief-content="v2"] .tripod-mobile-visual :is(.mobile-down-arrow,.mobile-flow-stack>i):not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){font-size:var(--qily-brief-font-h2)!important}}

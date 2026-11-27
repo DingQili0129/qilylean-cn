@@ -1,0 +1,45 @@
+.qily-home-brand-extension:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){box-sizing:border-box;width:100%;padding:clamp(26px,3vw,38px) var(--qily-content-axis-gutter,clamp(16px,3vw,42px)) clamp(38px,4vw,58px)!important;background:#fff!important}
+.qily-home-brand-extension__inner:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:min(var(--qily-content-axis,1180px),100%)!important;max-width:1180px!important;margin-inline:auto!important}
+.qily-home-brand-extension__head:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){width:100%;max-width:1180px!important;margin:0 0 clamp(24px,2.5vw,32px)!important}
+.qily-home-brand-extension__head h2:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;font-size:clamp(26px,2.4vw,38px)!important;line-height:1.3!important;text-wrap:balance}
+.qily-home-brand-extension__head p:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){color:#647573!important;-webkit-text-fill-color:#647573!important;font-size:clamp(15px,1.3vw,18px)!important;line-height:1.7!important}
+.qily-brand-motion-gallery:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){display:grid;grid-template-columns:minmax(0,1fr);justify-items:center;gap:clamp(26px,3vw,42px);width:100%}
+.qily-brand-motion-gallery__panel:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){box-sizing:border-box;width:min(980px,100%);min-width:0;margin:0 auto}
+.qily-brand-motion-gallery__label:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){display:flex;flex-wrap:wrap;align-items:baseline;gap:8px 14px;margin:0 0 12px!important;color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;font-size:clamp(18px,1.65vw,23px)!important;font-weight:750!important;line-height:1.4!important}
+.qily-brand-motion-gallery__label span:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){color:#bd914a!important;-webkit-text-fill-color:#bd914a!important;font-size:clamp(12px,1vw,14px)!important;font-weight:760!important;letter-spacing:.08em}
+.qily-home-brand-extension .qily-brand-motion-gallery .qily-aircraft-brand-hero:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){display:block!important;width:100%!important;margin:0!important;padding:0!important;background:transparent!important;z-index:auto!important}
+.qily-home-brand-extension .qily-brand-motion-gallery .qily-aircraft-brand-hero figure:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){box-sizing:border-box;display:block;width:100%!important;max-width:100%!important;margin:0!important;border:1px solid #c8dad8!important;border-radius:12px!important;overflow:hidden!important;box-shadow:none!important}
+.qily-home-brand-extension .qily-brand-motion-gallery .qily-aircraft-brand-hero picture:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),.qily-home-brand-extension .qily-brand-motion-gallery .qily-aircraft-brand-hero img:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){display:block!important;width:100%!important;height:auto!important;max-height:none!important;object-fit:contain!important;aspect-ratio:auto!important}
+.qily-brand-motion-gallery__video-frame:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){box-sizing:border-box;width:100%;margin:0;overflow:hidden;border:1px solid #c8dad8;border-radius:12px;background:#092c40;box-shadow:0 10px 28px rgba(7,60,71,.1)}
+.qily-brand-motion-gallery__video:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){display:block!important;box-sizing:border-box;width:100%!important;height:auto!important;max-width:100%!important;max-height:none!important;aspect-ratio:16/9;object-fit:contain!important;background:#092c40!important}
+.qily-brand-motion-gallery__video:focus-visible:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){outline:3px solid #caa15f;outline-offset:-3px}
+.qily-brand-motion-gallery__video-frame figcaption:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){margin:0!important;padding:9px 13px!important;color:#e8f3f2!important;-webkit-text-fill-color:#e8f3f2!important;background:#0f4b5a!important;font-size:15px!important;line-height:1.5!important;text-align:center}
+@media(max-width:768px){.qily-home-brand-extension:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){padding:22px 10px 35px!important}
+.qily-brand-motion-gallery__label:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){margin-bottom:9px!important}
+.qily-brand-motion-gallery__video-frame:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),.qily-home-brand-extension .qily-brand-motion-gallery .qily-aircraft-brand-hero figure:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){border-radius:10px!important}}
+#qily-home-brand-extension .qily-brand-motion-gallery__video-frame > figcaption:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)),
+#qily-home-brand-extension .qily-brand-motion-gallery__video-frame > figcaption *:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){
+  color:#F2F6F5!important;
+  -webkit-text-fill-color:#F2F6F5!important;
+  opacity:1!important;
+  visibility:visible!important;
+}
+#qily-home-brand-extension .qily-brand-motion-gallery__video-frame > figcaption:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){
+  box-sizing:border-box!important;
+  display:block!important;
+  background:#0F4B5A!important;
+  border-top:2px solid #D8B36A!important;
+  padding:11px 14px!important;
+  font-size:15px!important;
+  font-weight:650!important;
+  line-height:1.55!important;
+  letter-spacing:.02em!important;
+  text-align:center!important;
+  text-shadow:0 1px 1px rgba(0,0,0,.22)!important;
+  filter:none!important;
+  mix-blend-mode:normal!important;
+}
+@media(max-width:768px){#qily-home-brand-extension .qily-brand-motion-gallery__video-frame > figcaption:not(:where(main[data-cn-source-content],main[data-cn-source-content] *)){
+    padding:10px 12px!important;
+    font-size:15px!important;
+  }}

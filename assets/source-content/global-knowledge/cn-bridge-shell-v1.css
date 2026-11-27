@@ -1,0 +1,55 @@
+@import url("/assets/source-content/global-knowledge/cn-bridge-footer-v1.css?v=a9ec29fb0be1");
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-header{position:sticky!important;top:0!important;z-index:2147481000!important;width:100%!important;margin:0!important;padding:0!important;background:#fff!important;border-bottom:1px solid #d5e4e3!important;box-shadow:none!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-header-inner{width:min(var(--qily-bridge-axis),calc(100% - 36px))!important;min-height:82px!important;margin:0 auto!important;display:grid!important;grid-template-columns:max-content minmax(0,1fr) max-content!important;grid-template-areas:"brand nav translate"!important;align-items:center!important;gap:8px 14px!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand{grid-area:brand!important;display:inline-flex!important;align-items:center!important;white-space:nowrap!important;color:var(--qily-bridge-forest)!important;-webkit-text-fill-color:var(--qily-bridge-forest)!important;text-decoration:none!important;font:950 20px/1.1 "Microsoft YaHei","PingFang SC",Arial,sans-serif!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand span{font-weight:850!important}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav{grid-area:nav!important;display:flex!important;align-items:center!important;justify-content:flex-start!important;gap:4px!important;min-width:0!important;width:100%!important;padding:4px 0 15px!important;margin:0!important;overflow-x:auto!important;overflow-y:hidden!important;overscroll-behavior-x:contain!important;-webkit-overflow-scrolling:touch!important;touch-action:pan-x pan-y!important;white-space:nowrap!important;scrollbar-width:thin!important;scrollbar-color:var(--qily-bridge-forest) #b9d9d4!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav::-webkit-scrollbar{display:block!important;height:5px!important}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav::-webkit-scrollbar-track{background:#b9d9d4!important;border-radius:999px!important}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav::-webkit-scrollbar-thumb{background:var(--qily-bridge-forest)!important;border-radius:999px!important}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav>a{flex:0 0 auto!important;display:inline-flex!important;align-items:center!important;justify-content:center!important;min-height:42px!important;padding:7px 10px!important;border:1px solid transparent!important;border-radius:10px!important;color:#182420!important;-webkit-text-fill-color:#182420!important;background:transparent!important;text-decoration:none!important;font:900 20px/1.2 "Microsoft YaHei","PingFang SC",Arial,sans-serif!important;white-space:nowrap!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav>a:is(:hover,:focus-visible),html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav>a[aria-current="page"]{color:#fff!important;-webkit-text-fill-color:#fff!important;background:var(--qily-bridge-forest)!important;border-color:var(--qily-bridge-gold)!important;outline:none!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-header .qily-web-translate{grid-area:translate!important;justify-self:end!important;align-self:center!important}
+@media(max-width:900px){html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-header-inner{width:calc(100% - 28px)!important;min-height:auto!important;grid-template-columns:minmax(0,1fr) max-content!important;grid-template-areas:"brand translate" "nav nav"!important;gap:5px 8px!important;padding:9px 0 0!important
+  }
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav{padding:3px 0 14px!important;gap:5px!important}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-nav>a{font-size:18px!important;padding:8px 11px!important}}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand{display:inline-flex!important;align-items:center!important;justify-content:flex-start!important;width:clamp(168px,12vw,190px)!important;height:auto!important;min-height:42px!important;padding:0!important;background:transparent!important;border:0!important;box-shadow:none!important;text-indent:0!important;overflow:visible!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand>img{display:block!important;width:100%!important;height:auto!important;max-height:42px!important;object-fit:contain!important;object-position:left center!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand:is(:hover,:focus-visible){background:#fff6df!important;border-radius:8px!important;box-shadow:0 7px 18px rgba(15,75,90,.14)!important;outline:2px solid rgba(202,161,95,.48)!important;outline-offset:3px!important
+}
+html :where(main[data-cn-source-content]):is(body,main) .bridge-hero-eyebrow{display:inline-block!important;margin:0!important;color:#ffe39b!important;-webkit-text-fill-color:#ffe39b!important;font-size:21px!important;font-weight:400!important;letter-spacing:.08em!important;line-height:1.35!important
+}
+@media(max-width:900px){html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand{width:clamp(158px,40vw,185px)!important;min-height:38px!important}
+html :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand>img{max-height:38px!important}}
+html:root:root main:where([data-cn-source-content]):is(body,main) :is(
+  p,li,dt,dd,a,button,label,small,figcaption,summary,time,th,td,span,strong,b,em
+){font-size:max(20px,1em)!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) .bridge-hero-eyebrow{font-size:21px!important;color:#ffe39b!important;-webkit-text-fill-color:#ffe39b!important;font-weight:400!important}
+html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main){--qily-bridge-axis:1180px;--qily-bridge-gutter:18px;--qily-r8-axis:var(--qily-bridge-axis)}
+html:root:root:root:root main:where([data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main)>section{padding-left:0!important;padding-right:0!important}
+html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main) :is(
+  .cn-bridge-header-inner,.cn-bridge-footer-inner,
+  .hero>.wrap,main>section>.wrap
+){width:min(var(--qily-bridge-axis),calc(100% - var(--qily-bridge-gutter)*2))!important;max-width:var(--qily-bridge-axis)!important;min-width:0!important;margin-inline:auto!important;box-sizing:border-box!important}
+html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main) #reader[data-source-vi="true"] #article .knowledge-brief-section{padding-left:0!important;padding-right:0!important}
+@media(max-width:900px){html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main){--qily-bridge-gutter:14px}}
+html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main) header.cn-bridge-header{display:block!important;width:100%!important;max-width:none!important;margin-inline:0!important;padding:0!important}
+@media(max-width:900px){html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main) .cn-bridge-header-inner{grid-template-columns:minmax(0,1fr) minmax(0,206px)!important}
+html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main) .cn-bridge-brand{max-width:100%!important}
+html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main) .cn-bridge-header .qily-web-translate{width:min(206px,100%)!important;min-width:0!important;max-width:100%!important;margin-left:0!important}}
+@media(max-width:360px){html:root:root:root:root :where(main[data-cn-source-content])[data-cn-source-body-data-cn-bridge-fallback]:is(body,main) .cn-bridge-header-inner{grid-template-columns:minmax(0,1fr)!important;grid-template-areas:"brand" "translate" "nav"!important}}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand[aria-label="返回国际站"]{position:relative!important;box-sizing:border-box!important;border:1.5px solid transparent!important;border-radius:8px!important}
+@media(hover:hover) and (pointer:fine){html:root:root:root :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand[aria-label="返回国际站"]:hover{background:#fff6df!important;border-color:#caa15f!important;box-shadow:0 7px 18px rgba(15,75,90,.14)!important;outline:none!important;filter:none!important;transform:none!important}}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand[aria-label="返回国际站"]:focus-visible{background:#fff6df!important;border-color:#caa15f!important;box-shadow:0 0 0 3px rgba(202,161,95,.24),0 7px 18px rgba(15,75,90,.14)!important;outline:none!important;filter:none!important;transform:none!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand[aria-label="返回国际站"]:is(:hover,:focus-visible)>img{opacity:0!important}
+html:root:root:root :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand[aria-label="返回国际站"]:is(:hover,:focus-visible)::after{content:attr(aria-label)!important;position:absolute!important;inset:0!important;display:flex!important;align-items:center!important;justify-content:center!important;padding:0 10px!important;color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;font-size:clamp(16px,1.05vw,19px)!important;font-weight:950!important;line-height:1!important;letter-spacing:.06em!important;text-indent:0!important;white-space:nowrap!important;pointer-events:none!important}
+@media(max-width:620px){html:root:root:root :where(main[data-cn-source-content]):is(body,main) .cn-bridge-brand[aria-label="返回国际站"]:is(:hover,:focus-visible)::after{padding:0 6px!important;font-size:15px!important}}

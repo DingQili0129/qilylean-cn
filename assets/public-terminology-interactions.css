@@ -1,0 +1,238 @@
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-toolbar{display:grid;gap:14px;padding:20px;border:1px solid var(--qily-line,#d5e4e3);background:#fff;box-shadow:0 12px 30px rgba(15,75,90,.08)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search{width:100%;min-height:50px;padding:12px 15px;border:1px solid var(--qily-line,#d5e4e3);border-radius:12px;color:var(--qily-ink,#182420);background:#fff;font:inherit;font-size:17px;outline:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search:focus{border-color:var(--qily-teal,#178b94);box-shadow:0 0 0 3px rgba(23,139,148,.14)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-count{color:var(--qily-muted,#5f7474);font-size:15px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card{min-height:230px;padding:22px;border:1px solid var(--qily-line,#d5e4e3);border-top:4px solid var(--qily-teal,#178b94);background:#fff;box-shadow:0 8px 24px rgba(15,75,90,.06)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-code{color:var(--qily-forest,#0f4b5a);font-size:28px;line-height:1.2;font-weight:950;overflow-wrap:anywhere}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-en{min-height:44px;margin-top:6px;color:var(--qily-muted,#5f7474);font-size:14px;line-height:1.5}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card h3{margin:12px 0 8px;color:var(--qily-forest,#0f4b5a);font-size:21px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card p{margin:0;color:var(--qily-muted,#5f7474);font-size:16px;line-height:1.72}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card p strong{color:var(--qily-ink,#182420)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .module-lead,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .module-heading p,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card p{text-wrap:pretty}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-empty{display:none;margin-top:18px;padding:18px;border:1px dashed var(--qily-line,#d5e4e3);color:var(--qily-muted,#5f7474);background:#fff}
+@media(max-width:760px){body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-grid{grid-template-columns:1fr}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card{min-height:0}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-en{min-height:0}}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card{display:flex;min-height:0;flex-direction:column;gap:0}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-code::before,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-en::before,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card h3::before{display:block;margin-bottom:5px;color:var(--qily-teal,#178b94);font-size:12px;font-weight:900;letter-spacing:.08em;text-transform:uppercase}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-code::before{content:"术语代码"}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-en::before{content:"英文全称"}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card h3::before{content:"中文名称"}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-formula{margin-top:10px!important;padding:11px 13px;border-left:4px solid #caa15f;background:#fff8e8;color:#344845!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card>p:last-child{margin-top:10px;padding-top:12px;border-top:1px dashed var(--qily-line,#d5e4e3)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card>p strong{display:inline-block;margin-right:2px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-results{display:none;margin-top:18px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-results.show{display:block}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-results .module-heading{margin:0 0 14px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-results .module-heading p{margin-bottom:0}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-hit{position:relative;cursor:pointer;transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-hit:hover,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-hit:focus-visible{transform:translateY(-2px);border-color:var(--qily-teal,#178b94);box-shadow:0 12px 30px rgba(15,75,90,.14);outline:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-jump-hint{margin-top:auto;padding-top:12px;color:var(--qily-teal,#178b94);font-size:13px;font-weight:900}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-focus{animation:term-focus 1.8s ease}
+@media(max-width:760px){body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card{padding:18px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-code{font-size:24px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card h3{font-size:20px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-card p{font-size:15.5px;line-height:1.68}}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-actions{display:flex;align-items:center;gap:10px;margin-top:auto;padding-top:16px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-open{display:inline-flex;min-height:42px;align-items:center;justify-content:center;gap:7px;padding:9px 15px;border:1px solid var(--qily-teal,#178b94);border-radius:10px;color:#fff;background:var(--qily-teal,#178b94);font:inherit;font-size:14px;font-weight:900;line-height:1.2;text-decoration:none;cursor:pointer;box-shadow:0 7px 16px rgba(23,139,148,.16);transition:transform .16s ease,box-shadow .16s ease,background .16s ease}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-open::before{content:"OPL";display:inline-flex;min-width:31px;height:21px;align-items:center;justify-content:center;border-radius:5px;color:var(--qily-forest,#0f4b5a);background:#fff;font-size:10px;font-weight:950;letter-spacing:.05em}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-open:hover,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-open:focus-visible{transform:translateY(-1px);background:var(--qily-forest,#0f4b5a);box-shadow:0 10px 22px rgba(15,75,90,.2);outline:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-note{color:var(--qily-muted,#5f7474);font-size:12px;font-weight:800}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-hit .term-opl-actions{position:relative;z-index:2}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-search-hit .term-jump-hint{margin-top:10px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-modal[hidden]{display:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-modal{position:fixed;inset:0;z-index:10020;display:grid;place-items:center;padding:20px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-backdrop{position:absolute;inset:0;background:rgba(7,31,36,.74);backdrop-filter:blur(5px)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-dialog{position:relative;display:flex;width:min(1120px,100%);max-height:calc(100vh - 40px);flex-direction:column;overflow:hidden;border:1px solid rgba(255,255,255,.48);border-radius:20px;background:#f4f8f7;box-shadow:0 28px 90px rgba(0,0,0,.34)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-header{position:relative;flex:0 0 auto;padding:24px 68px 21px 28px;color:#fff;background:linear-gradient(135deg,var(--qily-forest,#0f4b5a),var(--qily-teal,#178b94))}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-kicker{margin:0 0 7px;font-size:12px;font-weight:950;letter-spacing:.13em;text-transform:uppercase;opacity:.86}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-title{margin:0;font-size:clamp(24px,3vw,36px);line-height:1.17}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-subtitle{margin:8px 0 0;color:rgba(255,255,255,.88);font-size:15px;line-height:1.55}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-close{position:absolute;top:18px;right:20px;width:42px;height:42px;border:1px solid rgba(255,255,255,.55);border-radius:50%;color:#fff;background:rgba(255,255,255,.12);font-size:28px;line-height:1;cursor:pointer}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-close:hover,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-close:focus-visible{background:#fff;color:var(--qily-forest,#0f4b5a);outline:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar{display:flex;flex:0 0 auto;flex-wrap:wrap;align-items:center;gap:9px;padding:12px 20px;border-bottom:1px solid var(--qily-line,#d5e4e3);background:#fff}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar button{min-height:38px;padding:8px 13px;border:1px solid var(--qily-line,#d5e4e3);border-radius:9px;color:var(--qily-forest,#0f4b5a);background:#fff;font:inherit;font-size:13px;font-weight:900;cursor:pointer}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar button:hover,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar button:focus-visible{border-color:var(--qily-teal,#178b94);background:#eaf7f6;outline:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar button:disabled{cursor:not-allowed;opacity:.38}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-page{margin-left:auto;color:var(--qily-muted,#5f7474);font-size:13px;font-weight:900}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-content{overflow:auto;padding:24px 26px 32px;overscroll-behavior:contain}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;margin-bottom:17px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-item{padding:13px 14px;border:1px solid var(--qily-line,#d5e4e3);border-radius:12px;background:#fff}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-label{display:block;margin-bottom:5px;color:var(--qily-teal,#178b94);font-size:11px;font-weight:950;letter-spacing:.08em}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-value{display:block;color:var(--qily-ink,#182420);font-size:14px;font-weight:850;line-height:1.45;overflow-wrap:anywhere}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-objective{margin-bottom:17px;padding:18px 20px;border-left:5px solid #caa15f;border-radius:0 12px 12px 0;background:#fff8e8;color:#30423e;line-height:1.75}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-objective strong{color:#765416}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block{padding:18px 20px;border:1px solid var(--qily-line,#d5e4e3);border-radius:14px;background:#fff;box-shadow:0 7px 20px rgba(15,75,90,.05)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block.term-opl-wide{grid-column:1/-1}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block h3{display:flex;align-items:center;gap:9px;margin:0 0 11px;color:var(--qily-forest,#0f4b5a);font-size:18px;line-height:1.35}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-num{display:inline-flex;width:26px;height:26px;flex:0 0 26px;align-items:center;justify-content:center;border-radius:50%;color:#fff;background:var(--qily-teal,#178b94);font-size:12px;font-weight:950}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block p{margin:0;color:#465b58;font-size:15px;line-height:1.78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block ul,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block ol{margin:0;padding-left:1.35em;color:#465b58}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block li{margin:6px 0;font-size:15px;line-height:1.7}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-formula{padding:15px 16px;border-radius:10px;color:#263b37!important;background:#edf7f6;font-weight:800}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-case{border-left:4px solid var(--qily-teal,#178b94);padding-left:14px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-check{display:grid;gap:9px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-question{padding:11px 13px;border-radius:9px;background:#f4f8f7}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-answer{margin-top:11px;padding-top:11px;border-top:1px dashed var(--qily-line,#d5e4e3)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-answer summary{color:var(--qily-teal,#178b94);font-size:14px;font-weight:900;cursor:pointer}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-answer p{margin-top:9px;font-size:14px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-footer{display:flex;justify-content:space-between;gap:16px;margin-top:18px;padding:14px 4px 0;border-top:1px solid var(--qily-line,#d5e4e3);color:var(--qily-muted,#5f7474);font-size:12px;line-height:1.55}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar{display:flex;align-items:center;justify-content:space-between;gap:18px;margin:0 0 12px;padding:0 0 11px;border-bottom:1px solid rgba(255,255,255,.32)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar strong{font-size:16px;letter-spacing:.04em}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar span{font-size:12px;font-weight:800;line-height:1.5;text-align:right;opacity:.9}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card{display:grid;grid-template-columns:minmax(0,1fr) 118px 118px;align-items:center;gap:18px;margin-top:18px;padding:18px;border:1px solid var(--qily-line,#d5e4e3);border-radius:14px;background:linear-gradient(135deg,#edf7f6,#fff8e8)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy h3{margin:0 0 8px;color:var(--qily-forest,#0f4b5a);font-size:18px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy p{margin:0;color:#465b58;font-size:13px;line-height:1.7}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy .term-opl-contact-lines{margin-top:9px;color:var(--qily-ink,#182420);font-weight:850}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy a{color:var(--qily-teal,#178b94);text-decoration:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-qr{display:grid;justify-items:center;gap:6px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-qr img{display:block;width:104px!important;height:104px!important;max-width:104px!important;margin:0 auto!important;padding:4px;object-fit:contain!important;background:#fff!important;border:1px solid var(--qily-line,#d5e4e3);border-radius:8px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-qr span{color:var(--qily-muted,#5f7474);font-size:11px;font-weight:900;text-align:center}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running{display:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-dialog{border-color:#b9c9ce;border-radius:0;background:#e9f1ef}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-header{padding:22px 72px 19px;color:#354b53;background:#fff;border-bottom:2px solid #2d6683;text-align:center}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar{color:#526a73;border-bottom:1px solid #b8c8cf}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar strong{color:#1f5d78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-kicker{color:#667b83;opacity:1}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-title{color:#1f5d78;font-size:clamp(24px,3vw,34px)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-subtitle{color:#596b72}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-theme{margin:13px 0 0;padding:8px 12px;border:1px solid #9fb3bf;color:#2f6782;background:#edf3f6;font-size:13px;font-weight:900;line-height:1.55}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-close{border:1px solid #7f9ca8;border-radius:0;color:#1f5d78;background:#fff}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-close:hover,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-close:focus-visible{color:#fff;background:#1f5d78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar{border-bottom-color:#b8c8cf;background:#f7faf9}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar button{border-radius:0;border-color:#9eb2bb;color:#1f5d78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar button:hover,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar button:focus-visible{border-color:#1f5d78;background:#edf3f6}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-content{box-sizing:border-box;width:min(920px,calc(100% - 44px));margin:20px auto 28px;padding:26px 30px 32px;background:#fff;box-shadow:0 8px 24px rgba(31,93,120,.09)}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta{gap:0;border-top:1px solid #aebdc4;border-left:1px solid #aebdc4}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-item{padding:0;border:0;border-right:1px solid #aebdc4;border-bottom:1px solid #aebdc4;border-radius:0}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-label{margin:0;padding:7px 10px;border-bottom:1px solid #aebdc4;color:#245d78;background:#e7eef3}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-value{min-height:43px;padding:10px;background:#fff}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-objective{padding:14px 16px;border:1px solid #9fb3bf;border-left:4px solid #2d6683;border-radius:0;color:#334b55;background:#edf3f6}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-objective strong{color:#1f5d78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-grid{grid-template-columns:1fr;gap:12px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block.term-opl-wide{grid-column:auto;padding:17px 19px;border-color:#bdcbd1;border-radius:0;box-shadow:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block h3{padding-bottom:9px;border-bottom:1px solid #c8d3d8;color:#1f5d78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-num{border-radius:0;background:#2d6683}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-formula{border:1px solid #b7c8d1;border-radius:0;background:#edf3f6}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-case{border-left-color:#2d6683}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-question{border:1px solid #c5d1d6;border-radius:0;background:#f4f7f8}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-answer summary{color:#1f5d78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card{border-color:#9fb3bf;border-radius:0;background:#edf3f6}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy h3{color:#1f5d78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy a{color:#1f5d78}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-qr img{border-color:#9fb3bf;border-radius:0}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-footer{border-top-color:#9fb3bf;color:#5c7078}
+body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity>*:not(.term-opl-modal){display:none!important}
+body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity .term-opl-modal{position:static;display:block;min-height:100vh;padding:24px 16px 60px}
+body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity .term-opl-backdrop{display:none}
+body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity .term-opl-dialog{display:block;width:min(1000px,100%);max-height:none;overflow:visible;margin:auto;border:1px solid #b9c9ce;border-radius:0;background:#e9f1ef;box-shadow:0 18px 48px rgba(15,75,90,.16)}
+body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity .term-opl-toolbar{position:sticky;top:0;z-index:40}
+body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity .term-opl-content{overflow:visible}
+@media(max-width:780px){body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity .term-opl-modal{padding:0 0 28px}
+body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity .term-opl-dialog{width:100%;height:auto}}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toast{position:fixed;left:50%;bottom:32px;z-index:10040;transform:translate(-50%,18px);padding:11px 17px;border-radius:999px;color:#fff;background:#143f46;font-size:14px;font-weight:850;opacity:0;pointer-events:none;transition:opacity .18s ease,transform .18s ease}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toast.show{transform:translate(-50%,0);opacity:1}
+@media(max-width:780px){body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-modal{padding:0}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-dialog{width:100%;max-height:100vh;height:100%;border:0;border-radius:0}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-header{padding:20px 60px 18px 18px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-close{top:13px;right:13px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar{padding:10px 12px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-page{width:100%;margin-left:0}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-content{width:100%;margin:0;padding:17px 14px 26px;box-shadow:none}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta{grid-template-columns:repeat(2,minmax(0,1fr))}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-grid{grid-template-columns:1fr}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block.term-opl-wide{grid-column:auto}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-footer{display:block}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-footer span{display:block;margin-top:5px}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar{display:block}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar span{display:block;margin-top:5px;text-align:left}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card{grid-template-columns:1fr 1fr}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy{grid-column:1/-1}}
+@media print{@page{size:A4;margin:19mm 11mm 18mm}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running{display:flex!important;position:fixed;left:0;right:0;z-index:30;align-items:center;justify-content:space-between;gap:12px;color:#31504b;font-size:8.5pt;font-weight:800}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running-head{top:-14mm;padding-bottom:2.5mm;border-bottom:.35mm solid #178b94}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running-foot{bottom:-13mm;padding-top:2.5mm;border-top:.25mm solid #9fb8b5}
+body[data-cn-public-kind="terminology"].term-opl-locked .mirror-article-fidelity>*:not(.term-opl-modal),body[data-cn-public-kind="terminology"].term-opl-standalone .mirror-article-fidelity>*:not(.term-opl-modal){display:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-modal{position:static!important;display:block!important;padding:0!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-backdrop,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-close,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toolbar,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-toast{display:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-dialog{display:block!important;width:auto!important;max-height:none!important;overflow:visible!important;border:0!important;border-radius:0!important;box-shadow:none!important;background:#fff!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-header{padding:7mm 8mm 6mm!important;border-radius:0!important;border-bottom:.5mm solid #2d6683!important;color:#354b53!important;background:#fff!important;text-align:center!important;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar{color:#526a73!important;border-bottom-color:#9fb3bf!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar strong,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-title{color:#1f5d78!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-kicker,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-subtitle{color:#596b72!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-title{font-size:22pt!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-theme{border-color:#9fb3bf!important;color:#2f6782!important;background:#edf3f6!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-content{width:auto!important;margin:0!important;overflow:visible!important;padding:6mm 1mm 0!important;box-shadow:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta{grid-template-columns:repeat(4,1fr)!important;break-inside:avoid}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-objective,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-item{break-inside:avoid;box-shadow:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-grid{display:block!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block{margin-bottom:4mm}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-answer details[open] .term-opl-answer{display:block}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar{margin-bottom:4mm}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card{grid-template-columns:minmax(0,1fr) 29mm 29mm!important;gap:5mm;padding:5mm!important;border-color:#9fb3bf!important;border-radius:0!important;background:#edf3f6!important;break-inside:avoid;box-shadow:none!important;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-qr img{width:25mm!important;height:25mm!important;max-width:25mm!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-footer{break-inside:avoid}}
+@media print{body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running-head,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running-foot{display:none!important;position:static!important;inset:auto!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-content{padding-top:4mm!important;overflow:visible!important}}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:link,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:visited,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:hover,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:focus,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:focus-visible,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:active{color:#fff!important;-webkit-text-fill-color:#fff!important;background:#178b94!important;background-color:#178b94!important;background-image:none!important;border:1px solid #178b94!important;text-decoration:none!important;text-shadow:none!important;opacity:1!important;filter:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:hover,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:focus-visible{background:#0f4b5a!important;background-color:#0f4b5a!important;border-color:#0f4b5a!important;outline:3px solid rgba(202,161,95,.42)!important;outline-offset:2px!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:active{background:#073c47!important;background-color:#073c47!important;border-color:#073c47!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open>.term-opl-open-label-v9,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:hover>.term-opl-open-label-v9,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:focus-visible>.term-opl-open-label-v9,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:active>.term-opl-open-label-v9{display:inline!important;color:#fff!important;-webkit-text-fill-color:#fff!important;background:transparent!important;border:0!important;box-shadow:none!important;text-shadow:none!important;opacity:1!important;filter:none!important;font:inherit!important;font-weight:900!important;line-height:inherit!important;text-decoration:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open::before,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:hover::before,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:focus-visible::before,body[data-cn-public-kind="terminology"] .mirror-article-fidelity a.term-opl-open:active::before{color:#0f4b5a!important;-webkit-text-fill-color:#0f4b5a!important;background:#fff!important;opacity:1!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar>strong{display:block!important;flex:0 0 auto!important;width:190px!important;height:36px!important;margin:0!important;padding:0!important;overflow:hidden!important;color:transparent!important;-webkit-text-fill-color:transparent!important;background:url("/assets/public-media/assets/brand/qilylean-logo.svg?v=e1d2e3634e30bc50") left center/contain no-repeat!important;text-indent:-9999px!important;white-space:nowrap!important;user-select:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar>span{color:#5f7474!important;-webkit-text-fill-color:#5f7474!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card{align-items:stretch!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy{display:flex!important;min-width:0!important;height:100%!important;flex-direction:column!important;align-self:stretch!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy>p:not(.term-opl-contact-lines){line-height:1.78!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy .term-opl-contact-lines{margin-top:auto!important;padding-top:10px!important;line-height:1.9!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy .term-opl-contact-lines>a{line-height:inherit!important;text-decoration-line:underline!important;text-decoration-thickness:1.5px!important;text-underline-offset:3px!important;text-decoration-skip-ink:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card .term-opl-qr{display:flex!important;height:100%!important;min-height:0!important;flex-direction:column!important;align-items:center!important;justify-content:flex-end!important;align-self:stretch!important;gap:7px!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card .term-opl-qr>img{margin-top:auto!important;margin-bottom:0!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card .term-opl-qr>span{display:flex!important;min-height:18px!important;align-items:flex-end!important;justify-content:center!important;margin:0!important;padding:0!important;font-size:11px!important;font-weight:900!important;line-height:1.25!important;text-align:center!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-num,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block h3 > .term-opl-num{color:#fff!important;-webkit-text-fill-color:#fff!important;text-shadow:none!important;opacity:1!important;filter:none!important;mix-blend-mode:normal!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-num *,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block h3 > .term-opl-num *{color:#fff!important;-webkit-text-fill-color:#fff!important;text-shadow:none!important;opacity:1!important;filter:none!important}
+@media(max-width:760px){body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar>strong{width:160px!important;height:31px!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy .term-opl-contact-lines{line-height:1.84!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card .term-opl-qr{height:auto!important}}
+@media print{@page{size:A4;margin:22mm 12mm 20mm!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity html,body[data-cn-public-kind="terminology"] .mirror-article-fidelity body{background:#fff!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-dialog,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-content{overflow:visible!important;max-height:none!important;height:auto!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-content{padding:4mm 1mm 0!important;font-size:10pt!important;line-height:1.48!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-objective,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-item,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-footer{box-shadow:none!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-grid{display:block!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block{display:block!important;margin:0 0 4mm!important;padding:4mm 4.5mm!important;break-inside:auto!important;page-break-inside:auto!important;overflow:visible!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block h3{margin:0 0 2.2mm!important;padding-bottom:2mm!important;font-size:12.5pt!important;line-height:1.3!important;break-after:avoid-page!important;page-break-after:avoid!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block :is(p,li,dd,dt),body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-objective,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card :is(p,a,span,strong),body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-footer{font-size:9.6pt!important;line-height:1.5!important;letter-spacing:normal!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block ul,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block ol{margin:.8mm 0 0!important;padding-left:1.45em!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block li{margin:1mm 0!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta{grid-template-columns:repeat(4,minmax(0,1fr))!important;gap:2mm!important;margin-bottom:4mm!important;break-inside:avoid!important;page-break-inside:avoid!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-item{padding:2.6mm 3mm!important;min-width:0!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-label{font-size:7.4pt!important;line-height:1.25!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-meta-value{font-size:9pt!important;line-height:1.35!important;overflow-wrap:anywhere!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-objective{margin-bottom:4mm!important;padding:3.5mm 4mm!important;break-inside:avoid!important;page-break-inside:avoid!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running{font-size:7.2pt!important;line-height:1.25!important;white-space:nowrap!important;overflow:hidden!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running-head{top:-16mm!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running-foot{bottom:-15mm!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running>span,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-running>strong{max-width:48%!important;overflow:hidden!important;text-overflow:ellipsis!important;white-space:nowrap!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card{grid-template-columns:minmax(0,1fr) 27mm 27mm!important;gap:4mm!important;padding:4mm!important;break-inside:avoid!important;page-break-inside:avoid!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-qr img{width:23mm!important;height:23mm!important;max-width:23mm!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-brandbar>strong{width:168px!important;height:31px!important;background:url("/assets/public-media/assets/brand/qilylean-logo.svg?v=e1d2e3634e30bc50") left center/contain no-repeat!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-num,body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-block h3 > .term-opl-num{width:22px!important;height:22px!important;flex:0 0 22px!important;color:#fff!important;-webkit-text-fill-color:#fff!important;background:#2d6683!important;font-size:9pt!important;line-height:1!important;opacity:1!important;filter:none!important;-webkit-print-color-adjust:exact!important;print-color-adjust:exact!important}}
+@media(min-width:980px){body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card{grid-template-columns:max-content 12px 116px minmax(26px,1fr) 116px!important;column-gap:0!important;padding-left:18px!important;padding-right:12px!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy{grid-column:1!important;min-width:0!important;padding-right:0!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy+.term-opl-qr{grid-column:3!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card>.term-opl-qr:last-child{grid-column:5!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy h3{margin-bottom:7px!important;font-size:20.5px!important;line-height:1.28!important;white-space:nowrap!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy>p:not(.term-opl-contact-lines){font-size:15.5px!important;line-height:1.55!important;letter-spacing:-.015em!important;white-space:nowrap!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy .term-opl-contact-lines{margin-top:8px!important;font-size:15.5px!important;line-height:1.62!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-qr img{box-sizing:border-box!important;width:112px!important;height:112px!important;max-width:112px!important}}
+@media(min-width:781px) and (max-width:979px){body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-card{grid-template-columns:1fr 1fr!important;column-gap:18px!important;row-gap:14px!important;padding:17px!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy{grid-column:1/-1!important;min-width:0!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy h3{font-size:20px!important;line-height:1.3!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy>p{font-size:15.5px!important;line-height:1.6!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-qr img{box-sizing:border-box!important;width:110px!important;height:110px!important;max-width:110px!important}}
+@media(max-width:780px){body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy h3{font-size:19px!important;line-height:1.32!important}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity .term-opl-contact-copy>p{font-size:15px!important;line-height:1.62!important}}
+body[data-cn-public-kind="terminology"] .mirror-article-fidelity{--qily-forest:#0f4b5a;--qily-teal:#178b94;--qily-line:#d5e4e3;--qily-ink:#182420;--qily-muted:#5f7474}

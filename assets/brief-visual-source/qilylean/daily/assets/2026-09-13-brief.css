@@ -1,0 +1,26 @@
+@import url("/assets/brief-visual-source/qilylean/daily/brief-layout-standard.css");
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-toc{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;padding-block:24px}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-toc a{padding:12px 8px;border:1px solid var(--qily-line,#D5E4E3);border-radius:var(--qily-radius-sm,8px);background:var(--qily-surface,#fff);color:var(--qily-vi-olive,#0F4B5A);font-weight:750;text-align:center;text-decoration:none}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-toc a:hover,body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-toc a:focus-visible{border-color:var(--qily-vi-olive,#0F4B5A);background:var(--qily-surface-tint,#EEF7F5)}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] section[id]{scroll-margin-top:110px}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-diagram{margin-block:24px;padding:0}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-diagram img{display:block;border:1px solid var(--qily-line,#D5E4E3);border-radius:var(--qily-radius,12px)}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-diagram figcaption{margin-top:10px}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-table{width:100%;max-width:100%;overflow-x:auto;margin:24px 0;border:1px solid var(--qily-line,#D5E4E3);border-radius:var(--qily-radius,12px)}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-table table{width:100%;min-width:0;table-layout:fixed;border-collapse:collapse;margin:0;background:var(--qily-surface,#fff)}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-table th{background:var(--qily-vi-olive,#0F4B5A);color:#fff;-webkit-text-fill-color:#fff}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-table :is(th,td){padding:12px;border:1px solid var(--qily-line,#D5E4E3);vertical-align:top;overflow-wrap:anywhere}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] #section-3 .lean-brief-table :is(th,td):first-child{width:170px;min-width:170px;white-space:nowrap;word-break:keep-all;overflow-wrap:normal}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] #section-3 .lean-brief-table :is(th,td):nth-child(2){width:53%}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] #section-3 .lean-brief-table th:first-child{text-align:center}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-case-note{padding:16px 20px;border-left:4px solid var(--qily-vi-gold,#CAA15F);background:var(--qily-surface-tint,#EEF7F5)}
+@media(max-width:900px){body.lean-operating-brief main#main[data-qily-brief-content="v2"] #section-3 .lean-brief-table :is(th,td):first-child{width:150px;min-width:150px}}
+@media(max-width:640px){body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-toc{grid-template-columns:repeat(2,minmax(0,1fr))}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-table :is(th,td){padding:9px 7px}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] #section-3 .lean-brief-table table{table-layout:auto}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] #section-3 .lean-brief-table :is(th,td):first-child{width:132px;min-width:132px;white-space:normal}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] #section-3 .lean-brief-table :is(th,td):nth-child(2){width:auto}}
+html body.lean-operating-brief main#main[data-qily-brief-content="v2"] .knowledge-brief-top-nav::before{content:attr(data-brief-meta)!important}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-table table:has(>thead>tr:first-child>:nth-child(2):last-child){table-layout:auto!important}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-table table:has(>thead>tr:first-child>:nth-child(2):last-child) tr>:first-child{width:1%!important;white-space:nowrap!important;word-break:keep-all!important;overflow-wrap:normal!important}
+body.lean-operating-brief main#main[data-qily-brief-content="v2"] .lean-brief-table table:has(>thead>tr:first-child>:nth-child(2):last-child) tr>:nth-child(2){width:auto!important;white-space:normal!important;overflow-wrap:break-word!important}

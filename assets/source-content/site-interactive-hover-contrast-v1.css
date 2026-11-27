@@ -1,0 +1,393 @@
+:where(main[data-cn-source-content]){--qily-interactive-hover-bg:#ffe39b;--qily-interactive-hover-text:#17322d;--qily-interactive-hover-border:#c99a3e;--qily-interactive-active-bg:#073c47;--qily-interactive-active-text:#ffffff}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .ql-trust-strip-actions,
+  .ql-trust-actions,
+  .hero-actions,
+  .actions,
+  .module-actions,
+  .card-actions,
+  .qily-ia-actions,
+  .qtc-actions,
+  .form-actions,
+  .resource-stage,
+  .service-contract,
+  .contact-card
+) > :is(a[href],button),html :where(main[data-cn-source-content]):is(body,main) :is(
+  a.resource-action,
+  a.qily-ia-button,
+  a.qtc-action,
+  a.module-action,
+  a.project-list-action,
+  a.project-card-action,
+  a.service-contract-link,
+  a.share-button,
+  a.button,
+  a.qily-action-primary,
+  a.qily-action-secondary,
+  button.primary,
+  button.button,
+  button.qily-action-primary,
+  button.qily-action-secondary
+){position:relative!important;isolation:isolate!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .ql-trust-strip-actions,
+  .ql-trust-actions,
+  .hero-actions,
+  .actions,
+  .module-actions,
+  .card-actions,
+  .qily-ia-actions,
+  .qtc-actions,
+  .form-actions,
+  .resource-stage,
+  .service-contract,
+  .contact-card
+) > :is(a[href],button):is(:hover,:focus-visible),html :where(main[data-cn-source-content]):is(body,main) :is(
+  a.resource-action,
+  a.qily-ia-button,
+  a.qtc-action,
+  a.module-action,
+  a.project-list-action,
+  a.project-card-action,
+  a.service-contract-link,
+  a.share-button,
+  a.button,
+  a.qily-action-primary,
+  a.qily-action-secondary,
+  button.primary,
+  button.button,
+  button.qily-action-primary,
+  button.qily-action-secondary
+):is(:hover,:focus-visible){color:var(--qily-interactive-hover-text)!important;-webkit-text-fill-color:var(--qily-interactive-hover-text)!important;background-color:var(--qily-interactive-hover-bg)!important;background-image:none!important;border-color:var(--qily-interactive-hover-border)!important;text-decoration-color:var(--qily-interactive-hover-text)!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important;box-shadow:0 9px 22px rgba(202,161,95,.30)!important;transform:translateY(-2px)!important;outline:3px solid rgba(255,227,155,.34)!important;outline-offset:2px!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .ql-trust-strip-actions,
+  .ql-trust-actions,
+  .hero-actions,
+  .actions,
+  .module-actions,
+  .card-actions,
+  .qily-ia-actions,
+  .qtc-actions,
+  .form-actions,
+  .resource-stage,
+  .service-contract,
+  .contact-card
+) > :is(a[href],button):is(:hover,:focus-visible) *,html :where(main[data-cn-source-content]):is(body,main) :is(
+  a.resource-action,
+  a.qily-ia-button,
+  a.qtc-action,
+  a.module-action,
+  a.project-list-action,
+  a.project-card-action,
+  a.service-contract-link,
+  a.share-button,
+  a.button,
+  a.qily-action-primary,
+  a.qily-action-secondary,
+  button.primary,
+  button.button,
+  button.qily-action-primary,
+  button.qily-action-secondary
+):is(:hover,:focus-visible) *{color:var(--qily-interactive-hover-text)!important;-webkit-text-fill-color:var(--qily-interactive-hover-text)!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .ql-trust-strip-actions,
+  .ql-trust-actions,
+  .hero-actions,
+  .actions,
+  .module-actions,
+  .card-actions,
+  .qily-ia-actions,
+  .qtc-actions,
+  .form-actions,
+  .resource-stage,
+  .service-contract,
+  .contact-card
+) > :is(a[href],button):active,html :where(main[data-cn-source-content]):is(body,main) :is(
+  a.resource-action,
+  a.qily-ia-button,
+  a.qtc-action,
+  a.module-action,
+  a.project-list-action,
+  a.project-card-action,
+  a.service-contract-link,
+  a.share-button,
+  a.button,
+  a.qily-action-primary,
+  a.qily-action-secondary,
+  button.primary,
+  button.button,
+  button.qily-action-primary,
+  button.qily-action-secondary
+):active{color:var(--qily-interactive-active-text)!important;-webkit-text-fill-color:var(--qily-interactive-active-text)!important;background-color:var(--qily-interactive-active-bg)!important;background-image:none!important;border-color:var(--qily-interactive-active-bg)!important;text-decoration-color:#ffe39b!important;opacity:1!important;filter:none!important;text-shadow:none!important;transform:translateY(0) scale(.98)!important;outline:none!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .ql-trust-strip-actions,
+  .ql-trust-actions,
+  .hero-actions,
+  .actions,
+  .module-actions,
+  .card-actions,
+  .qily-ia-actions,
+  .qtc-actions,
+  .form-actions,
+  .resource-stage,
+  .service-contract,
+  .contact-card
+) > :is(a[href],button):active *,html :where(main[data-cn-source-content]):is(body,main) :is(
+  a.resource-action,
+  a.qily-ia-button,
+  a.qtc-action,
+  a.module-action,
+  a.project-list-action,
+  a.project-card-action,
+  a.service-contract-link,
+  a.share-button,
+  a.button,
+  a.qily-action-primary,
+  a.qily-action-secondary,
+  button.primary,
+  button.button,
+  button.qily-action-primary,
+  button.qily-action-secondary
+):active *{color:var(--qily-interactive-active-text)!important;-webkit-text-fill-color:var(--qily-interactive-active-text)!important;opacity:1!important;filter:none!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  .ql-trust-strip-actions,
+  .ql-trust-actions,
+  .hero-actions,
+  .actions,
+  .module-actions,
+  .card-actions,
+  .qily-ia-actions,
+  .qtc-actions,
+  .form-actions,
+  .resource-stage,
+  .service-contract,
+  .contact-card
+) > :is(a[href],button)::before,html :where(main[data-cn-source-content]):is(body,main) :is(
+  .ql-trust-strip-actions,
+  .ql-trust-actions,
+  .hero-actions,
+  .actions,
+  .module-actions,
+  .card-actions,
+  .qily-ia-actions,
+  .qtc-actions,
+  .form-actions,
+  .resource-stage,
+  .service-contract,
+  .contact-card
+) > :is(a[href],button)::after{pointer-events:none!important;z-index:-1!important}
+@media(prefers-reduced-motion:reduce){html :where(main[data-cn-source-content]):is(body,main) :is(.ql-trust-strip-actions,.ql-trust-actions,.hero-actions,.actions,.module-actions,.card-actions,.qily-ia-actions,.qtc-actions,.form-actions,.resource-stage,.service-contract,.contact-card) > :is(a[href],button){transition:none!important}}
+:where(main[data-cn-source-content]) a[href="https://qilylean.com"],:where(main[data-cn-source-content]) a[href="https://qilylean.com"],:where(main[data-cn-source-content]) a[href^="mailto:admin@qilylean.com"]{opacity:1 !important;text-shadow:none !important}
+:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:hover,:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:focus-visible,:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:hover,:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:focus-visible,:where(main[data-cn-source-content]) a[href^="mailto:admin@qilylean.com"]:hover,:where(main[data-cn-source-content]) a[href^="mailto:admin@qilylean.com"]:focus-visible{color:#ffffff !important;-webkit-text-fill-color:#ffffff !important;background:#0b5662 !important;border-color:#063f49 !important;opacity:1 !important;text-shadow:none !important;text-decoration-color:#ffe39b !important;outline:3px solid #ffe39b !important;outline-offset:2px !important;box-shadow:0 9px 24px rgba(6,63,73,.28) !important}
+:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:hover *,:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:focus-visible *,:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:hover *,:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:focus-visible *,:where(main[data-cn-source-content]) a[href^="mailto:admin@qilylean.com"]:hover *,:where(main[data-cn-source-content]) a[href^="mailto:admin@qilylean.com"]:focus-visible *{color:#ffffff !important;-webkit-text-fill-color:#ffffff !important;opacity:1 !important}
+:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:active,:where(main[data-cn-source-content]) a[href="https://qilylean.com"]:active,:where(main[data-cn-source-content]) a[href^="mailto:admin@qilylean.com"]:active{color:#17231e !important;-webkit-text-fill-color:#17231e !important;background:#ffe39b !important;border-color:#caa15f !important;opacity:1 !important;outline-color:#0b5662 !important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  a.button,
+  a[class*="-button"],
+  a[class*="-action"],
+  button[class*="button"],
+  button[class*="action"]
+):is(:hover,:focus-visible){color:#17322d!important;-webkit-text-fill-color:#17322d!important;background-color:#ffe39b!important;background-image:none!important;border-color:#c99a3e!important;text-decoration-color:#17322d!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important;box-shadow:0 9px 22px rgba(202,161,95,.30)!important;outline:3px solid rgba(255,227,155,.40)!important;outline-offset:2px!important}
+html :where(main[data-cn-source-content]):is(body,main) :is(
+  a.button,
+  a[class*="-button"],
+  a[class*="-action"],
+  button[class*="button"],
+  button[class*="action"]
+):is(:hover,:focus-visible) *{color:#17322d!important;-webkit-text-fill-color:#17322d!important;opacity:1!important;visibility:visible!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) a.qily-search-result{position:relative!important;isolation:isolate!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) a.qily-search-result:is(:hover,:focus-visible){color:#17322d!important;-webkit-text-fill-color:#17322d!important;background-color:#ffe39b!important;background-image:none!important;border-color:#c99a3e!important;text-decoration-color:#17322d!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important;box-shadow:0 10px 24px rgba(202,161,95,.30)!important;outline:3px solid rgba(255,227,155,.42)!important;outline-offset:2px!important;transform:translateY(-2px)!important}
+html :where(main[data-cn-source-content]):is(body,main) a.qily-search-result:is(:hover,:focus-visible) :is(
+  .qily-search-meta,
+  strong,
+  .qily-search-path,
+  .qily-search-snippet,
+  .qily-search-open
+){color:#17322d!important;-webkit-text-fill-color:#17322d!important;text-decoration-color:#17322d!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) a.qily-search-result:is(:hover,:focus-visible) .qily-search-rank{color:#17322d!important;-webkit-text-fill-color:#17322d!important;background-color:#fff8df!important;border:1px solid rgba(23,50,45,.24)!important;opacity:1!important}
+html :where(main[data-cn-source-content]):is(body,main) a.qily-search-result:active{color:#fff!important;-webkit-text-fill-color:#fff!important;background-color:#073c47!important;background-image:none!important;border-color:#073c47!important;text-decoration-color:#ffe39b!important;opacity:1!important;filter:none!important;text-shadow:none!important;outline:none!important;transform:translateY(0) scale(.99)!important}
+html :where(main[data-cn-source-content]):is(body,main) a.qily-search-result:active :is(
+  .qily-search-meta,
+  strong,
+  .qily-search-path,
+  .qily-search-snippet,
+  .qily-search-open
+){color:#fff!important;-webkit-text-fill-color:#fff!important;text-decoration-color:#ffe39b!important;opacity:1!important;filter:none!important;text-shadow:none!important}
+html :where(main[data-cn-source-content]):is(body,main) a.qily-search-result:active .qily-search-rank{color:#17322d!important;-webkit-text-fill-color:#17322d!important;background-color:#ffe39b!important;border-color:#ffe39b!important}
+:where(main[data-cn-source-content]){--qily-control-hover-bg:#ffe39b;--qily-control-hover-ink:#17322d;--qily-control-hover-border:#c99a3e;--qily-control-active-bg:#052a33;--qily-control-active-ink:#ffffff;--qily-control-active-border:#ffe39b;--qily-control-focus-ring:#fff3c6;--qily-control-disabled-bg:#e6eceb;--qily-control-disabled-ink:#465a57;--qily-control-disabled-border:#9aadaa}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  button:not([hidden]),
+  [role="button"]:not([aria-hidden="true"]),
+  input[type="button"],
+  input[type="submit"],
+  a.button,
+  a.btn,
+  a[class*="-button"],
+  a[class*="-action"],
+  .hero-actions>a[href],
+  .actions>a[href],
+  .module-actions>a[href],
+  .article-actions>a[href],
+  .card-actions>a[href],
+  .qily-ia-actions>a[href],
+  .qtc-actions>a[href],
+  .form-actions>a[href],
+  .qily-float-btn,
+  .site-music-toggle,
+  .qily-modal-close
+){position:relative!important;isolation:isolate!important;opacity:1!important;visibility:visible!important;filter:none!important;mix-blend-mode:normal!important;text-shadow:none!important;transition:
+    color .16s ease,
+    background-color .16s ease,
+    border-color .16s ease,
+    box-shadow .16s ease,
+    transform .16s ease!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  button:not([hidden]),
+  [role="button"]:not([aria-hidden="true"]),
+  input[type="button"],
+  input[type="submit"],
+  a.button,
+  a.btn,
+  a[class*="-button"],
+  a[class*="-action"],
+  .hero-actions>a[href],
+  .actions>a[href],
+  .module-actions>a[href],
+  .article-actions>a[href],
+  .card-actions>a[href],
+  .qily-ia-actions>a[href],
+  .qtc-actions>a[href],
+  .form-actions>a[href],
+  .qily-float-btn,
+  .site-music-toggle,
+  .qily-modal-close
+) :is(span,strong,b,small,em,i,label,svg){color:inherit!important;-webkit-text-fill-color:currentColor!important;opacity:1!important;visibility:visible!important;filter:none!important;text-shadow:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  .module-hero,.daily-hero,.hero,.project-hero,.projects-hero,.knowledge-hero,
+  .trust-hero,.cooperation-hero,.capability-hero,.experience-hero,.improvement-hero,
+  [data-qily-dark-surface="true"]
+) :is(.hero-actions,.actions,.module-actions,.article-actions,.card-actions,.qily-ia-actions)
+> :is(a,button).primary,html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  .module-hero,.daily-hero,.hero,.project-hero,.projects-hero,.knowledge-hero,
+  .trust-hero,.cooperation-hero,.capability-hero,.experience-hero,.improvement-hero,
+  [data-qily-dark-surface="true"]
+) :is(a,button).qily-action-primary{color:#332100!important;-webkit-text-fill-color:#332100!important;background-color:#ffd36a!important;background-image:none!important;border:2px solid #fff3c6!important;text-decoration-color:#332100!important;box-shadow:0 10px 24px rgba(0,0,0,.24)!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  .module-hero,.daily-hero,.hero,.project-hero,.projects-hero,.knowledge-hero,
+  .trust-hero,.cooperation-hero,.capability-hero,.experience-hero,.improvement-hero,
+  [data-qily-dark-surface="true"]
+) :is(.hero-actions,.actions,.module-actions,.article-actions,.card-actions,.qily-ia-actions)
+> :is(a,button):not(.primary):not(.qily-action-primary),html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  .module-hero,.daily-hero,.hero,.project-hero,.projects-hero,.knowledge-hero,
+  .trust-hero,.cooperation-hero,.capability-hero,.experience-hero,.improvement-hero,
+  [data-qily-dark-surface="true"]
+) :is(a,button).qily-action-secondary{color:#ffffff!important;-webkit-text-fill-color:#ffffff!important;background-color:rgba(255,255,255,.10)!important;background-image:none!important;border:2px solid rgba(255,255,255,.92)!important;text-decoration-color:#ffe39b!important;box-shadow:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  button:not([hidden]):not(:disabled),
+  [role="button"]:not([aria-hidden="true"]):not([aria-disabled="true"]),
+  input[type="button"]:not(:disabled),
+  input[type="submit"]:not(:disabled),
+  a.button:not([aria-disabled="true"]),
+  a.btn:not([aria-disabled="true"]),
+  a[class*="-button"]:not([aria-disabled="true"]),
+  a[class*="-action"]:not([aria-disabled="true"]),
+  .hero-actions>a[href]:not([aria-disabled="true"]),
+  .actions>a[href]:not([aria-disabled="true"]),
+  .module-actions>a[href]:not([aria-disabled="true"]),
+  .article-actions>a[href]:not([aria-disabled="true"]),
+  .card-actions>a[href]:not([aria-disabled="true"]),
+  .qily-ia-actions>a[href]:not([aria-disabled="true"]),
+  .qtc-actions>a[href]:not([aria-disabled="true"]),
+  .form-actions>a[href]:not([aria-disabled="true"]),
+  .qily-float-btn:not([aria-disabled="true"]),
+  .site-music-toggle:not([aria-disabled="true"]),
+  .qily-modal-close:not([aria-disabled="true"])
+):not(#qily-interaction-state-priority):is(:hover:hover,:focus-visible:focus-visible){color:var(--qily-control-hover-ink)!important;-webkit-text-fill-color:var(--qily-control-hover-ink)!important;background-color:var(--qily-control-hover-bg)!important;background-image:none!important;border-color:var(--qily-control-hover-border)!important;text-decoration-color:var(--qily-control-hover-ink)!important;opacity:1!important;filter:none!important;text-shadow:none!important;transition:none!important;box-shadow:0 10px 24px rgba(202,161,95,.34)!important;transform:translateY(-2px)!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  button:not([hidden]),[role="button"],input[type="button"],input[type="submit"],
+  a.button,a.btn,a[class*="-button"],a[class*="-action"],
+  .hero-actions>a[href],.actions>a[href],.module-actions>a[href],.article-actions>a[href],
+  .card-actions>a[href],.qily-ia-actions>a[href],.qtc-actions>a[href],.form-actions>a[href],
+  .qily-float-btn,.site-music-toggle,.qily-modal-close
+):not(#qily-interaction-state-priority):focus-visible:focus-visible{outline:3px solid var(--qily-control-focus-ring)!important;outline-offset:3px!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  button:not([hidden]):not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  input[type="button"]:not(:disabled),
+  input[type="submit"]:not(:disabled),
+  a.button:not([aria-disabled="true"]),
+  a.btn:not([aria-disabled="true"]),
+  a[class*="-button"]:not([aria-disabled="true"]),
+  a[class*="-action"]:not([aria-disabled="true"]),
+  .hero-actions>a[href]:not([aria-disabled="true"]),
+  .actions>a[href]:not([aria-disabled="true"]),
+  .module-actions>a[href]:not([aria-disabled="true"]),
+  .article-actions>a[href]:not([aria-disabled="true"]),
+  .card-actions>a[href]:not([aria-disabled="true"]),
+  .qily-ia-actions>a[href]:not([aria-disabled="true"]),
+  .qtc-actions>a[href]:not([aria-disabled="true"]),
+  .form-actions>a[href]:not([aria-disabled="true"]),
+  .qily-float-btn:not([aria-disabled="true"]),
+  .site-music-toggle:not([aria-disabled="true"]),
+  .qily-modal-close:not([aria-disabled="true"])
+):not(#qily-interaction-state-priority):active:active{color:var(--qily-control-active-ink)!important;-webkit-text-fill-color:var(--qily-control-active-ink)!important;background-color:var(--qily-control-active-bg)!important;background-image:none!important;border-color:var(--qily-control-active-border)!important;text-decoration-color:var(--qily-control-active-border)!important;box-shadow:inset 0 0 0 2px rgba(255,227,155,.22),0 5px 14px rgba(5,42,51,.28)!important;transform:translateY(0) scale(.97)!important;outline-color:var(--qily-control-active-border)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"])>a[href]:not(#qily-interaction-state-priority):is(:hover:hover,:focus-visible:focus-visible){color:var(--qily-control-hover-ink)!important;-webkit-text-fill-color:var(--qily-control-hover-ink)!important;background-color:var(--qily-control-hover-bg)!important;background-image:none!important;border-color:var(--qily-control-hover-border)!important;text-decoration-color:var(--qily-control-hover-ink)!important;box-shadow:0 8px 20px rgba(202,161,95,.32)!important;transform:translateY(-2px)!important;transition:none!important;outline:3px solid rgba(15,75,90,.26)!important;outline-offset:2px!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(.qily-site-header,.qily-global-header,header.topbar,header.top,header.site-header,header)
+:is(.site-nav,.qily-global-nav,.nav,nav[aria-label="网站导航"])>a[href]:not(#qily-interaction-state-priority):active:active{color:var(--qily-control-active-ink)!important;-webkit-text-fill-color:var(--qily-control-active-ink)!important;background-color:var(--qily-control-active-bg)!important;border-color:var(--qily-control-active-border)!important;text-decoration-color:var(--qily-control-active-border)!important;transform:translateY(0) scale(.97)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  a.qily-search-result,a.qily-ia-card-link,a.module-card-link,a.project-card-link,
+  a.linked-card,a.resource-card-link,a.moment-link,[role="link"].qily-interactive-card
+):not(#qily-interaction-state-priority):is(:hover:hover,:focus-visible:focus-visible){color:#17322d!important;-webkit-text-fill-color:#17322d!important;background-color:#fff8df!important;background-image:none!important;border-color:#c99a3e!important;box-shadow:0 14px 30px rgba(15,75,90,.20)!important;transform:translateY(-3px)!important;outline:3px solid rgba(202,161,95,.42)!important;outline-offset:3px!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  a.qily-search-result,a.qily-ia-card-link,a.module-card-link,a.project-card-link,
+  a.linked-card,a.resource-card-link,a.moment-link,[role="link"].qily-interactive-card
+):not(#qily-interaction-state-priority):is(:hover:hover,:focus-visible:focus-visible) *{color:#17322d!important;-webkit-text-fill-color:#17322d!important;text-decoration-color:#17322d!important;opacity:1!important;visibility:visible!important;text-shadow:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  a.qily-search-result,a.qily-ia-card-link,a.module-card-link,a.project-card-link,
+  a.linked-card,a.resource-card-link,a.moment-link,[role="link"].qily-interactive-card
+):not(#qily-interaction-state-priority):active:active,html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  a.qily-search-result,a.qily-ia-card-link,a.module-card-link,a.project-card-link,
+  a.linked-card,a.resource-card-link,a.moment-link,[role="link"].qily-interactive-card
+):not(#qily-interaction-state-priority):active:active *{color:#ffffff!important;-webkit-text-fill-color:#ffffff!important;background-color:#052a33!important;border-color:#ffe39b!important;text-decoration-color:#ffe39b!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+  button:disabled,input[type="button"]:disabled,input[type="submit"]:disabled,
+  [role="button"][aria-disabled="true"],a[aria-disabled="true"]
+){color:var(--qily-control-disabled-ink)!important;-webkit-text-fill-color:var(--qily-control-disabled-ink)!important;background-color:var(--qily-control-disabled-bg)!important;background-image:none!important;border-color:var(--qily-control-disabled-border)!important;opacity:1!important;filter:none!important;box-shadow:none!important;transform:none!important;cursor:not-allowed!important}
+@media(prefers-reduced-motion:reduce){html:root:root :where(main[data-cn-source-content]):is(body,main) :is(
+    button,[role="button"],input[type="button"],input[type="submit"],a.button,a.btn,
+    a[class*="-button"],a[class*="-action"],.qily-float-btn,.site-music-toggle,.qily-modal-close
+  ){transition:none!important}}
+:where(main[data-cn-source-content]){--qily-boundary-accent:#ffd36a;--qily-boundary-accent-soft:#fff3c6;--qily-boundary-ink:#17322d;--qily-boundary-deep:#073c47;--qily-boundary-pressed:#052a33}
+html:root:root :where(main[data-cn-source-content]):is(body,main) .qtc-global-trust-footer .qtc-global-trust-links{display:flex!important;align-items:center!important;gap:10px!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) .qtc-global-trust-footer .qtc-global-trust-links>a[href]{position:relative!important;isolation:isolate!important;display:inline-flex!important;align-items:center!important;justify-content:center!important;min-width:88px!important;min-height:44px!important;padding:9px 16px!important;border:2px solid var(--qily-boundary-accent)!important;border-radius:999px!important;color:var(--qily-boundary-deep)!important;-webkit-text-fill-color:var(--qily-boundary-deep)!important;background-color:#f7fbfa!important;background-image:none!important;text-decoration:none!important;font-size:14px!important;font-weight:900!important;line-height:1.35!important;opacity:1!important;filter:none!important;text-shadow:none!important;box-shadow:inset 0 0 0 1px rgba(7,60,71,.12),0 5px 14px rgba(0,0,0,.18)!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) .qtc-global-trust-footer .qtc-global-trust-links>a[href]:is(:hover:hover,:focus-visible:focus-visible){color:#332100!important;-webkit-text-fill-color:#332100!important;background-color:var(--qily-boundary-accent)!important;border-color:var(--qily-boundary-accent-soft)!important;outline:3px solid var(--qily-boundary-accent-soft)!important;outline-offset:2px!important;box-shadow:0 9px 22px rgba(255,211,106,.32)!important;transform:translateY(-2px)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) .qtc-global-trust-footer .qtc-global-trust-links>a[href]:active:active{color:#ffffff!important;-webkit-text-fill-color:#ffffff!important;background-color:var(--qily-boundary-pressed)!important;border-color:var(--qily-boundary-accent)!important;outline-color:var(--qily-boundary-accent)!important;box-shadow:inset 0 0 0 2px rgba(255,211,106,.22)!important;transform:translateY(0) scale(.97)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(a.moment-link,a.moment-back){min-height:44px!important;padding:8px 16px!important;border:2px solid var(--qily-boundary-accent)!important;color:#ffffff!important;-webkit-text-fill-color:#ffffff!important;background-color:#0f4b5a!important;background-image:none!important;text-decoration:none!important;font-weight:900!important;opacity:1!important;filter:none!important;text-shadow:none!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.15),0 5px 14px rgba(15,75,90,.18)!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(a.moment-link,a.moment-back):is(:hover:hover,:focus-visible:focus-visible){color:#332100!important;-webkit-text-fill-color:#332100!important;background-color:var(--qily-boundary-accent)!important;border-color:var(--qily-boundary-deep)!important;outline:3px solid var(--qily-boundary-accent-soft)!important;outline-offset:3px!important;box-shadow:0 10px 24px rgba(202,161,95,.34)!important;transform:translateY(-2px)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(a.moment-link,a.moment-back):active:active{color:#ffffff!important;-webkit-text-fill-color:#ffffff!important;background-color:var(--qily-boundary-pressed)!important;border-color:var(--qily-boundary-accent)!important;outline-color:var(--qily-boundary-accent)!important;transform:translateY(0) scale(.97)!important;transition:none!important}
+@media(max-width:560px){html:root:root :where(main[data-cn-source-content]):is(body,main) .qtc-global-trust-footer .qtc-global-trust-links>a[href]{flex:1 1 112px!important}}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(a.moment-link,a.moment-back):not(#qily-boundary-state-priority):is(:hover:hover,:focus-visible:focus-visible){color:#332100!important;-webkit-text-fill-color:#332100!important;background-color:var(--qily-boundary-accent)!important;background-image:none!important;border:2px solid var(--qily-boundary-deep)!important;outline:3px solid var(--qily-boundary-accent-soft)!important;outline-offset:3px!important;box-shadow:0 10px 24px rgba(202,161,95,.34)!important;transform:translateY(-2px)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(a.moment-link,a.moment-back):not(#qily-boundary-state-priority):active:active{color:#ffffff!important;-webkit-text-fill-color:#ffffff!important;background-color:var(--qily-boundary-pressed)!important;background-image:none!important;border:2px solid var(--qily-boundary-accent)!important;outline-color:var(--qily-boundary-accent)!important;transform:translateY(0) scale(.97)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(a.moment-link,a.moment-back):not(#qily-boundary-state-priority):not(#qily-boundary-state-override):is(:hover:hover,:focus-visible:focus-visible){color:#332100!important;-webkit-text-fill-color:#332100!important;background-color:var(--qily-boundary-accent)!important;background-image:none!important;border:2px solid var(--qily-boundary-deep)!important;outline:3px solid var(--qily-boundary-accent-soft)!important;outline-offset:3px!important;box-shadow:0 10px 24px rgba(202,161,95,.34)!important;transform:translateY(-2px)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) :is(a.moment-link,a.moment-back):not(#qily-boundary-state-priority):not(#qily-boundary-state-override):active:active{color:#ffffff!important;-webkit-text-fill-color:#ffffff!important;background-color:var(--qily-boundary-pressed)!important;background-image:none!important;border:2px solid var(--qily-boundary-accent)!important;outline-color:var(--qily-boundary-accent)!important;transform:translateY(0) scale(.97)!important;transition:none!important}
+:where(main[data-cn-source-content]){--qily-float-hover-bg:#ffd36a;--qily-float-hover-ink:#17322d;--qily-float-hover-border:#052a33;--qily-float-pressed-bg:#052a33;--qily-float-pressed-ink:#ffffff;--qily-float-pressed-border:#ffe39b;--qily-float-focus-ring:#fff3c6}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+.qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override){min-width:44px!important;min-height:44px!important;opacity:1!important;filter:none!important;text-shadow:none!important;touch-action:manipulation!important;-webkit-tap-highlight-color:rgba(255,211,106,.46)!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+.qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override):is(:hover:hover,:focus-visible:focus-visible){color:var(--qily-float-hover-ink)!important;-webkit-text-fill-color:var(--qily-float-hover-ink)!important;background-color:var(--qily-float-hover-bg)!important;background-image:none!important;border:2px solid var(--qily-float-hover-border)!important;outline:3px solid var(--qily-float-focus-ring)!important;outline-offset:3px!important;box-shadow:0 0 0 2px rgba(5,42,51,.24),0 12px 28px rgba(5,42,51,.38)!important;transform:translateX(-5px) scale(1.06)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+.qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override):is(:active:active,[data-qily-pressed="true"]){color:var(--qily-float-pressed-ink)!important;-webkit-text-fill-color:var(--qily-float-pressed-ink)!important;background-color:var(--qily-float-pressed-bg)!important;background-image:none!important;border:2px solid var(--qily-float-pressed-border)!important;outline:3px solid rgba(255,227,155,.58)!important;outline-offset:2px!important;box-shadow:inset 0 0 0 2px rgba(255,227,155,.24),0 5px 14px rgba(5,42,51,.34)!important;transform:translateX(-2px) scale(.94)!important;transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+.qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override):is(:hover:hover,:focus-visible:focus-visible,[data-qily-pressed="true"]) *{color:inherit!important;-webkit-text-fill-color:currentColor!important;opacity:1!important;filter:none!important;text-shadow:none!important}
+@media(prefers-reduced-motion:reduce){html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock .qily-float-btn{transition:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+  .qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override):is(:hover:hover,:focus-visible:focus-visible){transform:none!important}}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+.qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override):is(:hover:hover,:focus:focus,:focus-visible:focus-visible){outline:none!important;outline-offset:0!important;transform:none!important;box-shadow:inset 0 0 0 2px rgba(202,161,95,.55)!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+.qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override):is(:active:active,[data-qily-pressed="true"]){outline:none!important;outline-offset:0!important;transform:none!important;box-shadow:inset 0 0 0 1px rgba(202,161,95,.38)!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+.qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override):first-child{margin-left:0!important;border-left-width:1px!important;border-left-style:solid!important;transform:none!important}
+html:root:root :where(main[data-cn-source-content]):is(body,main) #floatDock.qily-float-dock
+.qily-float-btn:not(#qily-float-state-priority):not(#qily-float-state-override):last-child{margin-right:0!important;border-right-width:1px!important;border-right-style:solid!important;transform:none!important}
