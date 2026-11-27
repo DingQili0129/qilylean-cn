@@ -1,27 +1,158 @@
-/* QilyLean 中国站网站统计。独立计数键；10,000展示初始基数不写入实际计数。 */
-(function(d,w){
-'use strict';
-if(w.__qilyCnTrafficV2Loaded)return;
-if(!/^(www\.)?qilylean\.cn$/i.test((w.location&&w.location.hostname)||''))return;
-w.__qilyCnTrafficV2Loaded=true;
-function formatCount(v){var n=Math.max(0,Math.floor(Number(v)));try{return n.toLocaleString('zh-CN')}catch(e){return String(n)}}
-function getTarget(name){return d.querySelector('[data-qily-traffic-count="'+name+'"]');}
+/* QilyLean traffic statistics | international pageview counter v2.0 | 2026-10-29
+ * Public aggregate counters via CounterAPI.com. The site does not display visitor identities.
+ * Counts begin at rollout; historical pageviews are not fabricated or backfilled.
+ */
+(function (d, w) {
+  'use strict';
+  if (w.__qilyTrafficStatsV1Loaded) return;
+  w.__qilyTrafficStatsV1Loaded = true;
+
+  var host = String((w.location && w.location.hostname) || '').toLowerCase();
+  var isChina = host === 'qilylean.cn' || host === 'www.qilylean.cn';
+  var isInternational = host === 'qilylean.com' || host === 'www.qilylean.com';
+  if (!isChina && !isInternational) return;
+  var currentSite = isChina ? 'qilylean.cn' : 'qilylean.com';
+  var callbackSequence = 0;
+
+  function ensureTracker() {
+    if (!d.body || d.querySelector('[data-qily-traffic-tracker="v1"]')) return;
+    var tracker = d.createElement('div');
+    tracker.className = 'counterapi';
+    tracker.setAttribute('ns', currentSite);
+    tracker.setAttribute('action', 'view');
+    tracker.setAttribute('key', 'sitewide-pageview');
+    tracker.setAttribute('behavior', 'view');
+    tracker.setAttribute('invisible', 'true');
+    tracker.setAttribute('noLink', 'true');
+    tracker.setAttribute('noIcon', 'true');
+    tracker.setAttribute('noCss', 'true');
+    tracker.setAttribute('data-qily-traffic-tracker', 'v1');
+    tracker.setAttribute('aria-hidden', 'true');
+    tracker.style.position = 'absolute';
+    tracker.style.left = '-10000px';
+    tracker.style.width = '1px';
+    tracker.style.height = '1px';
+    tracker.style.overflow = 'hidden';
+    d.body.appendChild(tracker);
+  }
+
+  function loadCounterApi() {
+    if (d.querySelector('script[data-qily-counterapi-script="v1"]')) return;
+    var script = d.createElement('script');
+    script.async = true;
+    script.src = 'https://counterapi.com/c.js?ns=' + encodeURIComponent(currentSite);
+    script.setAttribute('data-qily-counterapi-script', 'v1');
+    (d.head || d.documentElement).appendChild(script);
+  }
+
+  function formatCount(value) {
+    var count = Math.max(0, Math.floor(Number(value)));
+    try {
+      return count.toLocaleString('zh-CN');
+    } catch (e) {
+      return String(count).replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+    }
+  }
+
+  function getTarget(name) {
+    return d.querySelector('[data-qily-traffic-count="' + name + '"]');
+  }
+
+  function unavailable(target) {
+    if (!target) return;
+    if (target.getAttribute('data-qily-traffic-state') !== 'ready') target.textContent = '暂不可用';
+    target.setAttribute('data-qily-traffic-state', 'stale');
+  }
+
+  function requestCount(site, metric, targetName) {
+    var target = getTarget(targetName);
+    if (!target) return;
+    var action = metric === 'total' ? 'view' : 'any';
+    var key = metric === 'total' ? 'sitewide-pageview' : 'any';
+    var params = metric === 'total'
+      ? { readOnly: 'true' }
+      : { timeline: '30m', unique: 'true', readOnly: 'true' };
+    var callbackName = '__qilyTrafficStatsCallback' + (++callbackSequence) + '_' + Date.now();
+    params.callback = callbackName;
+    var query = [];
+    Object.keys(params).forEach(function (name) {
+      query.push(encodeURIComponent(name) + '=' + encodeURIComponent(params[name]));
+    });
+
+    var script = d.createElement('script');
+    var finished = false;
+    var timer = null;
+
+    function finish(value, good) {
+      if (finished) return;
+      finished = true;
+      if (timer) w.clearTimeout(timer);
+      if (script.parentNode) script.parentNode.removeChild(script);
+      if (good && value !== null && isFinite(Number(value))) {
+        target.textContent = formatCount(value);
+        target.setAttribute('data-qily-traffic-state', 'ready');
+      } else {
+        unavailable(target);
+      }
+      try {
+        delete w[callbackName];
+      } catch (e) {
+        w[callbackName] = undefined;
+      }
+    }
+
+    w[callbackName] = function (payload) {
+      var value = payload && payload.value;
+      if (value === undefined || value === null || !isFinite(Number(value))) {
+        finish(null, false);
+        return;
+      }
+      finish(Number(value), true);
+    };
+
+    script.async = true;
+    script.src = 'https://counterapi.com/api/' + encodeURIComponent(site) + '/' + action + '/' + key + '?' + query.join('&');
+    script.onerror = function () {
+      finish(null, false);
+    };
+    timer = w.setTimeout(function () {
+      finish(null, false);
+    }, 10000);
+    (d.head || d.documentElement).appendChild(script);
+  }
+
+  function refreshTotals() {
+    requestCount('qilylean.com', 'total', 'intl-total');
+    requestCount('qilylean.cn', 'total', 'cn-total');
+  }
+
+  function refreshActive() {
+    requestCount('qilylean.com', 'active', 'intl-active');
+    requestCount('qilylean.cn', 'active', 'cn-active');
+  }
+
+  function refreshAll() {
+    refreshTotals();
+    refreshActive();
+  }
+
 
   // International-site counter: the previous CounterAPI.com integration no longer
   // returns usable values in production. Use a public read/hit endpoint instead.
   // Only the international runtime is changed here; China uses its separate /assets copy.
-  var CN_COUNTER_BASE = 'https://countapi.mileshilliard.com/api/v1';
-  var CN_COUNTER_KEY = 'qilylean_cn_sitewide_pageviews_20261029';
-  // Disclosed starting base; the original CountAPI value remains genuine.
-  var CN_DISPLAY_BASELINE = 10000;
+  var INTL_COUNTER_BASE = 'https://countapi.mileshilliard.com/api/v1';
+  var INTL_COUNTER_KEY = 'qilylean_com_sitewide_pageviews_20261029';
+  // A user-specified visual starting base, not a claim of historically measured PV.
+  // Never write this value into the real CountAPI counter; report it transparently.
+  var INTL_DISPLAY_BASELINE = 15000;
 
-  function cnCounterUrl(action) {
-    return CN_COUNTER_BASE + '/' + action + '/' + encodeURIComponent(CN_COUNTER_KEY);
+  function intlCounterUrl(action) {
+    return INTL_COUNTER_BASE + '/' + action + '/' + encodeURIComponent(INTL_COUNTER_KEY);
   }
 
-  function requestCnCounter(action, overrideKey) {
+  function requestIntlCounter(action, overrideKey) {
     if (typeof w.fetch !== 'function') return Promise.reject(new Error('Fetch is unavailable'));
-    var url = overrideKey ? CN_COUNTER_BASE + '/' + action + '/' + encodeURIComponent(overrideKey) : cnCounterUrl(action);
+    var url = overrideKey ? INTL_COUNTER_BASE + '/' + action + '/' + encodeURIComponent(overrideKey) : intlCounterUrl(action);
     var requestOptions = {
       method: 'GET',
       mode: 'cors',
@@ -58,18 +189,18 @@ function getTarget(name){return d.querySelector('[data-qily-traffic-count="'+nam
     });
   }
 
-  function renderCnCount(value) {
-    var target = getTarget('cn-total');
+  function renderIntlCount(value) {
+    var target = getTarget('intl-total');
     if (!target) return;
     var actualRecorded = Math.max(0, Math.floor(Number(value)));
-    target.textContent = formatCount(CN_DISPLAY_BASELINE + actualRecorded);
+    target.textContent = formatCount(INTL_DISPLAY_BASELINE + actualRecorded);
     target.setAttribute('data-qily-traffic-state', 'ready');
-    target.setAttribute('data-qily-traffic-starting-base', String(CN_DISPLAY_BASELINE));
+    target.setAttribute('data-qily-traffic-starting-base', String(INTL_DISPLAY_BASELINE));
     target.setAttribute('data-qily-traffic-recorded-pv', String(actualRecorded));
   }
 
-  function markCnCountUnavailable() {
-    var target = getTarget('cn-total');
+  function markIntlCountUnavailable() {
+    var target = getTarget('intl-total');
     if (!target) return;
     if (target.getAttribute('data-qily-traffic-state') !== 'ready') {
       target.textContent = '暂不可用';
@@ -77,54 +208,54 @@ function getTarget(name){return d.querySelector('[data-qily-traffic-count="'+nam
     target.setAttribute('data-qily-traffic-state', 'stale');
   }
 
-  function readCnCount() {
-    return requestCnCounter('get').then(function (value) {
-      renderCnCount(value);
+  function readIntlCount() {
+    return requestIntlCounter('get').then(function (value) {
+      renderIntlCount(value);
       return value;
     }).catch(function () {
-      markCnCountUnavailable();
+      markIntlCountUnavailable();
       return null;
     });
   }
 
-  function trackCnPageview() {
+  function trackIntlPageview() {
     // One increment per loaded public HTML page. The hit response also supplies
     // the number shown on the About page, avoiding a separate read race.
-    return requestCnCounter('hit').then(function (value) {
-      renderCnCount(value);
-      // Record only successful measured pageviews, separately from the 10,000
+    return requestIntlCounter('hit').then(function (value) {
+      renderIntlCount(value);
+      // Record only successful measured pageviews, separately from the 15,000
       // presentation baseline. Every international page contributes one 6h hit.
-      trackCnTimeBucket();
+      trackIntlTimeBucket();
       return value;
     }).catch(function () {
       // If the hit response was lost after being recorded, a read can still
       // recover the current total without risking a second increment.
-      return readCnCount();
+      return readIntlCount();
     });
   }
 
-  function ensureCnPanelStyles() {
-    if (d.getElementById('qily-traffic-cn-single-v2')) return;
+  function ensureIntlPanelStyles() {
+    if (d.getElementById('qily-traffic-intl-single-v2')) return;
     var style = d.createElement('style');
-    style.id = 'qily-traffic-cn-single-v2';
+    style.id = 'qily-traffic-intl-single-v2';
     style.textContent = [
       '#traffic .qily-traffic-grid[data-qily-traffic-single="true"]{grid-template-columns:minmax(0,1fr)!important;max-width:760px!important;margin-inline:auto!important;}',
       '#traffic .qily-traffic-site[hidden],#traffic .qily-traffic-metric[hidden]{display:none!important;}',
       '#traffic .qily-traffic-metrics[data-qily-traffic-single-metric="true"]{grid-template-columns:minmax(0,1fr)!important;}',
-      '#traffic .qily-traffic-number[data-qily-traffic-count="cn-total"]{font-size:clamp(2.2rem,4.5vw,3.1rem)!important;font-weight:650!important;line-height:1.12!important;letter-spacing:-.03em!important;}',
+      '#traffic .qily-traffic-number[data-qily-traffic-count="intl-total"]{font-size:clamp(2.2rem,4.5vw,3.1rem)!important;font-weight:650!important;line-height:1.12!important;letter-spacing:-.03em!important;}',
       '#traffic .qily-traffic-live.qily-traffic-scope::before{background:#ffe39b!important;}',
       '@media(max-width:760px){#traffic .qily-traffic-grid[data-qily-traffic-single="true"]{max-width:none!important;}}'
     ].join('');
     (d.head || d.documentElement).appendChild(style);
   }
 
-  function applyChinaOnlyPanel() {
+  function applyInternationalOnlyPanel() {
     var section = d.querySelector('[data-qily-traffic-stats="v1"]');
     if (!section) return;
-    ensureCnPanelStyles();
+    ensureIntlPanelStyles();
 
     var title = section.querySelector('#qily-traffic-title');
-    if (title) title.textContent = '6. 中国站访问统计';
+    if (title) title.textContent = '6. 国际站访问统计';
 
     var grid = section.querySelector('.qily-traffic-grid');
     if (grid) grid.setAttribute('data-qily-traffic-single', 'true');
@@ -133,20 +264,20 @@ function getTarget(name){return d.querySelector('[data-qily-traffic-count="'+nam
     var intlCard = intlTarget && intlTarget.closest('.qily-traffic-site');
     var cnTarget = getTarget('cn-total');
     var cnCard = cnTarget && cnTarget.closest('.qily-traffic-site');
-    if (intlCard) {
-      intlCard.hidden = true;
-      intlCard.setAttribute('aria-hidden', 'true');
+    if (cnCard) {
+      cnCard.hidden = true;
+      cnCard.setAttribute('aria-hidden', 'true');
     }
 
-    if (cnCard) {
-      var activeMetric = cnCard.querySelector('[data-qily-traffic-count="cn-active"]');
+    if (intlCard) {
+      var activeMetric = intlCard.querySelector('[data-qily-traffic-count="intl-active"]');
       var activeRow = activeMetric && activeMetric.closest('.qily-traffic-metric');
       if (activeRow) activeRow.hidden = true;
-      var metrics = cnCard.querySelector('.qily-traffic-metrics');
+      var metrics = intlCard.querySelector('.qily-traffic-metrics');
       if (metrics) metrics.setAttribute('data-qily-traffic-single-metric', 'true');
-      var label = cnTarget && cnTarget.nextElementSibling;
+      var label = intlTarget && intlTarget.nextElementSibling;
       if (label) label.textContent = '累计展示量';
-      var badge = cnCard.querySelector('.qily-traffic-live');
+      var badge = intlCard.querySelector('.qily-traffic-live');
       if (badge) {
         badge.textContent = '全站累计';
         badge.classList.add('qily-traffic-scope');
@@ -166,12 +297,12 @@ function getTarget(name){return d.querySelector('[data-qily-traffic-count="'+nam
     };
   }
 
-  function trackCnTimeBucket() {
+  function trackIntlTimeBucket() {
     var clock = shanghaiClock();
     if (clock.date < '2026-10-29') return;
-    var key = 'qilylean_cn_pv6h_v1_' + clock.date.replace(/-/g, '') + '_s' + clock.slot;
+    var key = 'qilylean_com_pv6h_v1_' + clock.date.replace(/-/g, '') + '_s' + clock.slot;
     // No retry: replaying /hit after an ambiguous network failure double-counts.
-    requestCnCounter('hit', key).then(function (count) {
+    requestIntlCounter('hit', key).then(function (count) {
       try {
         w.dispatchEvent(new CustomEvent('qily:pv6h-updated', {
           detail: { date: clock.date, slot: clock.slot, value: count }
@@ -182,27 +313,51 @@ function getTarget(name){return d.querySelector('[data-qily-traffic-count="'+nam
     });
   }
 
-  function loadCnDailyKline() {
+  function loadIntlDailyKline() {
     if (!d.querySelector('#traffic[data-qily-traffic-stats="v1"]')) return;
     if (d.querySelector('script[data-qily-daily-kline="v1"]')) return;
     var script = d.createElement('script');
     script.async = true;
-    script.src = '/assets/site-traffic-daily-kline-v1.js?v=20261110-verified-partial-v1';
+    script.src = '/site-traffic-daily-kline-v1.js?v=20261110-verified-partial-v1';
     script.setAttribute('data-qily-daily-kline', 'v1');
     (d.head || d.documentElement).appendChild(script);
   }
 
+  function init() {
+    if (!d.body) return;
+    if (isInternational) {
+      applyInternationalOnlyPanel();
+      loadIntlDailyKline();
+      trackIntlPageview();
+      if (d.querySelector('[data-qily-traffic-stats="v1"]')) {
+        w.setInterval(function () {
+          if (!d.hidden) readIntlCount();
+        }, 60000);
+        d.addEventListener('visibilitychange', function () {
+          if (!d.hidden) readIntlCount();
+        });
+      }
+      return;
+    }
+    // Preserve the current China-site behavior; its deployment remains out of scope.
+    ensureTracker();
+    loadCounterApi();
+    if (!d.querySelector('[data-qily-traffic-stats="v1"]')) return;
+    w.setTimeout(refreshAll, 1500);
+    w.setInterval(function () {
+      if (!d.hidden) refreshActive();
+    }, 60000);
+    w.setInterval(function () {
+      if (!d.hidden) refreshTotals();
+    }, 300000);
+    d.addEventListener('visibilitychange', function () {
+      if (!d.hidden) refreshActive();
+    });
+  }
 
-function init(){
-if(!d.body)return;
-applyChinaOnlyPanel();
-loadCnDailyKline();
-trackCnPageview();
-if(d.querySelector('#traffic[data-qily-traffic-stats="v1"]')){
-w.setInterval(function(){if(!d.hidden)readCnCount();},60000);
-d.addEventListener('visibilitychange',function(){if(!d.hidden)readCnCount();});
-}
-}
-if(d.readyState==='loading')d.addEventListener('DOMContentLoaded',init,{once:true});
-else init();
-})(document,window);
+  if (d.readyState === 'loading') {
+    d.addEventListener('DOMContentLoaded', init, { once: true });
+  } else {
+    init();
+  }
+})(document, window);
