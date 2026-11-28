@@ -1,0 +1,83 @@
+/* QILY-MOBILE-VISUAL-V1 — mobile rectification, one-shot release (2026-11-27).
+   Scope: narrow screens only (<=720px / <=560px). Desktop VI untouched.
+   All rules are scoped to main[data-cn-source-content] to match site conventions.
+   Contents: (1) hero h1/kicker wrap fix — word-break:keep-all made the 22-char
+   headline one unbreakable ~600px line, cut off at 390px (Hunter's 2026-11-27
+   23:15 phone screenshots, both sites); (2) hero chips wrap; (3) diagrams never
+   exceed screen width; (4) kicker shrink at <=560px; (5) table cells tightened;
+   (6) diagram-enlarge links (.qily-diagram-enlarge, added by the wrap build):
+   tap a diagram to open the SVG full-screen, with a "点击查看大图" hint.
+   Wrap counts (audited 2026-11-27): 391 SVG imgs, 379 wrapped, 11 already in <a>,
+   1 decorative app icon excluded; CSS link added to 495 pages (2 verification
+   files have no </head> and are untouched).
+   Deploy: new file + one <link> with ?v=<SHA-12>; never edit existing CSS in place. */
+
+@media (max-width: 720px) {
+  /* 1. Hero headline + kicker must wrap on phones. */
+  html :where(main[data-cn-source-content]):is(body, main)
+    .qily-home-conversion-hero h1 {
+    word-break: normal !important;
+    overflow-wrap: break-word !important;
+    text-wrap: pretty !important;
+    max-width: 100% !important;
+  }
+  html :where(main[data-cn-source-content]):is(body, main)
+    .qily-home-conversion-hero__kicker,
+  html :where(main[data-cn-source-content]):is(body, main)
+    .qily-home-conversion-kicker {
+    white-space: normal !important;
+    overflow-wrap: break-word !important;
+  }
+  /* 2. Hero chips row must wrap instead of forcing the page wider. */
+  html :where(main[data-cn-source-content]):is(body, main)
+    .qily-home-conversion-hero__chips {
+    flex-wrap: wrap !important;
+  }
+  html :where(main[data-cn-source-content]):is(body, main)
+    .qily-home-conversion-hero__chips > span {
+    white-space: normal !important;
+  }
+  /* 3. Diagrams / figures never exceed the screen; height scales with width. */
+  html :where(main[data-cn-source-content]):is(body, main)
+    :is(img, svg, video, canvas, picture) {
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+  }
+  html :where(main[data-cn-source-content]):is(body, main)
+    :is(img, video) {
+    height: auto !important;
+  }
+  /* 6. Tappable diagrams: the wrap link opens the SVG full-screen. */
+  html :where(main[data-cn-source-content]):is(body, main)
+    a.qily-diagram-enlarge {
+    display: block !important;
+    cursor: zoom-in !important;
+  }
+  html :where(main[data-cn-source-content]):is(body, main)
+    a.qily-diagram-enlarge::after {
+    content: "点击查看大图" !important;
+    display: block !important;
+    text-align: right !important;
+    font-size: 12px !important;
+    line-height: 1.5 !important;
+    color: #0f4b5a !important;
+    margin-top: 4px !important;
+  }
+}
+
+@media (max-width: 560px) {
+  /* 4. Kicker is 20px on desktop rules; shrink so it fits two lines max. */
+  html :where(main[data-cn-source-content]):is(body, main)
+    .qily-home-conversion-hero__kicker,
+  html :where(main[data-cn-source-content]):is(body, main)
+    .qily-home-conversion-kicker {
+    font-size: 15px !important;
+    line-height: 1.5 !important;
+  }
+  /* 5. Wide tables: tighten cells so they need less horizontal scrolling. */
+  html :where(main[data-cn-source-content]):is(body, main)
+    :is(table th, table td) {
+    padding: 8px 10px !important;
+    font-size: 14px !important;
+  }
+}
